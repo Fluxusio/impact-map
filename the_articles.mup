@@ -60,7 +60,7 @@
           "id": 25,
           "attr": {
             "style": {
-              "background": "#ADFF2F"
+              "background": "#FFFF00"
             }
           }
         },
@@ -79,21 +79,34 @@
       }
     },
     "-0.15625": {
-      "title": "Sub Editors",
+      "title": "Editors",
       "id": 36,
       "attr": {
         "style": {}
       },
       "ideas": {
         "1": {
-          "title": "Edit Existing Articles",
+          "title": "Edit Articles",
           "id": 38,
+          "ideas": {}
+        },
+        "0.5": {
+          "title": "Review Articles",
+          "id": 57,
+          "attr": {
+            "position": [
+              -16,
+              -52,
+              1
+            ],
+            "style": {}
+          },
           "ideas": {}
         }
       }
     },
     "-11": {
-      "title": "Production Desk",
+      "title": "Production",
       "id": 37,
       "attr": {
         "position": [
@@ -119,12 +132,29 @@
       }
     },
     "-0.140625": {
-      "title": "Journalists",
+      "title": "Reporters",
       "id": 4,
       "ideas": {
         "1": {
-          "title": "Create Articles",
-          "id": 13
+          "title": "Write Articles",
+          "id": 13,
+          "ideas": {
+            "1": {
+              "title": "Create new Article in CMS",
+              "id": 55,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/gqdmciiq/1-cms-first-create-new-article-in-cms-write-articles"
+                },
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Edit unpublished articles in CMS",
+              "id": 56
+            }
+          }
         }
       },
       "attr": {
