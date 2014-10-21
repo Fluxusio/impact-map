@@ -57,7 +57,12 @@
       "ideas": {
         "1": {
           "title": "Create multiple layouts for testing",
-          "id": 25
+          "id": 25,
+          "attr": {
+            "style": {
+              "background": "#ADFF2F"
+            }
+          }
         },
         "2": {
           "title": "Run quantitative tests",
