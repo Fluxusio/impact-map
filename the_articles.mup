@@ -10,16 +10,31 @@
         "1": {
           "title": "View up-to-date Articles",
           "id": 21,
-          "ideas": {}
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "2": {
           "title": "Comment on articles",
-          "id": 49
+          "id": 49,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "3": {
           "title": "Rate Articles",
           "id": 50,
-          "ideas": {}
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "4": {
           "title": "Share Article",
@@ -38,8 +53,15 @@
                 "type": "with-children"
               }
             ],
-            "style": {}
+            "style": {
+              "background": "#FFFFFF"
+            }
           }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#FFFFFF"
         }
       }
     },
@@ -52,21 +74,27 @@
           122,
           5
         ],
-        "style": {}
+        "style": {
+          "background": "#FFFFFF"
+        }
       },
       "ideas": {
         "1": {
           "title": "Publish Article to website",
           "id": 45,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#FFFFFF"
+            }
           }
         },
         "2": {
           "title": "Publish Article to App",
           "id": 47,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#FFFFFF"
+            }
           }
         }
       }
@@ -80,7 +108,9 @@
           -284.5,
           3
         ],
-        "style": {}
+        "style": {
+          "background": "#FFFFFF"
+        }
       },
       "ideas": {
         "1": {
@@ -88,14 +118,19 @@
           "id": 25,
           "attr": {
             "style": {
-              "background": "#D3D3D3"
+              "background": "#FFFFFF"
             }
           }
         },
         "2": {
           "title": "Run quantitative tests",
           "id": 26,
-          "ideas": {}
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         }
       }
     },
@@ -103,22 +138,69 @@
       "title": "Editors",
       "id": 36,
       "attr": {
-        "style": {}
+        "style": {
+          "background": "#FFFFFF"
+        }
       },
       "ideas": {
         "1": {
           "title": "Edit Articles",
           "id": 38,
-          "ideas": {}
+          "ideas": {
+            "2": {
+              "title": "Create Article in CMS",
+              "id": 73,
+              "attr": {
+                "style": {
+                  "background": "#FFFFFF"
+                }
+              }
+            },
+            "3": {
+              "title": "Paste Article from Word/CMS",
+              "id": 75,
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#FFFFFF"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "2": {
           "title": "Associate with other content",
           "id": 61,
-          "ideas": {}
+          "ideas": {
+            "1": {
+              "title": "Select existing content in WV/Drupal",
+              "id": 79,
+              "attr": {
+                "style": {
+                  "background": "#FFFFFF"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "3": {
           "title": "Publish Articles",
-          "id": 70
+          "id": 70,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "0.5": {
           "title": "Review Articles",
@@ -129,7 +211,9 @@
               -52,
               1
             ],
-            "style": {}
+            "style": {
+              "background": "#FFFFFF"
+            }
           },
           "ideas": {}
         }
@@ -144,12 +228,19 @@
           176,
           4
         ],
-        "style": {}
+        "style": {
+          "background": "#FFFFFF"
+        }
       },
       "ideas": {
         "2": {
           "title": "Import Article into Indesign",
-          "id": 46
+          "id": 46,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         }
       }
     },
@@ -170,9 +261,14 @@
                   "content": "https://trello.com/c/gqdmciiq/1-cms-first-create-new-article-in-cms-write-articles"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#FFFFFF"
                 }
               }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
             }
           }
         },
@@ -184,26 +280,42 @@
               "title": "Edit unpublished articles in CMS",
               "id": 56,
               "attr": {
-                "style": {}
+                "style": {
+                  "background": "#FFFFFF"
+                }
               }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
             }
           }
         }
       },
       "attr": {
-        "style": {}
+        "style": {
+          "background": "#FFFFFF"
+        }
       }
     },
     "-0.1328125": {
       "title": "External contributors",
       "id": 63,
       "attr": {
-        "style": {}
+        "style": {
+          "background": "#FFFFFF"
+        }
       },
       "ideas": {
         "1": {
           "title": "Write articles",
-          "id": 68
+          "id": 68,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         }
       }
     }
@@ -214,7 +326,7 @@
       "Storyboard 1"
     ],
     "style": {
-      "background": "#D3D3D3"
+      "background": "#FFD700"
     }
   }
 }
