@@ -169,7 +169,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/gqdmciiq/1-cms-first-create-new-article-in-cms-write-articles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ff0000"
+                }
               }
             }
           }
