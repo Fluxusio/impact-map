@@ -1,5 +1,5 @@
 {
-  "title": " \nProduce Drupal system to publish Articles by December 19th",
+  "title": " \nProduce Drupal system to publish online by December 19th",
   "id": 1,
   "formatVersion": 2,
   "ideas": {
@@ -43,6 +43,34 @@
         }
       }
     },
+    "2": {
+      "title": "Operations",
+      "id": 59,
+      "attr": {
+        "position": [
+          185,
+          122,
+          5
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "Publish Article to website",
+          "id": 45,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Publish Article to App",
+          "id": 47,
+          "attr": {
+            "style": {}
+          }
+        }
+      }
+    },
     "-0.125": {
       "title": "Marketing Team",
       "id": 6,
@@ -68,13 +96,6 @@
           "title": "Run quantitative tests",
           "id": 26,
           "ideas": {}
-        },
-        "3": {
-          "title": "Categorise Articles for segmentation",
-          "id": 31,
-          "attr": {
-            "style": {}
-          }
         }
       }
     },
@@ -89,6 +110,15 @@
           "title": "Edit Articles",
           "id": 38,
           "ideas": {}
+        },
+        "2": {
+          "title": "Associate with other content",
+          "id": 61,
+          "ideas": {}
+        },
+        "3": {
+          "title": "Publish Articles",
+          "id": 70
         },
         "0.5": {
           "title": "Review Articles",
@@ -117,17 +147,9 @@
         "style": {}
       },
       "ideas": {
-        "1": {
-          "title": "Publish Article to website",
-          "id": 45
-        },
         "2": {
-          "title": "Publish Article to Indesign",
+          "title": "Import Article into Indesign",
           "id": 46
-        },
-        "3": {
-          "title": "Publish Article to App",
-          "id": 47
         }
       }
     },
@@ -149,16 +171,38 @@
                 },
                 "style": {}
               }
-            },
-            "2": {
+            }
+          }
+        },
+        "2": {
+          "title": "Edit Articles",
+          "id": 69,
+          "ideas": {
+            "1": {
               "title": "Edit unpublished articles in CMS",
-              "id": 56
+              "id": 56,
+              "attr": {
+                "style": {}
+              }
             }
           }
         }
       },
       "attr": {
         "style": {}
+      }
+    },
+    "-0.1328125": {
+      "title": "External contributors",
+      "id": 63,
+      "attr": {
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "Write articles",
+          "id": 68
+        }
       }
     }
   },
