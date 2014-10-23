@@ -7,16 +7,6 @@
       "title": "Site Visitors",
       "id": 3,
       "ideas": {
-        "1": {
-          "title": "View up-to-date Articles",
-          "id": 21,
-          "ideas": {},
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          }
-        },
         "2": {
           "title": "Comment on articles",
           "id": 49,
@@ -57,45 +47,20 @@
               "background": "#FFFFFF"
             }
           }
-        }
-      },
-      "attr": {
-        "style": {
-          "background": "#FFFFFF"
-        }
-      }
-    },
-    "2": {
-      "title": "Operations",
-      "id": 59,
-      "attr": {
-        "position": [
-          185,
-          122,
-          5
-        ],
-        "style": {
-          "background": "#FFFFFF"
-        }
-      },
-      "ideas": {
-        "1": {
-          "title": "Publish Article to website",
-          "id": 45,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          }
         },
-        "2": {
-          "title": "Publish Article to App",
-          "id": 47,
+        "5": {
+          "title": "View my old comments",
+          "id": 90,
           "attr": {
             "style": {
               "background": "#FFFFFF"
             }
           }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ADD8E6"
         }
       }
     },
@@ -105,7 +70,31 @@
       "ideas": {
         "1": {
           "title": "Get Images from Shutterstock",
-          "id": 84
+          "id": 84,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
+        },
+        "2": {
+          "title": "Add Image Credits",
+          "id": 99
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ADD8E6"
+        }
+      }
+    },
+    "4": {
+      "title": "Google",
+      "id": 92,
+      "ideas": {},
+      "attr": {
+        "style": {
+          "background": "#ADD8E6"
         }
       }
     },
@@ -114,12 +103,12 @@
       "id": 6,
       "attr": {
         "position": [
-          143,
-          -284.5,
-          3
+          148,
+          -300,
+          1
         ],
         "style": {
-          "background": "#FFFFFF"
+          "background": "#ADD8E6"
         }
       },
       "ideas": {
@@ -141,6 +130,33 @@
               "background": "#FFFFFF"
             }
           }
+        },
+        "3": {
+          "title": "Display adverts on Breaking News page",
+          "id": 95,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
+        },
+        "4": {
+          "title": "Display featured jobs on Breaking News page",
+          "id": 96,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
+        },
+        "5": {
+          "title": "Display top stories/news links on Breaking News page",
+          "id": 97,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         }
       }
     },
@@ -149,7 +165,7 @@
       "id": 36,
       "attr": {
         "style": {
-          "background": "#FFFFFF"
+          "background": "#ADD8E6"
         }
       },
       "ideas": {
@@ -186,17 +202,7 @@
         "2": {
           "title": "Associate Breaking News with other content",
           "id": 61,
-          "ideas": {
-            "1": {
-              "title": "Select existing content in WV/Drupal",
-              "id": 79,
-              "attr": {
-                "style": {
-                  "background": "#FFFFFF"
-                }
-              }
-            }
-          },
+          "ideas": {},
           "attr": {
             "style": {
               "background": "#FFFFFF"
@@ -214,13 +220,32 @@
           "ideas": {
             "1": {
               "title": "Publish embargoed news in future",
-              "id": 88
+              "id": 88,
+              "attr": {
+                "style": {
+                  "background": "#FFFFFF"
+                }
+              }
+            },
+            "2": {
+              "title": "Publish Breaking News immediately",
+              "id": 94,
+              "attr": {
+                "style": {
+                  "background": "#FFFFFF"
+                }
+              }
             }
           }
         },
         "4": {
           "title": "Add Images to Breaking News",
-          "id": 87
+          "id": 87,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "0.5": {
           "title": "Review/Edit Breaking News",
@@ -246,34 +271,11 @@
               -72,
               2
             ],
-            "style": {}
-          },
-          "ideas": {}
-        }
-      }
-    },
-    "-11": {
-      "title": "Production",
-      "id": 37,
-      "attr": {
-        "position": [
-          211,
-          176,
-          4
-        ],
-        "style": {
-          "background": "#FFFFFF"
-        }
-      },
-      "ideas": {
-        "2": {
-          "title": "Import Article into Indesign",
-          "id": 46,
-          "attr": {
             "style": {
               "background": "#FFFFFF"
             }
-          }
+          },
+          "ideas": {}
         }
       }
     },
@@ -328,7 +330,7 @@
       },
       "attr": {
         "style": {
-          "background": "#FFFFFF"
+          "background": "#ADD8E6"
         }
       }
     },
@@ -337,7 +339,7 @@
       "id": 63,
       "attr": {
         "style": {
-          "background": "#FFFFFF"
+          "background": "#ADD8E6"
         }
       },
       "ideas": {
@@ -352,7 +354,12 @@
         },
         "2": {
           "title": "Send Breaking news to Editors",
-          "id": 85
+          "id": 85,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         }
       }
     }
