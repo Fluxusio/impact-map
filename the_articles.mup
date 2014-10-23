@@ -1,5 +1,5 @@
 {
-  "title": " \nProduce Drupal system to publish online by December 19th",
+  "title": "Publish Breaking News through Drupal platform by Dec 19th",
   "id": 1,
   "formatVersion": 2,
   "ideas": {
@@ -99,6 +99,16 @@
         }
       }
     },
+    "3": {
+      "title": "Alex",
+      "id": 82,
+      "ideas": {
+        "1": {
+          "title": "Get Images from Shutterstock",
+          "id": 84
+        }
+      }
+    },
     "-0.125": {
       "title": "Marketing Team",
       "id": 6,
@@ -114,7 +124,7 @@
       },
       "ideas": {
         "1": {
-          "title": "Create multiple layouts for testing",
+          "title": "Display personalised content for testing",
           "id": 25,
           "attr": {
             "style": {
@@ -144,7 +154,7 @@
       },
       "ideas": {
         "1": {
-          "title": "Edit Articles",
+          "title": "Add Breaking News ",
           "id": 38,
           "ideas": {
             "2": {
@@ -174,7 +184,7 @@
           }
         },
         "2": {
-          "title": "Associate with other content",
+          "title": "Associate Breaking News with other content",
           "id": 61,
           "ideas": {
             "1": {
@@ -194,16 +204,26 @@
           }
         },
         "3": {
-          "title": "Publish Articles",
+          "title": "Publish Breaking News",
           "id": 70,
           "attr": {
             "style": {
               "background": "#FFFFFF"
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "Publish embargoed news in future",
+              "id": 88
+            }
           }
         },
+        "4": {
+          "title": "Add Images to Breaking News",
+          "id": 87
+        },
         "0.5": {
-          "title": "Review Articles",
+          "title": "Review/Edit Breaking News",
           "id": 57,
           "attr": {
             "position": [
@@ -214,6 +234,19 @@
             "style": {
               "background": "#FFFFFF"
             }
+          },
+          "ideas": {}
+        },
+        "0.25": {
+          "title": "Receive Breaking News ",
+          "id": 80,
+          "attr": {
+            "position": [
+              -94,
+              -72,
+              2
+            ],
+            "style": {}
           },
           "ideas": {}
         }
@@ -249,7 +282,7 @@
       "id": 4,
       "ideas": {
         "1": {
-          "title": "Write Articles",
+          "title": "Write Breaking News",
           "id": 13,
           "ideas": {
             "1": {
@@ -273,7 +306,7 @@
           }
         },
         "2": {
-          "title": "Edit Articles",
+          "title": "Send Breaking News to Editors",
           "id": 69,
           "ideas": {
             "1": {
@@ -300,7 +333,7 @@
       }
     },
     "-0.1328125": {
-      "title": "External contributors",
+      "title": "Contributors",
       "id": 63,
       "attr": {
         "style": {
@@ -309,13 +342,17 @@
       },
       "ideas": {
         "1": {
-          "title": "Write articles",
+          "title": "Write Breaking News",
           "id": 68,
           "attr": {
             "style": {
               "background": "#FFFFFF"
             }
           }
+        },
+        "2": {
+          "title": "Send Breaking news to Editors",
+          "id": 85
         }
       }
     }
