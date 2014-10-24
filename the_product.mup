@@ -7,17 +7,27 @@
       "title": "Analytics",
       "id": 12,
       "attr": {
-        "position": [
-          216,
-          -142.5,
-          2
-        ],
+        "icon": {
+          "url": "internal:1/b7efc30d-a599-819b-80f2-efc927edbb4f/",
+          "width": 32,
+          "height": 32,
+          "position": "left"
+        },
         "style": {}
       }
     },
     "2": {
       "title": "THE Print Production",
-      "id": 6
+      "id": 6,
+      "attr": {
+        "icon": {
+          "url": "internal:1/b7efc30d-a599-819b-80f2-efc927edbb4f/",
+          "width": 32,
+          "height": 32,
+          "position": "left"
+        },
+        "style": {}
+      }
     },
     "4": {
       "title": "Google",
@@ -39,6 +49,15 @@
     "-1": {
       "title": "Content Creators",
       "id": 5,
+      "attr": {
+        "icon": {
+          "url": "internal:1/b7efc30d-a599-819b-80f2-efc927edbb4f/",
+          "width": 32,
+          "height": 32,
+          "position": "left"
+        },
+        "style": {}
+      },
       "ideas": {
         "1": {
           "title": "Write Articles",
@@ -58,17 +77,27 @@
     "-2": {
       "title": "Editors",
       "id": 8,
-      "ideas": {}
+      "ideas": {},
+      "attr": {
+        "icon": {
+          "url": "internal:1/b7efc30d-a599-819b-80f2-efc927edbb4f/",
+          "width": 32,
+          "height": 32,
+          "position": "left"
+        },
+        "style": {}
+      }
     },
     "-13": {
       "title": "Marketing",
       "id": 11,
       "attr": {
-        "position": [
-          201,
-          153.5,
-          1
-        ],
+        "icon": {
+          "url": "internal:1/b7efc30d-a599-819b-80f2-efc927edbb4f/",
+          "width": 32,
+          "height": 32,
+          "position": "left"
+        },
         "style": {}
       }
     }
