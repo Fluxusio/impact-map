@@ -1,0 +1,53 @@
+{
+  "title": "Build new international THE product",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Analytics",
+      "id": 12,
+      "attr": {
+        "position": [
+          216,
+          -142.5,
+          2
+        ],
+        "style": {}
+      }
+    },
+    "2": {
+      "title": "THE Print Production",
+      "id": 6
+    },
+    "4": {
+      "title": "Google",
+      "id": 14
+    },
+    "14": {
+      "title": "Users",
+      "id": 15
+    },
+    "-1": {
+      "title": "Content Creators",
+      "id": 5
+    },
+    "-2": {
+      "title": "Editors",
+      "id": 8,
+      "ideas": {}
+    },
+    "-13": {
+      "title": "Marketing",
+      "id": 11,
+      "attr": {
+        "position": [
+          201,
+          153.5,
+          1
+        ],
+        "style": {}
+      }
+    }
+  },
+  "links": []
+}
