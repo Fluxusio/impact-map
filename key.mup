@@ -1,455 +1,10 @@
 {
-  "title": "Build new international THE product",
+  "title": "Goal:\nMeasureable Business Value\n",
   "id": 1,
   "formatVersion": 2,
   "ideas": {
-    "4": {
-      "title": "Google",
-      "id": 14,
-      "attr": {
-        "style": {
-          "background": "#ADD8E6"
-        },
-        "icon": {
-          "url": "internal:2/30ccc9b3-9078-ab24-ad6f-deedccd27096/",
-          "width": 32,
-          "height": 32,
-          "position": "left"
-        },
-        "position": [
-          305,
-          -78,
-          12
-        ]
-      },
-      "ideas": {
-        "1": {
-          "title": "Index Content",
-          "id": 39,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "SEO",
-              "id": 54
-            }
-          }
-        }
-      }
-    },
-    "24": {
-      "title": "Analytics",
-      "id": 12,
-      "attr": {
-        "icon": {
-          "url": "internal:1/b7efc30d-a599-819b-80f2-efc927edbb4f/",
-          "width": 32,
-          "height": 32,
-          "position": "left"
-        },
-        "style": {
-          "background": "#ADD8E6"
-        },
-        "position": [
-          313,
-          96,
-          18
-        ]
-      },
-      "ideas": {
-        "1": {
-          "title": "Impression Stats",
-          "id": 40,
-          "ideas": {
-            "1": {
-              "title": "Omniture",
-              "id": 69,
-              "ideas": {}
-            },
-            "2": {
-              "title": "Google Analytics",
-              "id": 71
-            }
-          },
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          }
-        },
-        "2": {
-          "title": "Activity Stats",
-          "id": 42,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "Google Analytics",
-              "id": 74
-            },
-            "2": {
-              "title": "Omniture",
-              "id": 75
-            }
-          }
-        },
-        "3": {
-          "title": "Comment Statistics",
-          "id": 43,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "Drupal",
-              "id": 76
-            },
-            "2": {
-              "title": "Google Analytics",
-              "id": 77
-            },
-            "3": {
-              "title": "Omniture",
-              "id": 78
-            }
-          }
-        },
-        "4": {
-          "title": "User Rating Statistics",
-          "id": 44,
-          "ideas": {
-            "1": {
-              "title": "Drupal",
-              "id": 79
-            },
-            "2": {
-              "title": "Google Analytics",
-              "id": 80
-            },
-            "3": {
-              "title": "Omniture",
-              "id": 81
-            }
-          },
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          }
-        }
-      }
-    },
-    "0.75": {
-      "title": "Marketing",
-      "id": 11,
-      "attr": {
-        "icon": {
-          "url": "internal:1/b7efc30d-a599-819b-80f2-efc927edbb4f/",
-          "width": 32,
-          "height": 32,
-          "position": "left"
-        },
-        "style": {
-          "background": "#ADD8E6"
-        },
-        "position": [
-          380,
-          -336,
-          11
-        ]
-      },
-      "ideas": {
-        "1": {
-          "title": "Run Qualitative Tests",
-          "id": 34,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          }
-        },
-        "2": {
-          "title": "Run Quantitative Tests",
-          "id": 35,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "Google Experiments",
-              "id": 67
-            },
-            "2": {
-              "title": "Context-aware CMS",
-              "id": 68
-            }
-          }
-        },
-        "3": {
-          "title": "Place Adverts",
-          "id": 36,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          }
-        },
-        "4": {
-          "title": "Design Layouts",
-          "id": 37,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          }
-        },
-        "5": {
-          "title": "Add External Feeds to Pages",
-          "id": 52,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          }
-        }
-      }
-    },
-    "-11": {
-      "title": "Users",
-      "id": 15,
-      "attr": {
-        "icon": {
-          "url": "internal:1/b7efc30d-a599-819b-80f2-efc927edbb4f/",
-          "width": 32,
-          "height": 32,
-          "position": "left"
-        },
-        "style": {
-          "background": "#ADD8E6"
-        },
-        "position": [
-          441,
-          -96,
-          17
-        ]
-      },
-      "ideas": {
-        "1": {
-          "title": "Rate Articles",
-          "id": 46,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          },
-          "ideas": {}
-        },
-        "2": {
-          "title": "Share Articles",
-          "id": 47,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          }
-        },
-        "3": {
-          "title": "View Related Content",
-          "id": 48,
-          "ideas": {},
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          }
-        },
-        "4": {
-          "title": "Comment on Articles",
-          "id": 50,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          }
-        },
-        "5": {
-          "title": "Search for Articles",
-          "id": 53,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          }
-        },
-        "6": {
-          "title": "View Comments",
-          "id": 83,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          }
-        },
-        "7": {
-          "title": "View Rating",
-          "id": 84,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          }
-        }
-      }
-    },
-    "-0.25": {
-      "title": "Editors",
-      "id": 8,
-      "ideas": {
-        "1": {
-          "title": "Receive Articles from Reporters",
-          "id": 23,
-          "ideas": {},
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          }
-        },
-        "2": {
-          "title": "Publish Articles Immediately",
-          "id": 25,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          }
-        },
-        "3": {
-          "title": "Publish Articles in Future",
-          "id": 26,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          }
-        },
-        "4": {
-          "title": "Group Articles by Content",
-          "id": 32,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          }
-        },
-        "1.5": {
-          "title": "Approve Articles",
-          "id": 28,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          }
-        },
-        "1.25": {
-          "title": "Reject Articles",
-          "id": 30,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          }
-        },
-        "1.75": {
-          "title": "Add Images to Articles",
-          "id": 27,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          }
-        },
-        "1.875": {
-          "title": "Add Credits/Bylines",
-          "id": 31,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          }
-        }
-      },
-      "attr": {
-        "icon": {
-          "url": "internal:1/b7efc30d-a599-819b-80f2-efc927edbb4f/",
-          "width": 32,
-          "height": 32,
-          "position": "left"
-        },
-        "style": {
-          "background": "#ADD8E6"
-        },
-        "position": [
-          651,
-          -402,
-          15
-        ]
-      }
-    },
-    "0.375": {
-      "title": "THE Print Production",
-      "id": 6,
-      "attr": {
-        "icon": {
-          "url": "internal:1/b7efc30d-a599-819b-80f2-efc927edbb4f/",
-          "width": 32,
-          "height": 32,
-          "position": "left"
-        },
-        "style": {
-          "background": "#ADD8E6"
-        },
-        "position": [
-          58,
-          -555,
-          14
-        ]
-      },
-      "ideas": {
-        "1": {
-          "title": "Use Article in Magazine",
-          "id": 20,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "Export to InDesign button",
-              "id": 64,
-              "ideas": {}
-            },
-            "2": {
-              "title": "Cut and Paste",
-              "id": 66
-            }
-          }
-        }
-      }
-    },
-    "-0.125": {
-      "title": "Content Creators",
+    "10": {
+      "title": "Actor (can help or prevent the goal)",
       "id": 5,
       "attr": {
         "icon": {
@@ -460,16 +15,11 @@
         },
         "style": {
           "background": "#ADD8E6"
-        },
-        "position": [
-          180,
-          -528,
-          16
-        ]
+        }
       },
       "ideas": {
         "1": {
-          "title": "Write Articles",
+          "title": "Impact (Change in Actor's behaviour)",
           "id": 17,
           "attr": {
             "style": {
@@ -478,58 +28,50 @@
           },
           "ideas": {
             "1": {
-              "title": "Login to CMS",
+              "title": "Deliverable (to support the Impact)",
               "id": 56,
-              "ideas": {}
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#FFFFFF"
+                }
+              }
             },
             "2": {
-              "title": "Create Copy in CMS",
-              "id": 57
-            }
-          }
-        },
-        "2": {
-          "title": "Approve Own Articles",
-          "id": 18,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "Use workflow to give approval",
-              "id": 62
-            }
-          }
-        },
-        "1.5": {
-          "title": "Edit Own Articles",
-          "id": 19,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "Find own articles",
-              "id": 61
-            }
-          }
-        },
-        "1.25": {
-          "title": "Send Article to Editor",
-          "id": 21,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "Use workflow to notify Editor",
-              "id": 63
+              "title": "In Progress",
+              "id": 66,
+              "attr": {
+                "style": {
+                  "background": "#FFB6C1"
+                }
+              }
+            },
+            "3": {
+              "title": "Delivered",
+              "id": 67,
+              "attr": {
+                "style": {
+                  "background": "#008000"
+                }
+              }
+            },
+            "4": {
+              "title": "Out of Scope",
+              "id": 71,
+              "attr": {
+                "style": {
+                  "background": "#A9A9A9"
+                }
+              }
+            },
+            "2.5": {
+              "title": "In Review",
+              "id": 69,
+              "attr": {
+                "style": {
+                  "background": "#FFFF00"
+                }
+              }
             }
           }
         }
