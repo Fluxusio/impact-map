@@ -25,7 +25,16 @@
     },
     "14": {
       "title": "Users",
-      "id": 15
+      "id": 15,
+      "attr": {
+        "icon": {
+          "url": "internal:1/b7efc30d-a599-819b-80f2-efc927edbb4f/",
+          "width": 32,
+          "height": 32,
+          "position": "left"
+        },
+        "style": {}
+      }
     },
     "-1": {
       "title": "Content Creators",
