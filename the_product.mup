@@ -25,7 +25,12 @@
       "ideas": {
         "1": {
           "title": "Index Content",
-          "id": 39
+          "id": 39,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         }
       }
     },
@@ -52,20 +57,40 @@
         "1": {
           "title": "Impression Stats",
           "id": 40,
-          "ideas": {}
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "2": {
           "title": "Activity Stats",
-          "id": 42
+          "id": 42,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "3": {
           "title": "Comment Statistics",
-          "id": 43
+          "id": 43,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "4": {
           "title": "User Rating Statistics",
           "id": 44,
-          "ideas": {}
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         }
       }
     },
@@ -91,23 +116,48 @@
       "ideas": {
         "1": {
           "title": "Run Qualitative Tests",
-          "id": 34
+          "id": 34,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "2": {
           "title": "Run Quantitative Tests",
-          "id": 35
+          "id": 35,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "3": {
           "title": "Place Adverts",
-          "id": 36
+          "id": 36,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "4": {
           "title": "Design Layouts",
-          "id": 37
+          "id": 37,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "5": {
           "title": "Add External Feeds to Pages",
-          "id": 52
+          "id": 52,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         }
       }
     },
@@ -133,24 +183,49 @@
       "ideas": {
         "1": {
           "title": "Rate Articles",
-          "id": 46
+          "id": 46,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "2": {
           "title": "Share Articles",
-          "id": 47
+          "id": 47,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "3": {
           "title": "View Related Content",
           "id": 48,
-          "ideas": {}
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "4": {
           "title": "Comment on Articles",
-          "id": 50
+          "id": 50,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "5": {
           "title": "Search for Articles",
-          "id": 53
+          "id": 53,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         }
       }
     },
@@ -161,46 +236,74 @@
         "1": {
           "title": "Receive Articles from Reporters",
           "id": 23,
-          "ideas": {}
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "2": {
           "title": "Publish Articles Immediately",
-          "id": 25
+          "id": 25,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "3": {
           "title": "Publish Articles in Future",
-          "id": 26
+          "id": 26,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "4": {
           "title": "Group Articles by Content",
-          "id": 32
+          "id": 32,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "1.5": {
           "title": "Approve Articles",
           "id": 28,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#FFFFFF"
+            }
           }
         },
         "1.25": {
           "title": "Reject Articles",
           "id": 30,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#FFFFFF"
+            }
           }
         },
         "1.75": {
           "title": "Add Images to Articles",
           "id": 27,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#FFFFFF"
+            }
           }
         },
         "1.875": {
           "title": "Add Credits/Bylines",
           "id": 31,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#FFFFFF"
+            }
           }
         }
       },
@@ -243,7 +346,12 @@
       "ideas": {
         "1": {
           "title": "Use Article in Magazine",
-          "id": 20
+          "id": 20,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         }
       }
     },
@@ -269,24 +377,38 @@
       "ideas": {
         "1": {
           "title": "Write Articles",
-          "id": 17
+          "id": 17,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "2": {
           "title": "Approve Own Articles",
-          "id": 18
+          "id": 18,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         },
         "1.5": {
           "title": "Edit Own Articles",
           "id": 19,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#FFFFFF"
+            }
           }
         },
         "1.25": {
           "title": "Send Article to Editor",
           "id": 21,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#FFFFFF"
+            }
           }
         }
       }
