@@ -169,7 +169,7 @@
           }
         },
         "4": {
-          "title": "Design Layouts",
+          "title": "Apply Layouts to Page",
           "id": 37,
           "attr": {
             "style": {
@@ -178,9 +178,17 @@
           },
           "ideas": {
             "1": {
-              "title": "Create layouts",
+              "title": "Create layout",
               "id": 94,
               "ideas": {}
+            },
+            "2": {
+              "title": "Assign content to layout",
+              "id": 120
+            },
+            "3": {
+              "title": "Assign feeds to layout",
+              "id": 121
             }
           }
         },
@@ -190,6 +198,13 @@
           "attr": {
             "style": {
               "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Integrate with ",
+              "id": 124,
+              "ideas": {}
             }
           }
         }
@@ -237,6 +252,12 @@
             "style": {
               "background": "#FFFFFF"
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "Expose Articles to Webvision Search",
+              "id": 122
+            }
           }
         },
         "8": {
@@ -244,7 +265,7 @@
           "id": 90,
           "ideas": {
             "1": {
-              "title": "Rate Articles",
+              "title": "Rate Articles without logging in",
               "id": 46,
               "attr": {
                 "style": {
@@ -355,6 +376,10 @@
             "4": {
               "title": "Tag Articles with Segment terms",
               "id": 113
+            },
+            "5": {
+              "title": "Tag Artciels with Discipline terms",
+              "id": 118
             }
           }
         },
@@ -494,7 +519,7 @@
           },
           "ideas": {
             "1": {
-              "title": "Authenticate in CMS",
+              "title": "Authenticate User in CMS     ",
               "id": 56,
               "ideas": {}
             },
@@ -546,6 +571,10 @@
             "1": {
               "title": "Use workflow to notify Editor",
               "id": 63
+            },
+            "2": {
+              "title": "Email",
+              "id": 119
             }
           }
         }
