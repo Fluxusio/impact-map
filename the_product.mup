@@ -543,7 +543,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/MFrjyjml/3-the-create-article-in-cms-write-articles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             },
             "3": {
