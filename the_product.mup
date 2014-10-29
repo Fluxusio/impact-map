@@ -537,7 +537,14 @@
             },
             "2": {
               "title": "Create Article in CMS ",
-              "id": 57
+              "id": 57,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/MFrjyjml/3-the-create-article-in-cms-write-articles"
+                },
+                "style": {}
+              }
             },
             "3": {
               "title": "Import Article from External Feed",
