@@ -67,7 +67,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/M5QOiByK/2-the-setup-google-experiments-run-quantitative-tests"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             },
             "2": {
@@ -524,7 +526,9 @@
               "id": 56,
               "ideas": {},
               "attr": {
-                "style": {},
+                "style": {
+                  "background": "#ffff00"
+                },
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Au2Ju2a1/1-the-authenticate-user-in-cms-write-article"
