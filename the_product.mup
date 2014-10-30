@@ -552,7 +552,7 @@
               "ideas": {},
               "attr": {
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#FFB6C1"
                 },
                 "attachment": {
                   "contentType": "text/html",
@@ -569,7 +569,7 @@
                   "content": "https://trello.com/c/MFrjyjml/3-the-create-article-in-cms-write-articles"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#FFB6C1"
                 }
               }
             },
