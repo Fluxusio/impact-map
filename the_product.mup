@@ -182,11 +182,13 @@
           "ideas": {
             "1": {
               "title": "Publish Article in Future",
-              "id": 135
+              "id": 135,
+              "attachment": "https://trello.com/c/miRiNdmZ/11-publish-article-in-future"
             },
             "2": {
               "title": "Publish Article Immediately",
-              "id": 136
+              "id": 136,
+              "attachment": "https://trello.com/c/ANwdq7FA/12-publish-article-immediately"
             }
           }
         },
@@ -201,7 +203,8 @@
           "ideas": {
             "1": {
               "title": "Unpublish Article Immediately",
-              "id": 137
+              "id": 137,
+              "attachment": "https://trello.com/c/B2olbEwY/13-unpublish-article-immediately"
             }
           }
         },
@@ -223,7 +226,8 @@
               "id": 106,
               "attr": {
                 "style": {}
-              }
+              },
+              "attachment": "https://trello.com/c/0cgJdvwy/15-tag-articles-with-geographic-terms"
             },
             "4": {
               "title": "Tag Articles with Segment terms",
@@ -265,7 +269,8 @@
           "ideas": {
             "1": {
               "title": "Add Images from Library",
-              "id": 98
+              "id": 98,
+              "attachment": "https://trello.com/c/goOx3lJP/14-add-images-from-library"
             },
             "2": {
               "title": "Add Shutterstock images to Library",
@@ -600,7 +605,8 @@
           "ideas": {
             "1": {
               "title": "Find own articles",
-              "id": 61
+              "id": 61,
+              "attachment": "https://trello.com/c/NfKWRvHF/10-find-own-articles"
             }
           }
         },
