@@ -125,6 +125,26 @@
               "ideas": {}
             }
           }
+        },
+        "7": {
+          "title": "Integrate with existing website",
+          "id": 140,
+          "ideas": {
+            "1": {
+              "title": "Expose content to webvision",
+              "id": 141,
+              "ideas": {}
+            },
+            "2": {
+              "title": "Include content from webvision",
+              "id": 143
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         }
       }
     },
