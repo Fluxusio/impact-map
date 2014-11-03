@@ -183,12 +183,22 @@
             "1": {
               "title": "Publish Article in Future",
               "id": 135,
-              "attachment": "https://trello.com/c/miRiNdmZ/11-publish-article-in-future"
+              "attachment": "https://trello.com/c/miRiNdmZ/11-publish-article-in-future",
+              "attr": {
+                "style": {}
+              }
             },
             "2": {
               "title": "Publish Article Immediately",
               "id": 136,
-              "attachment": "https://trello.com/c/ANwdq7FA/12-publish-article-immediately"
+              "attachment": "https://trello.com/c/ANwdq7FA/12-publish-article-immediately",
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/ANwdq7FA/12-the-publish-article-immediately-publish-article"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -204,7 +214,14 @@
             "1": {
               "title": "Unpublish Article Immediately",
               "id": 137,
-              "attachment": "https://trello.com/c/B2olbEwY/13-unpublish-article-immediately"
+              "attachment": "https://trello.com/c/B2olbEwY/13-unpublish-article-immediately",
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/B2olbEwY/13-the-unpublish-article-immediately-unpublish-article"
+                },
+                "style": {}
+              }
             }
           }
         },
