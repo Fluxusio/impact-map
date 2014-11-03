@@ -68,7 +68,7 @@
                   "content": "https://trello.com/c/M5QOiByK/2-the-setup-google-experiments-run-quantitative-tests"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#CCFF99"
                 }
               }
             },
@@ -197,7 +197,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/ANwdq7FA/12-the-publish-article-immediately-publish-article"
                 },
-                "style": {}
+                "style": {
+                  "background": "#CCFF99"
+                }
               }
             }
           }
@@ -220,7 +222,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/B2olbEwY/13-the-unpublish-article-immediately-unpublish-article"
                 },
-                "style": {}
+                "style": {
+                  "background": "#CCFF99"
+                }
               }
             }
           }
@@ -569,7 +573,7 @@
               "ideas": {},
               "attr": {
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#CCFF99"
                 },
                 "attachment": {
                   "contentType": "text/html",
