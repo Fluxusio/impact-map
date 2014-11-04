@@ -185,7 +185,9 @@
               "id": 135,
               "attachment": "https://trello.com/c/miRiNdmZ/11-publish-article-in-future",
               "attr": {
-                "style": {},
+                "style": {
+                  "background": "#ffff00"
+                },
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/miRiNdmZ/11-the-publish-article-in-future-publish-article"
