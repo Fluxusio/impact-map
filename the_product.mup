@@ -90,7 +90,8 @@
             "1": {
               "title": "Create layout",
               "id": 94,
-              "ideas": {}
+              "ideas": {},
+              "attachment": "https://trello.com/c/cy49xE14/20-create-layout"
             },
             "3": {
               "title": "Assign dynamic content to page layout",
@@ -306,7 +307,8 @@
             },
             "3": {
               "title": "Add Youtube and Vimeo Videos",
-              "id": 100
+              "id": 100,
+              "attachment": "https://trello.com/c/9lBccnZb/21-add-youtube-and-vimeo-videos"
             },
             "4": {
               "title": "Add Credits to Multimedia Assets",
