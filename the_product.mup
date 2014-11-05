@@ -88,7 +88,7 @@
           },
           "ideas": {
             "1": {
-              "title": "Create layout",
+              "title": "Create layout for Breaking News",
               "id": 94,
               "ideas": {},
               "attachment": "https://trello.com/c/cy49xE14/20-create-layout"
@@ -106,8 +106,8 @@
               "id": 134
             },
             "6": {
-              "title": "Assign related Articles to page layout",
-              "id": 138
+              "title": "Create layout for Channel Page",
+              "id": 147
             }
           }
         },
@@ -265,6 +265,25 @@
             "5": {
               "title": "Tag Articies with Discipline terms",
               "id": 118
+            }
+          }
+        },
+        "5": {
+          "title": "Add Text to Articles",
+          "id": 144,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Add Standfirst",
+              "id": 145
+            },
+            "2": {
+              "title": "Add Pull quotes",
+              "id": 146
             }
           }
         },
