@@ -321,7 +321,14 @@
             "1": {
               "title": "Add Images from Library",
               "id": 98,
-              "attachment": "https://trello.com/c/9Dr9Jjqc/16-add-images-from-library"
+              "attachment": "https://trello.com/c/9Dr9Jjqc/16-add-images-from-library",
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/goOx3lJP/14-the-add-images-from-library-add-multimedia-to-articles"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Add Shutterstock images to Library",
