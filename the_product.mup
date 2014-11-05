@@ -327,7 +327,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/goOx3lJP/14-the-add-images-from-library-add-multimedia-to-articles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             },
             "2": {
