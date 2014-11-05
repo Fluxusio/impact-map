@@ -674,7 +674,14 @@
           "ideas": {
             "1": {
               "title": "Use workflow to notify Editor",
-              "id": 63
+              "id": 63,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/sjJzPFSa/9-the-use-workflow-to-notify-editor-send-article-to-editor"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Email",
