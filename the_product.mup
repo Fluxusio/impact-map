@@ -95,7 +95,8 @@
             },
             "3": {
               "title": "Assign dynamic content to page layout",
-              "id": 132
+              "id": 132,
+              "attachment": "https://trello.com/c/pDI2KDdy/22-assign-dynamic-content-to-page-layout"
             },
             "4": {
               "title": "Assign static content to page layout",
@@ -279,11 +280,13 @@
           "ideas": {
             "1": {
               "title": "Add Standfirst",
-              "id": 145
+              "id": 145,
+              "attachment": "https://trello.com/c/s5GoaUfD/23-add-standfirst"
             },
             "2": {
               "title": "Add Pull quotes",
-              "id": 146
+              "id": 146,
+              "attachment": "https://trello.com/c/2AeqEmG9/24-add-pull-quotes"
             }
           }
         },
