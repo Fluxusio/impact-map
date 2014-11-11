@@ -113,7 +113,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/pDI2KDdy/22-the-assign-static-content-to-page-layout-design-page-templates"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             },
             "5": {
@@ -220,7 +222,7 @@
                   "content": "https://trello.com/c/ANwdq7FA/12-the-publish-article-immediately-publish-article"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#CCFF99"
                 }
               }
             }
@@ -245,7 +247,7 @@
                   "content": "https://trello.com/c/B2olbEwY/13-the-unpublish-article-immediately-unpublish-article"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#CCFF99"
                 }
               }
             }
@@ -268,7 +270,9 @@
               "title": "Tag Articles with Geographic terms",
               "id": 106,
               "attr": {
-                "style": {},
+                "style": {
+                  "background": "#FFB6C1"
+                },
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/0cgJdvwy/15-the-tag-articles-with-geographic-terms-associate-articles-with-other-articles"
@@ -360,7 +364,7 @@
                   "content": "https://trello.com/c/goOx3lJP/14-the-add-images-from-library-add-multimedia-to-articles"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#CCFF99"
                 }
               }
             },
