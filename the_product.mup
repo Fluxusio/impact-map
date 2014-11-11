@@ -91,7 +91,14 @@
               "title": "Create layout for Breaking News",
               "id": 94,
               "ideas": {},
-              "attachment": "https://trello.com/c/cy49xE14/20-create-layout"
+              "attachment": "https://trello.com/c/cy49xE14/20-create-layout",
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/cy49xE14/20-the-create-layout-design-page-templates"
+                },
+                "style": {}
+              }
             },
             "3": {
               "title": "Assign dynamic content to page layout",
@@ -100,7 +107,14 @@
             },
             "4": {
               "title": "Assign static content to page layout",
-              "id": 133
+              "id": 133,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/pDI2KDdy/22-the-assign-static-content-to-page-layout-design-page-templates"
+                },
+                "style": {}
+              }
             },
             "5": {
               "title": "Add display ads to page layout",
@@ -254,14 +268,25 @@
               "title": "Tag Articles with Geographic terms",
               "id": 106,
               "attr": {
-                "style": {}
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/0cgJdvwy/15-the-tag-articles-with-geographic-terms-associate-articles-with-other-articles"
+                }
               },
               "attachment": "https://trello.com/c/GNe71z1E/18-tag-articles-with-geographic-terms"
             },
             "4": {
               "title": "Tag Articles with Policy terms",
               "id": 113,
-              "attachment": "https://trello.com/c/3ucIzu1G/19-tag-articles-with-policy-terms"
+              "attachment": "https://trello.com/c/3ucIzu1G/19-tag-articles-with-policy-terms",
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/3ucIzu1G/19-the-tag-articles-with-policy-terms-associate-articles-with-other-content"
+                },
+                "style": {}
+              }
             },
             "5": {
               "title": "Tag Articies with Discipline terms",
@@ -286,7 +311,14 @@
             "2": {
               "title": "Add Pull quotes",
               "id": 146,
-              "attachment": "https://trello.com/c/2AeqEmG9/24-add-pull-quotes"
+              "attachment": "https://trello.com/c/2AeqEmG9/24-add-pull-quotes",
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/2AeqEmG9/24-the-add-pull-quotes-add-text-to-articles"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -339,12 +371,26 @@
             "3": {
               "title": "Add Youtube and Vimeo Videos",
               "id": 100,
-              "attachment": "https://trello.com/c/9lBccnZb/21-add-youtube-and-vimeo-videos"
+              "attachment": "https://trello.com/c/9lBccnZb/21-add-youtube-and-vimeo-videos",
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/9lBccnZb/21-the-add-youtube-and-vimeo-videos-add-multimedia-to-articles"
+                },
+                "style": {}
+              }
             },
             "4": {
               "title": "Add Credits to Multimedia Assets",
               "id": 101,
-              "attachment": "https://trello.com/c/Gocx1dsx/17-add-credits-to-multimedia-assets"
+              "attachment": "https://trello.com/c/Gocx1dsx/17-add-credits-to-multimedia-assets",
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/Gocx1dsx/17-the-add-credits-to-multimedia-assets-add-multimedia-to-articles"
+                },
+                "style": {}
+              }
             }
           }
         }
