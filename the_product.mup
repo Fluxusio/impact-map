@@ -204,7 +204,7 @@
               "attachment": "https://trello.com/c/miRiNdmZ/11-publish-article-in-future",
               "attr": {
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#FFB6C1"
                 },
                 "attachment": {
                   "contentType": "text/html",
@@ -271,7 +271,7 @@
               "id": 106,
               "attr": {
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 },
                 "attachment": {
                   "contentType": "text/html",
@@ -289,7 +289,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/3ucIzu1G/19-the-tag-articles-with-policy-terms-associate-articles-with-other-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             },
             "5": {
