@@ -315,7 +315,14 @@
             },
             "5": {
               "title": "Tag Articles with Discipline terms",
-              "id": 118
+              "id": 118,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/llaLNUzO/25-the-tag-articles-with-discipline-terms-associate-articles-with-other-content"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -362,7 +369,14 @@
             },
             "2": {
               "title": "Reject - send back with comments",
-              "id": 97
+              "id": 97,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/lsaCLkNV/26-the-reject-send-back-with-comments-workflow-articles"
+                },
+                "style": {}
+              }
             }
           }
         },
