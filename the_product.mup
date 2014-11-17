@@ -251,7 +251,7 @@
                   "content": "https://trello.com/c/ANwdq7FA/12-the-publish-article-immediately-publish-article"
                 },
                 "style": {
-                  "background": "#CCFF99"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -276,7 +276,7 @@
                   "content": "https://trello.com/c/B2olbEwY/13-the-unpublish-article-immediately-unpublish-article"
                 },
                 "style": {
-                  "background": "#CCFF99"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -422,7 +422,7 @@
                   "content": "https://trello.com/c/goOx3lJP/14-the-add-images-from-library-add-multimedia-to-articles"
                 },
                 "style": {
-                  "background": "#CCFF99"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -742,7 +742,7 @@
               "ideas": {},
               "attr": {
                 "style": {
-                  "background": "#CCFF99"
+                  "background": "#ffff00"
                 },
                 "attachment": {
                   "contentType": "text/html",
