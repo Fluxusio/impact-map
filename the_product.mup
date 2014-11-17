@@ -124,7 +124,7 @@
                   "content": "https://trello.com/c/pDI2KDdy/22-the-assign-static-content-to-page-layout-design-page-templates"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -206,7 +206,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/3buJAye2/29-the-editor-receives-notification-via-drupal-workflow-receive-articles-from-reporters"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             }
           },
@@ -329,7 +331,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/llaLNUzO/25-the-tag-articles-with-discipline-terms-associate-articles-with-other-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             }
           }
@@ -352,7 +356,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/s5GoaUfD/23-the-add-standfirst-add-text-to-articles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             },
             "2": {
@@ -390,7 +396,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/lsaCLkNV/26-the-reject-send-back-with-comments-workflow-articles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             }
           }
@@ -751,7 +759,7 @@
                   "content": "https://trello.com/c/MFrjyjml/3-the-create-article-in-cms-write-articles"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -775,7 +783,9 @@
               "id": 61,
               "attachment": "https://trello.com/c/8lUO7yoq/27-find-own-articles",
               "attr": {
-                "style": {},
+                "style": {
+                  "background": "#ffff00"
+                },
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/8lUO7yoq/27-the-find-own-articles-edit-own-articles"
