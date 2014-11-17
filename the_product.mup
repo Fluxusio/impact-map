@@ -751,7 +751,14 @@
             "1": {
               "title": "Find own articles",
               "id": 61,
-              "attachment": "https://trello.com/c/8lUO7yoq/27-find-own-articles"
+              "attachment": "https://trello.com/c/8lUO7yoq/27-find-own-articles",
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/<span class=\"x x-first x-last\">8lUO7yoq/27</span>-find-own-articles"
+                },
+                "style": {}
+              }
             }
           }
         },
