@@ -655,7 +655,12 @@
             },
             "2": {
               "title": "Cut and Paste",
-              "id": 66
+              "id": 66,
+              "attr": {
+                "style": {
+                  "background": "#000000"
+                }
+              }
             }
           }
         }
@@ -728,21 +733,6 @@
             "3": {
               "title": "Import Article from External Feed",
               "id": 131
-            }
-          }
-        },
-        "2": {
-          "title": "Approve Own Articles",
-          "id": 18,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "Use workflow to give approval",
-              "id": 62
             }
           }
         },
