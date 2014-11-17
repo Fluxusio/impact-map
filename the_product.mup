@@ -199,7 +199,8 @@
             },
             "2": {
               "title": "Drupal workflow",
-              "id": 139
+              "id": 139,
+              "attachment": "https://trello.com/c/3buJAye2/29-drupal-workflow"
             }
           },
           "attr": {
@@ -514,7 +515,8 @@
                   "background": "#D3D3D3"
                 }
               },
-              "ideas": {}
+              "ideas": {},
+              "attachment": "https://trello.com/c/eBYhl7dK/28-rate-articles-without-logging-in"
             },
             "2": {
               "title": "Share Articles on social media platforms",
@@ -550,7 +552,8 @@
                 "style": {
                   "background": "#D3D3D3"
                 }
-              }
+              },
+              "attachment": "https://trello.com/c/7VrHRwNs/30-view-rating"
             }
           },
           "attr": {
@@ -748,7 +751,7 @@
             "1": {
               "title": "Find own articles",
               "id": 61,
-              "attachment": "https://trello.com/c/NfKWRvHF/10-find-own-articles"
+              "attachment": "https://trello.com/c/8lUO7yoq/27-find-own-articles"
             }
           }
         },
