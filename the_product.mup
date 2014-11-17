@@ -233,7 +233,7 @@
               "attachment": "https://trello.com/c/miRiNdmZ/11-publish-article-in-future",
               "attr": {
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#FFFF00"
                 },
                 "attachment": {
                   "contentType": "text/html",
@@ -812,7 +812,7 @@
                   "content": "https://trello.com/c/sjJzPFSa/9-the-use-workflow-to-notify-editor-send-article-to-editor"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#FFFF00"
                 }
               }
             },
