@@ -200,7 +200,14 @@
             "2": {
               "title": "Drupal workflow",
               "id": 139,
-              "attachment": "https://trello.com/c/3buJAye2/29-drupal-workflow"
+              "attachment": "https://trello.com/c/3buJAye2/29-drupal-workflow",
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/3buJAye2/29-the-editor-receives-notification-via-drupal-workflow-receive-articles-from-reporters"
+                },
+                "style": {}
+              }
             }
           },
           "attr": {
@@ -339,7 +346,14 @@
             "1": {
               "title": "Add Standfirst",
               "id": 145,
-              "attachment": "https://trello.com/c/s5GoaUfD/23-add-standfirst"
+              "attachment": "https://trello.com/c/s5GoaUfD/23-add-standfirst",
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/s5GoaUfD/23-the-add-standfirst-add-text-to-articles"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Add Pull quotes",
@@ -513,6 +527,10 @@
               "attr": {
                 "style": {
                   "background": "#D3D3D3"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/eBYhl7dK/28-rate-articles-without-logging-in"
                 }
               },
               "ideas": {},
@@ -551,6 +569,10 @@
               "attr": {
                 "style": {
                   "background": "#D3D3D3"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/7VrHRwNs/30-view-rating"
                 }
               },
               "attachment": "https://trello.com/c/7VrHRwNs/30-view-rating"
@@ -755,7 +777,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "https://trello.com/c/8lUO7yoq/27-find-own-articles"
+                  "content": "https://trello.com/c/<span class=\"x x-first x-last\">8lUO7yoq/27</span>-find-own-articles"
                 },
                 "style": {}
               }
