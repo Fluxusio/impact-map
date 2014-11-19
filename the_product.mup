@@ -293,7 +293,14 @@
           "ideas": {
             "2": {
               "title": "Manually associate articles",
-              "id": 104
+              "id": 104,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/zmmB2fVv/32-the-manually-associate-articles-associate-articles-with-other-articles"
+                },
+                "style": {}
+              }
             },
             "3": {
               "title": "Tag Articles with Geographic terms",
