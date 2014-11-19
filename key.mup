@@ -33,7 +33,7 @@
               "ideas": {},
               "attr": {
                 "style": {
-                  "background": "#FFFFFF"
+                  "background": "#D3D3D3"
                 }
               }
             },
@@ -51,7 +51,7 @@
               "id": 67,
               "attr": {
                 "style": {
-                  "background": "#008000"
+                  "background": "#90EE90"
                 }
               }
             },
@@ -60,7 +60,23 @@
               "id": 71,
               "attr": {
                 "style": {
-                  "background": "#A9A9A9"
+                  "background": "#000000"
+                }
+              }
+            },
+            "5": {
+              "title": "Items with a paperclip will contain a link to the trello card",
+              "id": 72,
+              "attr": {
+                "position": [
+                  155.5,
+                  148,
+                  1
+                ],
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "http://trello.com/this-would-be-a-link-to-a-trello-card"
                 }
               }
             },
