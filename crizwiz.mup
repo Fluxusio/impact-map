@@ -19,6 +19,14 @@
                   "background": "#90EE90"
                 }
               }
+            },
+            "2": {
+              "title": "Answer a series of branching questions",
+              "id": 21
+            },
+            "3": {
+              "title": "Remembers answers between visits",
+              "id": 22
             }
           },
           "attr": {
@@ -69,6 +77,23 @@
                   "background": "#90EE90"
                 }
               }
+            },
+            "4": {
+              "title": "Enable creation of branching questions",
+              "id": 17,
+              "attr": {
+                "style": {
+                  "background": "#FFFF00"
+                }
+              }
+            },
+            "5": {
+              "title": "Create Section Landing Pages",
+              "id": 18
+            },
+            "6": {
+              "title": "Create Master Landing Page",
+              "id": 19
             }
           },
           "attr": {
