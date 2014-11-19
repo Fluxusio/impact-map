@@ -1,0 +1,142 @@
+{
+  "title": "[Careers Wizard]\nIncrease views of under-used content whilst maintaining brand recognition for CPD",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "2": {
+      "title": "Teacher",
+      "id": 11,
+      "ideas": {
+        "1": {
+          "title": "Can retrieve information about future career",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "Q/A based interface to filtering content",
+              "id": 13,
+              "attr": {
+                "style": {
+                  "background": "#008000"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#008000"
+        }
+      }
+    },
+    "-1": {
+      "title": "Product Maintainer",
+      "id": 8,
+      "ideas": {
+        "1": {
+          "title": "Ensure relevant content is surfaced in a Careers Wizard",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "Create/Manage Careers Wizard Questions and Answers",
+              "id": 3,
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#008000"
+                }
+              }
+            },
+            "2": {
+              "title": "Associate Career Answer Cards with Answers",
+              "id": 6,
+              "attr": {
+                "style": {
+                  "background": "#008000"
+                }
+              }
+            },
+            "3": {
+              "title": "Promote specific Answer Cards in some circumstances",
+              "id": 10,
+              "attr": {
+                "style": {
+                  "background": "#008000"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#008000"
+        }
+      }
+    },
+    "-0.5": {
+      "title": "Content Specialist",
+      "id": 2,
+      "ideas": {
+        "4": {
+          "title": "Produce organize relevant content for careers advice",
+          "id": 7,
+          "ideas": {
+            "1": {
+              "title": "Create/Manage Careers Answer Cards",
+              "id": 4,
+              "attr": {
+                "style": {
+                  "background": "#008000"
+                }
+              },
+              "ideas": {}
+            },
+            "2": {
+              "title": "Presentation of Careers Answer Cards",
+              "id": 14,
+              "attr": {
+                "style": {
+                  "background": "#008000"
+                }
+              },
+              "ideas": {}
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#008000"
+        },
+        "position": [
+          159,
+          -76.5,
+          1
+        ]
+      }
+    }
+  },
+  "links": [],
+  "resources": {},
+  "attr": {
+    "style": {
+      "background": "#ffcc00"
+    }
+  }
+}
