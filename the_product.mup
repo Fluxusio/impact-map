@@ -342,6 +342,10 @@
                   "background": "#ffff00"
                 }
               }
+            },
+            "6": {
+              "title": "Tag articles with University name",
+              "id": 169
             }
           }
         },
@@ -381,7 +385,7 @@
               }
             },
             "3": {
-              "title": "Add Byline",
+              "title": "Add Bylines",
               "id": 168
             }
           }
