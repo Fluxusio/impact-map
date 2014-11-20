@@ -379,6 +379,10 @@
                 },
                 "style": {}
               }
+            },
+            "3": {
+              "title": "Add Byline",
+              "id": 168
             }
           }
         },
@@ -391,10 +395,6 @@
             }
           },
           "ideas": {
-            "1": {
-              "title": "Approve",
-              "id": 96
-            },
             "2": {
               "title": "Reject - send back with comments",
               "id": 97,
@@ -819,7 +819,12 @@
             },
             "3": {
               "title": "Import Article from External Feed",
-              "id": 131
+              "id": 131,
+              "attr": {
+                "style": {
+                  "background": "#000000"
+                }
+              }
             },
             "4": {
               "title": "Add tabular data to artticle",
