@@ -124,7 +124,7 @@
                   "content": "https://trello.com/c/pDI2KDdy/22-the-assign-static-content-to-page-layout-design-page-templates"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -299,7 +299,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/zmmB2fVv/32-the-manually-associate-articles-associate-articles-with-other-articles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             },
             "3": {
@@ -381,7 +383,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/2AeqEmG9/24-the-add-pull-quotes-add-text-to-articles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             },
             "3": {
@@ -462,7 +466,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Gocx1dsx/17-the-add-credits-to-multimedia-assets-add-multimedia-to-articles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             },
             "5": {
