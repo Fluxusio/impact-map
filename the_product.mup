@@ -347,7 +347,14 @@
             },
             "6": {
               "title": "Tag articles with University name",
-              "id": 169
+              "id": 169,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/dXKTahBV/39-the-tag-articles-with-university-name-associate-articles-with-other-content"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -390,7 +397,14 @@
             },
             "3": {
               "title": "Add Bylines",
-              "id": 168
+              "id": 168,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/o7pjC0SE/40-the-add-bylines-add-text-to-articles"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -563,10 +577,6 @@
               "attr": {
                 "style": {
                   "background": "#D3D3D3"
-                },
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/eBYhl7dK/28-rate-articles-without-logging-in"
                 }
               },
               "ideas": {},
@@ -605,10 +615,6 @@
               "attr": {
                 "style": {
                   "background": "#D3D3D3"
-                },
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/7VrHRwNs/30-view-rating"
                 }
               },
               "attachment": "https://trello.com/c/7VrHRwNs/30-view-rating"
@@ -644,7 +650,14 @@
               "ideas": {
                 "1": {
                   "title": "Be notified of when article is published",
-                  "id": 154
+                  "id": 154,
+                  "attr": {
+                    "attachment": {
+                      "contentType": "text/html",
+                      "content": "https://trello.com/c/KE8as2vG/37-the-be-notified-of-newly-published-articles-edit-content-in-production"
+                    },
+                    "style": {}
+                  }
                 },
                 "2": {
                   "title": "Edit artilces that have been published",
@@ -849,7 +862,14 @@
             },
             "5": {
               "title": "Edit all fields in own article",
-              "id": 163
+              "id": 163,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/du1Ga8mL/35-the-edit-all-fields-in-own-article-write-articles"
+                },
+                "style": {}
+              }
             },
             "6": {
               "title": "Embed tweets into articles",
