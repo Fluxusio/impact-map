@@ -328,7 +328,7 @@
                   "content": "https://trello.com/c/zmmB2fVv/32-the-manually-associate-articles-associate-articles-with-other-articles"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -381,7 +381,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/dXKTahBV/39-the-tag-articles-with-university-name-associate-articles-with-other-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             }
           }
@@ -431,7 +433,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/o7pjC0SE/40-the-add-bylines-add-text-to-articles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             }
           }
