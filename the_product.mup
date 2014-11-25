@@ -900,7 +900,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/du1Ga8mL/35-the-edit-all-fields-in-own-article-write-articles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             },
             "6": {
