@@ -500,7 +500,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/9lBccnZb/21-the-add-youtube-and-vimeo-videos-add-multimedia-to-articles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             },
             "4": {
@@ -525,7 +527,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/J1lDHTb7/33-the-add-documents-add-multimedia-to-articles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             }
           }
@@ -889,7 +893,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/f4d2Njv2/34-the-add-tabular-data-to-breaking-news-page-write-articles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             },
             "5": {
