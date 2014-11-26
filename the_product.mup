@@ -141,7 +141,14 @@
             },
             "9": {
               "title": "Add Twitter Feed",
-              "id": 174
+              "id": 174,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/1Mik5zpW/44-the-add-twitter-feed-design-page-templates"
+                },
+                "style": {}
+              }
             },
             "10": {
               "title": "Add Elsevier Content",
@@ -913,12 +920,26 @@
             },
             "6": {
               "title": "Embed tweets into articles",
-              "id": 164
+              "id": 164,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/bOM4i89j/42-the-embed-tweets-into-articles-write-articles"
+                },
+                "style": {}
+              }
             },
             "7": {
               "title": "Embed audio (podcasts/mp3) into articles",
               "id": 165,
-              "ideas": {}
+              "ideas": {},
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/v5dnfjDs/43-the-embed-audio-podcasts-mp3-into-articles-write-articles"
+                },
+                "style": {}
+              }
             }
           }
         },
