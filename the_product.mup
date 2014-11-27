@@ -133,11 +133,25 @@
             },
             "7": {
               "title": "Add Breaking News linked by University",
-              "id": 170
+              "id": 170,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/AJJuD9Mf/45-add-breaking-news-linked-by-university"
+                },
+                "style": {}
+              }
             },
             "8": {
               "title": "Add Breaking News linked by Tags",
-              "id": 171
+              "id": 171,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/09UweDSF/46-add-breaking-news-linked-by-tags"
+                },
+                "style": {}
+              }
             },
             "9": {
               "title": "Add Twitter Feed",
@@ -203,7 +217,11 @@
               "title": "Dispay Most Read stories from WV Platform",
               "id": 173,
               "attr": {
-                "style": {}
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/QeoSYBfn/48-dispay-most-read-stories-from-wv-platform"
+                }
               }
             }
           },
