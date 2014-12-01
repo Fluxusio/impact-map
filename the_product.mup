@@ -139,7 +139,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/AJJuD9Mf/45-add-breaking-news-linked-by-university"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             },
             "8": {
@@ -161,7 +163,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/1Mik5zpW/44-the-add-twitter-feed-design-page-templates"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             },
             "10": {
@@ -446,7 +450,7 @@
                   "content": "https://trello.com/c/2AeqEmG9/24-the-add-pull-quotes-add-text-to-articles"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -553,7 +557,7 @@
                   "content": "https://trello.com/c/J1lDHTb7/33-the-add-documents-add-multimedia-to-articles"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -919,7 +923,7 @@
                   "content": "https://trello.com/c/f4d2Njv2/34-the-add-tabular-data-to-breaking-news-page-write-articles"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -956,7 +960,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/v5dnfjDs/43-the-embed-audio-podcasts-mp3-into-articles-write-articles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             }
           }
