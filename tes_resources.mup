@@ -1,5 +1,5 @@
 {
-  "title": "Create Resources Pages in CMS",
+  "title": "Deliver Resources Pages from Drupal",
   "id": 1,
   "formatVersion": 2,
   "attr": {
@@ -9,20 +9,85 @@
   },
   "ideas": {
     "1": {
-      "title": "Content Creators",
+      "title": "Visitors",
       "id": 4,
       "ideas": {
         "1": {
-          "title": "Create Content Tile in Drupal",
-          "id": 7
-        },
-        "2": {
-          "title": "Create Content Tile linked to Resources service",
-          "id": 8
-        },
-        "3": {
-          "title": "Create Carousel Item",
-          "id": 15
+          "title": "Access the site",
+          "id": 27,
+          "ideas": {
+            "1": {
+              "title": "View pages from tes.co.uk domain",
+              "id": 30
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ADD8E6"
+        }
+      }
+    },
+    "2": {
+      "title": "Marketing",
+      "id": 24,
+      "ideas": {
+        "1": {
+          "title": "Track Page Usage",
+          "id": 25,
+          "ideas": {
+            "1": {
+              "title": "Add Omniture/GA tags to pages",
+              "id": 26
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ADD8E6"
+        }
+      }
+    },
+    "12": {
+      "title": "Google",
+      "id": 33,
+      "attr": {
+        "position": [
+          178.5,
+          90,
+          1
+        ],
+        "style": {
+          "background": "#ADD8E6"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Index Site",
+          "id": 34,
+          "ideas": {
+            "1": {
+              "title": "SEO",
+              "id": 35
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         }
       }
     },
@@ -30,40 +95,112 @@
       "title": "Page Creators",
       "id": 11,
       "ideas": {
-        "1": {
-          "title": "Create Page Title and Body Text",
-          "id": 9,
+        "7": {
+          "title": "Create Content",
+          "id": 21,
+          "ideas": {
+            "1": {
+              "title": "Create Content Tile in Drupal",
+              "id": 7,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Create Carousel Item",
+              "id": 15,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#FFFFFF"
+            }
           }
         },
-        "2": {
-          "title": "Add Content Tiles to Accordions",
-          "id": 12,
-          "ideas": {}
-        },
-        "3": {
-          "title": "Add Carousel Items to Carousel",
-          "id": 13,
-          "ideas": {}
-        },
-        "4": {
-          "title": "Set Top Image for Page",
-          "id": 16,
+        "8": {
+          "title": "Link to Content in Resources Platform",
+          "id": 22,
+          "ideas": {
+            "1": {
+              "title": "Create Content Tile linked to Resources service",
+              "id": 8,
+              "attr": {
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/FIKtJFNw/124-resources-create-content-tile-linked-to-resources-service-link-to-content-in-resources-platform"
+                }
+              }
+            }
+          },
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#FFFFFF"
+            }
           }
         },
-        "5": {
-          "title": "Set Background for Page",
-          "id": 17
-        },
-        "6": {
-          "title": "Add Content Tiles to Page",
-          "id": 19,
+        "9": {
+          "title": "Assemble Pages",
+          "id": 23,
+          "ideas": {
+            "1": {
+              "title": "Create Page Title and Body Text",
+              "id": 9,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Add Carousel Items to Carousel",
+              "id": 13,
+              "ideas": {},
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Set Top Image for Page",
+              "id": 16,
+              "attr": {
+                "style": {}
+              }
+            },
+            "4": {
+              "title": "Add Content Tiles to Accordions",
+              "id": 12,
+              "ideas": {},
+              "attr": {
+                "style": {}
+              }
+            },
+            "5": {
+              "title": "Set Background for Page",
+              "id": 17,
+              "attr": {
+                "style": {}
+              }
+            },
+            "6": {
+              "title": "Add Content Tiles to Page",
+              "id": 19,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#FFFFFF"
+            }
           }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ADD8E6"
         }
       }
     }
