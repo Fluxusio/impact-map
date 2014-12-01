@@ -628,7 +628,14 @@
           "ideas": {
             "1": {
               "title": "Expose Articles to Webvision Search",
-              "id": 122
+              "id": 122,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
