@@ -17,8 +17,12 @@
           "id": 7
         },
         "2": {
-          "title": "Link to Content Tile on Resources service",
+          "title": "Create Content Tile linked to Resources service",
           "id": 8
+        },
+        "3": {
+          "title": "Create Carousel Item",
+          "id": 15
         }
       }
     },
@@ -35,14 +39,34 @@
         },
         "2": {
           "title": "Add Content Tiles to Accordions",
-          "id": 12
+          "id": 12,
+          "ideas": {}
         },
         "3": {
-          "title": "Add Content Tiles to Carousel",
+          "title": "Add Carousel Items to Carousel",
           "id": 13,
           "ideas": {}
+        },
+        "4": {
+          "title": "Set Top Image for Page",
+          "id": 16,
+          "attr": {
+            "style": {}
+          }
+        },
+        "5": {
+          "title": "Set Background for Page",
+          "id": 17
+        },
+        "6": {
+          "title": "Add Content Tiles to Page",
+          "id": 19,
+          "attr": {
+            "style": {}
+          }
         }
       }
     }
-  }
+  },
+  "links": []
 }
