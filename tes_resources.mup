@@ -1,0 +1,48 @@
+{
+  "title": "Create Resources Pages in CMS",
+  "id": 1,
+  "formatVersion": 2,
+  "attr": {
+    "style": {
+      "background": "#FFD700"
+    }
+  },
+  "ideas": {
+    "1": {
+      "title": "Content Creators",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "Create Content Tile in Drupal",
+          "id": 7
+        },
+        "2": {
+          "title": "Link to Content Tile on Resources service",
+          "id": 8
+        }
+      }
+    },
+    "-1": {
+      "title": "Page Creators",
+      "id": 11,
+      "ideas": {
+        "1": {
+          "title": "Create Page Title and Body Text",
+          "id": 9,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Add Content Tiles to Accordions",
+          "id": 12
+        },
+        "3": {
+          "title": "Add Content Tiles to Carousel",
+          "id": 13,
+          "ideas": {}
+        }
+      }
+    }
+  }
+}
