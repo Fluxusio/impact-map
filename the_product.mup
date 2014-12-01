@@ -94,7 +94,12 @@
           "attr": {
             "style": {
               "background": "#FFFFFF"
-            }
+            },
+            "position": [
+              76.5,
+              -27.5,
+              1
+            ]
           },
           "ideas": {
             "1": {
@@ -125,7 +130,14 @@
             },
             "5": {
               "title": "Add display ads to page layout",
-              "id": 134
+              "id": 134,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/r5Zx4ouw/55-the-add-display-ads-to-page-layout-design-page-templates"
+                },
+                "style": {}
+              }
             },
             "6": {
               "title": "Create layout for Channel Page",
@@ -633,7 +645,8 @@
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/b4R69doe/52-the-expose-articles-to-webvision-search"
-                }
+                },
+                "style": {}
               }
             }
           }
