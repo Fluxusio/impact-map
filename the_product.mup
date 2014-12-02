@@ -225,7 +225,14 @@
             },
             "2": {
               "title": "Include content from webvision",
-              "id": 143
+              "id": 143,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "3": {
               "title": "Use existing look and feel",
@@ -685,6 +692,10 @@
               "attr": {
                 "style": {
                   "background": "#D3D3D3"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
                 }
               }
             },
