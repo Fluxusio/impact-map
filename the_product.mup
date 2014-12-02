@@ -229,9 +229,8 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                },
-                "style": {}
+                  "content": "https://trello.com/c/PyFc7xCX/56-the-include-content-from-webvision"
+                }
               }
             },
             "3": {
@@ -690,12 +689,9 @@
               "title": "Comment on Articles using Webvision profile",
               "id": 50,
               "attr": {
-                "style": {
-                  "background": "#D3D3D3"
-                },
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/3TfNrGbq/57-the-comment-on-articles-using-webvision-profile"
                 }
               }
             },
