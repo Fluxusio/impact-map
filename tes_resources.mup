@@ -128,7 +128,9 @@
               "title": "Create Content Tile linked to Resources service",
               "id": 8,
               "attr": {
-                "style": {},
+                "style": {
+                  "background": "#FFB6C1"
+                },
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/FIKtJFNw/124-resources-create-content-tile-linked-to-resources-service-link-to-content-in-resources-platform"
