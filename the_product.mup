@@ -184,7 +184,14 @@
             },
             "10": {
               "title": "Add Elsevier Content",
-              "id": 177
+              "id": 177,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "2.5": {
               "title": "Create Layout for Faculty Page",
@@ -230,7 +237,8 @@
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/PyFc7xCX/56-the-include-content-from-webvision"
-                }
+                },
+                "style": {}
               }
             },
             "3": {
@@ -692,7 +700,8 @@
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/3TfNrGbq/57-the-comment-on-articles-using-webvision-profile"
-                }
+                },
+                "style": {}
               }
             },
             "4": {
