@@ -152,7 +152,7 @@
                   "content": "https://trello.com/c/AJJuD9Mf/45-add-breaking-news-linked-by-university"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -164,7 +164,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/09UweDSF/46-add-breaking-news-linked-by-tags"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             },
             "9": {
@@ -233,7 +235,9 @@
               "title": "Dispay Most Read stories from WV Platform",
               "id": 173,
               "attr": {
-                "style": {},
+                "style": {
+                  "background": "#FFB6C1"
+                },
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/QeoSYBfn/48-dispay-most-read-stories-from-wv-platform"
@@ -378,7 +382,7 @@
               "id": 106,
               "attr": {
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 },
                 "attachment": {
                   "contentType": "text/html",
@@ -397,7 +401,7 @@
                   "content": "https://trello.com/c/3ucIzu1G/19-the-tag-articles-with-policy-terms-associate-articles-with-other-content"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -410,7 +414,7 @@
                   "content": "https://trello.com/c/llaLNUzO/25-the-tag-articles-with-discipline-terms-associate-articles-with-other-content"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -462,7 +466,7 @@
                   "content": "https://trello.com/c/2AeqEmG9/24-the-add-pull-quotes-add-text-to-articles"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -860,7 +864,7 @@
               "ideas": {},
               "attr": {
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 },
                 "attachment": {
                   "contentType": "text/html",
@@ -912,7 +916,7 @@
                   "content": "https://trello.com/c/du1Ga8mL/35-the-edit-all-fields-in-own-article-write-articles"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -924,7 +928,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/bOM4i89j/42-the-embed-tweets-into-articles-write-articles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             },
             "7": {
@@ -958,7 +964,7 @@
               "attachment": "https://trello.com/c/8lUO7yoq/27-find-own-articles",
               "attr": {
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 },
                 "attachment": {
                   "contentType": "text/html",
