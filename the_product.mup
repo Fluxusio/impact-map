@@ -96,8 +96,8 @@
               "background": "#FFFFFF"
             },
             "position": [
-              76.5,
-              -27.5,
+              75.5,
+              -30.5,
               1
             ]
           },
@@ -141,7 +141,14 @@
             },
             "6": {
               "title": "Create layout for Channel Page",
-              "id": 147
+              "id": 147,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/oxpuQU8J/61-the-create-layout-for-channel-page-design-page-templates"
+                },
+                "style": {}
+              }
             },
             "7": {
               "title": "Add Breaking News linked by University",
