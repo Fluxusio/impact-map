@@ -969,6 +969,17 @@
                   "background": "#FFB6C1"
                 }
               }
+            },
+            "8": {
+              "title": "Add Postscript",
+              "id": 179,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/7kWhVsAZ/64-add-postscript"
+                },
+                "style": {}
+              }
             }
           }
         },
