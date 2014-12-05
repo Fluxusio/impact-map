@@ -199,13 +199,6 @@
                 },
                 "style": {}
               }
-            },
-            "2.5": {
-              "title": "Create Layout for Faculty Page",
-              "id": 175,
-              "attr": {
-                "style": {}
-              }
             }
           }
         },
@@ -232,11 +225,6 @@
           "title": "Integrate with existing website",
           "id": 140,
           "ideas": {
-            "1": {
-              "title": "Expose content to webvision",
-              "id": 141,
-              "ideas": {}
-            },
             "2": {
               "title": "Include content from webvision",
               "id": 143,
@@ -686,6 +674,10 @@
               "attr": {
                 "style": {
                   "background": "#D3D3D3"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<br><div style=\"height: 1059px;\" id=\"attachEditArea\" data-mm-role=\"editor\" contenteditable=\"false\">https://trello.com/c/3TfNrGbq/57-the-comment-on-articles-using-webvision-profile</div>"
                 }
               },
               "ideas": {},
@@ -717,6 +709,10 @@
               "attr": {
                 "style": {
                   "background": "#D3D3D3"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<br><div style=\"height: 1059px;\" id=\"attachEditArea\" data-mm-role=\"editor\" contenteditable=\"false\">https://trello.com/c/3TfNrGbq/57-the-comment-on-articles-using-webvision-profile</div>"
                 }
               }
             },
@@ -726,6 +722,10 @@
               "attr": {
                 "style": {
                   "background": "#D3D3D3"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<br><div style=\"height: 1059px;\" id=\"attachEditArea\" data-mm-role=\"editor\" contenteditable=\"false\">https://trello.com/c/3TfNrGbq/57-the-comment-on-articles-using-webvision-profile</div>"
                 }
               },
               "attachment": "https://trello.com/c/7VrHRwNs/30-view-rating"
