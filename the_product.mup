@@ -147,7 +147,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/oxpuQU8J/61-the-create-layout-for-channel-page-design-page-templates"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             },
             "7": {
@@ -172,7 +174,7 @@
                   "content": "https://trello.com/c/09UweDSF/46-add-breaking-news-linked-by-tags"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -185,7 +187,7 @@
                   "content": "https://trello.com/c/1Mik5zpW/44-the-add-twitter-feed-design-page-templates"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -233,7 +235,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/PyFc7xCX/56-the-include-content-from-webvision"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             },
             "3": {
@@ -245,7 +249,7 @@
               "id": 173,
               "attr": {
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 },
                 "attachment": {
                   "contentType": "text/html",
@@ -289,7 +293,7 @@
                   "content": "https://trello.com/c/3buJAye2/29-the-editor-receives-notification-via-drupal-workflow-receive-articles-from-reporters"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             }
@@ -333,7 +337,7 @@
                   "content": "https://trello.com/c/ANwdq7FA/12-the-publish-article-immediately-publish-article"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             }
@@ -358,7 +362,7 @@
                   "content": "https://trello.com/c/B2olbEwY/13-the-unpublish-article-immediately-unpublish-article"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             }
@@ -382,7 +386,7 @@
                   "content": "https://trello.com/c/zmmB2fVv/32-the-manually-associate-articles-associate-articles-with-other-articles"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -436,7 +440,7 @@
                   "content": "https://trello.com/c/dXKTahBV/39-the-tag-articles-with-university-name-associate-articles-with-other-content"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             }
@@ -461,7 +465,7 @@
                   "content": "https://trello.com/c/s5GoaUfD/23-the-add-standfirst-add-text-to-articles"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -512,7 +516,7 @@
                   "content": "https://trello.com/c/lsaCLkNV/26-the-reject-send-back-with-comments-workflow-articles"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             }
@@ -659,7 +663,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/b4R69doe/52-the-expose-articles-to-webvision-search"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             }
           }
@@ -700,7 +706,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/3TfNrGbq/57-the-comment-on-articles-using-webvision-profile"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             },
             "4": {
@@ -1026,7 +1034,7 @@
                   "content": "https://trello.com/c/sjJzPFSa/9-the-use-workflow-to-notify-editor-send-article-to-editor"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -1079,7 +1087,7 @@
                   "content": "https://trello.com/c/KE8as2vG/37-the-be-notified-of-newly-published-articles-edit-content-in-production"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
