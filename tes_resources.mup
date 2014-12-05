@@ -103,14 +103,22 @@
               "title": "Create Content Tile in Drupal",
               "id": 7,
               "attr": {
-                "style": {}
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/fwvEp9rm/128-resources-create-content-tile-in-drupal-create-content"
+                }
               }
             },
             "3": {
               "title": "Create Carousel Item",
               "id": 15,
               "attr": {
-                "style": {}
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/WPObGot1/125-resources-create-resources-carousel-item-content-type-create-carousel-item"
+                }
               }
             }
           },
