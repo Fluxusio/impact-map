@@ -113,7 +113,7 @@
                   "content": "https://trello.com/c/cy49xE14/20-the-create-layout-design-page-templates"
                 },
                 "style": {
-                  "background": "#ffffff"
+                  "background": "#d3d3d3"
                 }
               }
             },
@@ -139,7 +139,7 @@
                   "content": "https://trello.com/c/r5Zx4ouw/55-the-add-display-ads-to-page-layout-design-page-templates"
                 },
                 "style": {
-                  "background": "#ffffff"
+                  "background": "#d3d3d3"
                 }
               }
             },
@@ -281,7 +281,7 @@
                   "content": "https://trello.com/c/dMYhXJOT/66-the-add-omniture-codes-report-on-page-usage"
                 },
                 "style": {
-                  "background": "#ffffff"
+                  "background": "#d3d3d3"
                 }
               }
             }
@@ -569,7 +569,7 @@
                   "content": "https://trello.com/c/goOx3lJP/14-the-add-images-from-library-add-multimedia-to-articles"
                 },
                 "style": {
-                  "background": "#ffffff"
+                  "background": "#d3d3d3"
                 }
               }
             },
@@ -587,7 +587,7 @@
                   "content": "https://trello.com/c/9lBccnZb/21-the-add-youtube-and-vimeo-videos-add-multimedia-to-articles"
                 },
                 "style": {
-                  "background": "#ffffff"
+                  "background": "#d3d3d3"
                 }
               }
             },
@@ -707,7 +707,7 @@
               "id": 46,
               "attr": {
                 "style": {
-                  "background": "#D3D3D3"
+                  "background": "#ffff00"
                 },
                 "attachment": {
                   "contentType": "text/html",
@@ -722,7 +722,7 @@
               "id": 47,
               "attr": {
                 "style": {
-                  "background": "#D3D3D3"
+                  "background": "#ffff00"
                 },
                 "attachment": {
                   "contentType": "text/html",
@@ -748,7 +748,7 @@
               "id": 83,
               "attr": {
                 "style": {
-                  "background": "#D3D3D3"
+                  "background": "#ffff00"
                 },
                 "attachment": {
                   "contentType": "text/html",
@@ -761,7 +761,7 @@
               "id": 84,
               "attr": {
                 "style": {
-                  "background": "#D3D3D3"
+                  "background": "#ffff00"
                 },
                 "attachment": {
                   "contentType": "text/html",
@@ -944,7 +944,7 @@
                   "content": "https://trello.com/c/MFrjyjml/3-the-create-article-in-cms-write-articles"
                 },
                 "style": {
-                  "background": "#ffffff"
+                  "background": "#d3d3d3"
                 }
               }
             },
@@ -1006,7 +1006,7 @@
                   "content": "https://trello.com/c/v5dnfjDs/43-the-embed-audio-podcasts-mp3-into-articles-write-articles"
                 },
                 "style": {
-                  "background": "#ffffff"
+                  "background": "#d3d3d3"
                 }
               }
             },
@@ -1019,7 +1019,7 @@
                   "content": "https://trello.com/c/7kWhVsAZ/64-add-postscript"
                 },
                 "style": {
-                  "background": "#ffffff"
+                  "background": "#d3d3d3"
                 }
               }
             }
