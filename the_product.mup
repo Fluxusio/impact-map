@@ -222,9 +222,7 @@
               "id": 124,
               "ideas": {},
               "attr": {
-                "style": {
-                  "background": "#ffff00"
-                },
+                "style": {},
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Y00SbimX/65-integrate-with-jobs-platform"
@@ -287,7 +285,7 @@
                   "content": "https://trello.com/c/dMYhXJOT/66-the-add-omniture-codes-report-on-page-usage"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#d3d3d3"
                 }
               }
             }
