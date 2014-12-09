@@ -263,6 +263,28 @@
               "background": "#FFFFFF"
             }
           }
+        },
+        "8": {
+          "title": "Report on Page Usage",
+          "id": 180,
+          "ideas": {
+            "1": {
+              "title": "Add omniture codes",
+              "id": 181,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/dMYhXJOT/66-the-add-omniture-codes-report-on-page-usage"
+                },
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         }
       }
     },
