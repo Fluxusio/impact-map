@@ -222,7 +222,9 @@
               "id": 124,
               "ideas": {},
               "attr": {
-                "style": {},
+                "style": {
+                  "background": "#ffff00"
+                },
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Y00SbimX/65-integrate-with-jobs-platform"
