@@ -201,7 +201,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "https://trello.com/b/t9rEm1NA/the-times-higher-education"
+                  "content": "https://trello.com/c/mFPYideL/58-the-add-elsevier-content-design-page-templates"
                 },
                 "style": {}
               }
@@ -250,7 +250,14 @@
             },
             "3": {
               "title": "Use existing look and feel",
-              "id": 148
+              "id": 148,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "4": {
               "title": "Dispay Most Read stories from WV Platform",
@@ -579,7 +586,12 @@
             },
             "2": {
               "title": "Add Shutterstock images to Library",
-              "id": 99
+              "id": 99,
+              "attr": {
+                "style": {
+                  "background": "#000000"
+                }
+              }
             },
             "3": {
               "title": "Add Youtube and Vimeo Videos",
@@ -822,7 +834,14 @@
           "ideas": {
             "1": {
               "title": "SEO",
-              "id": 54
+              "id": 54,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
@@ -1026,6 +1045,17 @@
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "9": {
+              "title": "Format Factfiles",
+              "id": 182,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -1131,7 +1161,14 @@
             },
             "2": {
               "title": "Edit artilces that have been published",
-              "id": 162
+              "id": 162,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           },
           "id": 153
