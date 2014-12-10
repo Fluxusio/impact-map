@@ -259,7 +259,8 @@
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/7dIjwa3C/68-the-use-existing-look-and-feel"
-                }
+                },
+                "style": {}
               }
             },
             "4": {
@@ -597,7 +598,7 @@
               }
             },
             "3": {
-              "title": "Add Youtube and Vimeo Videos",
+              "title": "Add Videos",
               "id": 100,
               "attachment": "https://trello.com/c/9lBccnZb/21-add-youtube-and-vimeo-videos",
               "attr": {
@@ -842,7 +843,8 @@
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/2MXdYA10/69-the-seo"
-                }
+                },
+                "style": {}
               }
             }
           }
@@ -1055,7 +1057,8 @@
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/hRvItBZV/70-the-format-factfiles"
-                }
+                },
+                "style": {}
               }
             }
           }
@@ -1167,7 +1170,8 @@
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/0RszkDH9/71-the-edit-artilces-that-have-been-published"
-                }
+                },
+                "style": {}
               }
             }
           },
