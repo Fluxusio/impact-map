@@ -103,7 +103,9 @@
               "title": "Create Content Tile in Drupal",
               "id": 7,
               "attr": {
-                "style": {},
+                "style": {
+                  "background": "#ffff00"
+                },
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/fwvEp9rm/128-resources-create-content-tile-in-drupal-create-content"
@@ -137,7 +139,7 @@
               "id": 8,
               "attr": {
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 },
                 "attachment": {
                   "contentType": "text/html",

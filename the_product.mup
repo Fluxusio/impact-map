@@ -203,7 +203,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/mFPYideL/58-the-add-elsevier-content-design-page-templates"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -222,7 +224,9 @@
               "id": 124,
               "ideas": {},
               "attr": {
-                "style": {},
+                "style": {
+                  "background": "#ffff00"
+                },
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Y00SbimX/65-integrate-with-jobs-platform"
@@ -244,7 +248,7 @@
                   "content": "https://trello.com/c/PyFc7xCX/56-the-include-content-from-webvision"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#d3d3d3"
                 }
               }
             },
@@ -254,9 +258,8 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                },
-                "style": {}
+                  "content": "https://trello.com/c/7dIjwa3C/68-the-use-existing-look-and-feel"
+                }
               }
             },
             "4": {
@@ -838,9 +841,8 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                },
-                "style": {}
+                  "content": "https://trello.com/c/2MXdYA10/69-the-seo"
+                }
               }
             }
           }
@@ -1052,9 +1054,8 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                },
-                "style": {}
+                  "content": "https://trello.com/c/hRvItBZV/70-the-format-factfiles"
+                }
               }
             }
           }
@@ -1165,9 +1166,8 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                },
-                "style": {}
+                  "content": "https://trello.com/c/0RszkDH9/71-the-edit-artilces-that-have-been-published"
+                }
               }
             }
           },
