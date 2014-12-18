@@ -104,7 +104,7 @@
               "id": 7,
               "attr": {
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 },
                 "attachment": {
                   "contentType": "text/html",
@@ -117,7 +117,7 @@
               "id": 15,
               "attr": {
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 },
                 "attachment": {
                   "contentType": "text/html",
@@ -141,7 +141,7 @@
               "id": 8,
               "attr": {
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 },
                 "attachment": {
                   "contentType": "text/html",
