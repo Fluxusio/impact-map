@@ -1,0 +1,33 @@
+{
+  "title": "Deliver WUR from Drupal",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "foo",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "bar",
+          "id": 3,
+          "ideas": {
+            "1": {
+              "title": "this thing",
+              "id": 4
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#FFFFFF"
+        }
+      }
+    }
+  },
+  "attr": {
+    "style": {
+      "background": "#FFD700"
+    }
+  }
+}
