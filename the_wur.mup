@@ -13,7 +13,14 @@
           "ideas": {
             "1": {
               "title": "this thing",
-              "id": 4
+              "id": 4,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
