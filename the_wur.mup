@@ -19,7 +19,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/rSnLsKXc/84-wur-this-thing-bar"
                 },
-                "style": {}
+                "style": {
+                  "background": "#00ff00"
+                }
               }
             },
             "2": {
@@ -30,7 +32,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/z4s4I3Rq/83-wur-this-other-thing-bar"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             },
             "3": {
@@ -52,7 +56,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/4UN8dYvU/85-wur-share-on-facebook-create-one-million-more-users"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             }
           }
