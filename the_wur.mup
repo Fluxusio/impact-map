@@ -24,7 +24,14 @@
             },
             "2": {
               "title": "this other thing",
-              "id": 5
+              "id": 5,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "3": {
               "title": "this third thing",
@@ -39,7 +46,14 @@
             "1": {
               "title": "share on facebook",
               "id": 8,
-              "ideas": {}
+              "ideas": {},
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
