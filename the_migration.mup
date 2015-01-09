@@ -145,6 +145,25 @@
               "id": 170
             }
           }
+        },
+        "2": {
+          "title": "Publish Magazine Content on Website",
+          "id": 174,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Add metadata to content",
+              "id": 176
+            },
+            "2": {
+              "title": "Add web images to content",
+              "id": 180
+            }
+          }
         }
       }
     },
@@ -175,7 +194,27 @@
           }
         ]
       },
-      "ideas": {}
+      "ideas": {
+        "1": {
+          "title": "Update Web Headlines",
+          "id": 181,
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
+        },
+        "2": {
+          "title": "Update Web Standfirsts",
+          "id": 184,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
+        }
+      }
     },
     "0.375": {
       "title": "Article Author",
@@ -270,7 +309,12 @@
         "1": {
           "title": "Send magazine content to Drupal",
           "id": 163,
-          "ideas": {},
+          "ideas": {
+            "1": {
+              "title": "Upload file(s) to Drupal",
+              "id": 178
+            }
+          },
           "attr": {
             "style": {
               "background": "#FFFFFF"
