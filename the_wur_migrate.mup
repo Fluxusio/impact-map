@@ -1,0 +1,244 @@
+{
+  "title": "Move WUR from current system to Drupal",
+  "id": 1,
+  "formatVersion": 2,
+  "attr": {
+    "style": {
+      "background": "#ffff99"
+    },
+    "measurements-config": [
+      "Editors"
+    ]
+  },
+  "ideas": {
+    "1": {
+      "title": "Data team",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "Upload data to Drupal",
+          "id": 5,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            },
+            "position": [
+              155.39736659610105,
+              -105.75,
+              2
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Upload spreadsheet of data from Reuters",
+              "id": 35
+            }
+          }
+        },
+        "3": {
+          "title": "Create rankings pages",
+          "id": 23,
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "4": {
+          "title": "Create individual institute pages",
+          "id": 22,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            },
+            "position": [
+              151.5,
+              25.5,
+              1
+            ]
+          },
+          "ideas": {}
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ccffff"
+        }
+      }
+    },
+    "2": {
+      "title": "Users",
+      "id": 27,
+      "attr": {
+        "style": {
+          "background": "#ccffff"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Sort rankings",
+          "id": 28
+        },
+        "2": {
+          "title": "Search for institutions",
+          "id": 29
+        },
+        "3": {
+          "title": "Filter by subject/area",
+          "id": 32
+        },
+        "4": {
+          "title": "View rankings by year",
+          "id": 47
+        },
+        "5": {
+          "title": "View tweets",
+          "id": 50
+        },
+        "6": {
+          "title": "Contact WUR team",
+          "id": 51
+        },
+        "7": {
+          "title": "Download iOS app",
+          "id": 52
+        }
+      }
+    },
+    "-1": {
+      "title": "Sales team",
+      "id": 8,
+      "ideas": {
+        "1": {
+          "title": "Sell enhanced profiles",
+          "id": 10,
+          "ideas": {
+            "1": {
+              "title": "No adverts",
+              "id": 13
+            },
+            "2": {
+              "title": "Video",
+              "id": 15
+            },
+            "3": {
+              "title": "Analysis",
+              "id": 16,
+              "attr": {
+                "style": {}
+              }
+            },
+            "4": {
+              "title": "Downloads ",
+              "id": 19
+            },
+            "5": {
+              "title": "Contact",
+              "id": 20
+            },
+            "3.5": {
+              "title": "Gallery",
+              "id": 21,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "2": {
+          "title": "Sell Ads",
+          "id": 31,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "3": {
+          "title": "Sell jobs",
+          "id": 39,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ccffff"
+        }
+      }
+    },
+    "-2": {
+      "title": "Editorial team",
+      "id": 36,
+      "attr": {
+        "style": {
+          "background": "#ccffff"
+        },
+        "position": [
+          182.60263340389895,
+          79.5,
+          1
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Add News",
+          "id": 37,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Link news to institute/area/subject",
+              "id": 38
+            }
+          }
+        },
+        "2": {
+          "title": "Add analysis",
+          "id": 40,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Add videos",
+              "id": 43
+            },
+            "2": {
+              "title": "Add editorial pieces describing individual ranking analysis",
+              "id": 44
+            },
+            "3": {
+              "title": "Add methodology for individual ranking",
+              "id": 45
+            }
+          }
+        },
+        "3": {
+          "title": "Edit WUR contact page",
+          "id": 48,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        }
+      }
+    }
+  },
+  "links": []
+}
