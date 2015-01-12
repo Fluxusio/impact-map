@@ -39,7 +39,12 @@
       "attr": {
         "style": {
           "background": "#ccffff"
-        }
+        },
+        "position": [
+          182,
+          -379,
+          7
+        ]
       }
     },
     "2": {
@@ -48,7 +53,12 @@
       "attr": {
         "style": {
           "background": "#ccffff"
-        }
+        },
+        "position": [
+          313,
+          -60,
+          8
+        ]
       },
       "ideas": {
         "1": {
@@ -122,7 +132,12 @@
       "attr": {
         "style": {
           "background": "#ccffff"
-        }
+        },
+        "position": [
+          140,
+          237,
+          5
+        ]
       },
       "ideas": {
         "1": {
@@ -142,7 +157,12 @@
       "attr": {
         "style": {
           "background": "#ccffff"
-        }
+        },
+        "position": [
+          177,
+          403,
+          4
+        ]
       },
       "ideas": {
         "1": {
@@ -238,7 +258,12 @@
       "attr": {
         "style": {
           "background": "#ccffff"
-        }
+        },
+        "position": [
+          184,
+          -396,
+          3
+        ]
       }
     },
     "-2": {
@@ -318,9 +343,9 @@
       "id": 60,
       "attr": {
         "position": [
-          184,
-          240,
-          2
+          186,
+          348,
+          6
         ],
         "style": {
           "background": "#ccffff"
