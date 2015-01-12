@@ -16,7 +16,7 @@
       "id": 4,
       "ideas": {
         "1": {
-          "title": "Upload data to Drupal",
+          "title": "Upload data",
           "id": 5,
           "attr": {
             "style": {
@@ -30,35 +30,10 @@
           },
           "ideas": {
             "1": {
-              "title": "Upload spreadsheet of data from Reuters",
+              "title": "Upload spreadsheet of data",
               "id": 35
             }
           }
-        },
-        "3": {
-          "title": "Create rankings pages",
-          "id": 23,
-          "ideas": {},
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
-        "4": {
-          "title": "Create individual institute pages",
-          "id": 22,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            },
-            "position": [
-              151.5,
-              25.5,
-              1
-            ]
-          },
-          "ideas": {}
         }
       },
       "attr": {
@@ -78,31 +53,106 @@
       "ideas": {
         "1": {
           "title": "Sort rankings",
-          "id": 28
+          "id": 28,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
         },
         "2": {
           "title": "Search for institutions",
-          "id": 29
+          "id": 29,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
         },
         "3": {
           "title": "Filter by subject/area",
-          "id": 32
+          "id": 32,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
         },
         "4": {
           "title": "View historical data",
-          "id": 47
-        },
-        "5": {
-          "title": "View tweets",
-          "id": 50
+          "id": 47,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
         },
         "6": {
           "title": "Contact WUR team",
-          "id": 51
+          "id": 51,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
         },
         "7": {
           "title": "Download iOS app",
-          "id": 52
+          "id": 52,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "8": {
+          "title": "Can see which unis are in top 10% for a given ranking vertical (100 under 50, top 100 asian rankings)",
+          "id": 62,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "title": "Analytics",
+      "id": 56,
+      "attr": {
+        "style": {
+          "background": "#ccffff"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Add analytics",
+          "id": 57,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "title": "Marketing",
+      "id": 63,
+      "attr": {
+        "style": {
+          "background": "#ccffff"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Can add downloadable mag and capture user data",
+          "id": 64,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
         }
       }
     },
@@ -167,7 +217,7 @@
           }
         },
         "2": {
-          "title": "Sell Ads",
+          "title": "Create Ads",
           "id": 31,
           "attr": {
             "style": {
@@ -176,7 +226,7 @@
           }
         },
         "3": {
-          "title": "Sell jobs",
+          "title": "Create jobs",
           "id": 39,
           "attr": {
             "style": {
@@ -206,46 +256,80 @@
       },
       "ideas": {
         "1": {
-          "title": "Add News",
+          "title": "Create News",
           "id": 37,
           "attr": {
             "style": {
               "background": "#ffffff"
             }
           },
-          "ideas": {
-            "1": {
-              "title": "Link news to institute/area/subject",
-              "id": 38
-            }
-          }
+          "ideas": {}
         },
         "2": {
-          "title": "Add analysis",
+          "title": "Create rankings table analysis",
           "id": 40,
           "attr": {
             "style": {
               "background": "#ffffff"
             }
           },
-          "ideas": {
-            "1": {
-              "title": "Add videos",
-              "id": 43
-            },
-            "2": {
-              "title": "Add editorial pieces describing individual ranking analysis",
-              "id": 44
-            },
-            "3": {
-              "title": "Add methodology for individual ranking",
-              "id": 45
+          "ideas": {}
+        },
+        "4": {
+          "title": "Social interaction",
+          "id": 58,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
             }
           }
         },
-        "3": {
-          "title": "Edit WUR contact page",
-          "id": 48,
+        "5": {
+          "title": "Add methodology",
+          "id": 59,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "6": {
+          "title": "Create basic profile page",
+          "id": 65,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "7": {
+          "title": "Create landing page",
+          "id": 66,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        }
+      }
+    },
+    "-3": {
+      "title": "Google",
+      "id": 60,
+      "attr": {
+        "position": [
+          184,
+          240,
+          2
+        ],
+        "style": {
+          "background": "#ccffff"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Inbound links (Esp. to historical data)",
+          "id": 61,
           "attr": {
             "style": {
               "background": "#ffffff"
