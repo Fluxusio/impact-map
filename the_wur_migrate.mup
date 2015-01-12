@@ -144,7 +144,7 @@
       },
       "ideas": {
         "1": {
-          "title": "Add analytics",
+          "title": "Report on usage statistics",
           "id": 57,
           "attr": {
             "style": {
@@ -375,6 +375,15 @@
           "attr": {
             "style": {
               "background": "#ffffff"
+            }
+          }
+        },
+        "2": {
+          "title": "SEO",
+          "id": 67,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
             }
           }
         }
