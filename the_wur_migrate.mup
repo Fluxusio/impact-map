@@ -89,7 +89,7 @@
           "id": 32
         },
         "4": {
-          "title": "View rankings by year",
+          "title": "View historical data",
           "id": 47
         },
         "5": {
@@ -115,11 +115,11 @@
           "id": 10,
           "ideas": {
             "1": {
-              "title": "No adverts",
+              "title": "Remove adverts",
               "id": 13
             },
             "2": {
-              "title": "Video",
+              "title": "One video",
               "id": 15
             },
             "3": {
@@ -130,15 +130,30 @@
               }
             },
             "4": {
-              "title": "Downloads ",
+              "title": "Downloads  (PDF/.doc/Prospectus)",
               "id": 19
             },
             "5": {
               "title": "Contact",
-              "id": 20
+              "id": 20,
+              "attr": {
+                "style": {}
+              }
+            },
+            "6": {
+              "title": "Add new text/description",
+              "id": 53
+            },
+            "7": {
+              "title": "Add highlighted icon in rankings",
+              "id": 54
+            },
+            "8": {
+              "title": "Add jobs",
+              "id": 55
             },
             "3.5": {
-              "title": "Gallery",
+              "title": "Gallery (5 photos)",
               "id": 21,
               "attr": {
                 "style": {}
