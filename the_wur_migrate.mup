@@ -28,12 +28,7 @@
               2
             ]
           },
-          "ideas": {
-            "1": {
-              "title": "Upload spreadsheet of data",
-              "id": 35
-            }
-          }
+          "ideas": {}
         }
       },
       "attr": {
@@ -45,7 +40,12 @@
           "width": 32,
           "height": 32,
           "position": "left"
-        }
+        },
+        "position": [
+          247,
+          -414,
+          17
+        ]
       }
     },
     "2": {
@@ -60,7 +60,12 @@
           "width": 32,
           "height": 32,
           "position": "left"
-        }
+        },
+        "position": [
+          258,
+          -85,
+          15
+        ]
       },
       "ideas": {
         "1": {
@@ -140,7 +145,12 @@
           "width": 32,
           "height": 32,
           "position": "left"
-        }
+        },
+        "position": [
+          259,
+          246,
+          16
+        ]
       },
       "ideas": {
         "1": {
@@ -154,7 +164,7 @@
         }
       }
     },
-    "4": {
+    "13": {
       "title": "Marketing",
       "id": 63,
       "attr": {
@@ -166,7 +176,12 @@
           "width": 32,
           "height": 32,
           "position": "left"
-        }
+        },
+        "position": [
+          14,
+          371,
+          21
+        ]
       },
       "ideas": {
         "1": {
@@ -187,53 +202,7 @@
         "1": {
           "title": "Sell enhanced profiles",
           "id": 10,
-          "ideas": {
-            "1": {
-              "title": "Remove adverts",
-              "id": 13
-            },
-            "2": {
-              "title": "One video",
-              "id": 15
-            },
-            "3": {
-              "title": "Analysis",
-              "id": 16,
-              "attr": {
-                "style": {}
-              }
-            },
-            "4": {
-              "title": "Downloads  (PDF/.doc/Prospectus)",
-              "id": 19
-            },
-            "5": {
-              "title": "Contact",
-              "id": 20,
-              "attr": {
-                "style": {}
-              }
-            },
-            "6": {
-              "title": "Add new text/description",
-              "id": 53
-            },
-            "7": {
-              "title": "Add highlighted icon in rankings",
-              "id": 54
-            },
-            "8": {
-              "title": "Add jobs",
-              "id": 55
-            },
-            "3.5": {
-              "title": "Gallery (5 photos)",
-              "id": 21,
-              "attr": {
-                "style": {}
-              }
-            }
-          },
+          "ideas": {},
           "attr": {
             "style": {
               "background": "#ffffff"
@@ -268,7 +237,12 @@
           "width": 32,
           "height": 32,
           "position": "left"
-        }
+        },
+        "position": [
+          243,
+          -425,
+          18
+        ]
       }
     },
     "-2": {
@@ -279,9 +253,9 @@
           "background": "#ADD8E6"
         },
         "position": [
-          182.60263340389895,
-          79.5,
-          1
+          244,
+          -85,
+          19
         ],
         "icon": {
           "url": "internal:1/dd150125-b899-a964-bbea-46b315b96b64/",
@@ -354,9 +328,9 @@
       "id": 60,
       "attr": {
         "position": [
-          184,
-          240,
-          2
+          276,
+          237,
+          20
         ],
         "style": {
           "background": "#ADD8E6"
