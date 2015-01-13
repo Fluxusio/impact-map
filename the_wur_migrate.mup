@@ -33,11 +33,11 @@
               "title": "Upload spreadsheet of data",
               "id": 35,
               "attr": {
-                "style": {},
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                }
+                  "content": "https://trello.com/c/Jc3pP95V/88-wur-upload-spreadsheet-of-data-add-new-wur-data"
+                },
+                "style": {}
               }
             }
           }
@@ -131,7 +131,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/olUvU5Qq/89-wur-import-data-from-old-system-view-historical-data"
                 },
                 "style": {}
               }
