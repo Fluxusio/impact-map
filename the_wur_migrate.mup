@@ -1,5 +1,5 @@
 {
-  "title": "Move WUR from current system to Drupal by 30th April '15",
+  "title": "Move WUR from current system to Drupal by 31st March '15",
   "id": 1,
   "formatVersion": 2,
   "attr": {
@@ -28,7 +28,26 @@
               2
             ]
           },
-          "ideas": {}
+          "ideas": {
+            "1": {
+              "title": "Upload spreadsheet of data",
+              "id": 35
+            },
+            "2": {
+              "title": "Set rules around rankings badges",
+              "id": 69
+            },
+            "3": {
+              "title": "Create basic profile page",
+              "id": 65,
+              "attr": {
+                "style": {
+                  "background": "transparent"
+                }
+              },
+              "ideas": {}
+            }
+          }
         }
       },
       "attr": {
@@ -40,12 +59,7 @@
           "width": 32,
           "height": 32,
           "position": "left"
-        },
-        "position": [
-          247,
-          -414,
-          17
-        ]
+        }
       }
     },
     "2": {
@@ -60,12 +74,7 @@
           "width": 32,
           "height": 32,
           "position": "left"
-        },
-        "position": [
-          258,
-          -85,
-          15
-        ]
+        }
       },
       "ideas": {
         "1": {
@@ -87,7 +96,7 @@
           }
         },
         "3": {
-          "title": "Filter by subject/area",
+          "title": "Filter by location",
           "id": 32,
           "attr": {
             "style": {
@@ -114,7 +123,7 @@
           }
         },
         "7": {
-          "title": "Download iOS app",
+          "title": "Download iOS app (?)",
           "id": 52,
           "attr": {
             "style": {
@@ -123,7 +132,7 @@
           }
         },
         "8": {
-          "title": "Can see which unis are in top 10% for a given ranking vertical (100 under 50, top 100 asian rankings)",
+          "title": "Can see which unis are in top 10%, 20% and 30% for a given ranking vertical (100 under 50, top 100 asian rankings) [Badges]",
           "id": 62,
           "attr": {
             "style": {
@@ -145,12 +154,7 @@
           "width": 32,
           "height": 32,
           "position": "left"
-        },
-        "position": [
-          259,
-          246,
-          16
-        ]
+        }
       },
       "ideas": {
         "1": {
@@ -164,7 +168,7 @@
         }
       }
     },
-    "13": {
+    "4": {
       "title": "Marketing",
       "id": 63,
       "attr": {
@@ -176,12 +180,7 @@
           "width": 32,
           "height": 32,
           "position": "left"
-        },
-        "position": [
-          14,
-          371,
-          21
-        ]
+        }
       },
       "ideas": {
         "1": {
@@ -202,7 +201,54 @@
         "1": {
           "title": "Sell enhanced profiles",
           "id": 10,
-          "ideas": {},
+          "ideas": {
+            "1": {
+              "title": "Remove adverts",
+              "id": 13,
+              "attr": {
+                "position": [
+                  165,
+                  -240,
+                  1
+                ],
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "One video",
+              "id": 15
+            },
+            "4": {
+              "title": "Downloads  (PDF/.doc/Prospectus)",
+              "id": 19
+            },
+            "5": {
+              "title": "Contact",
+              "id": 20,
+              "attr": {
+                "style": {}
+              }
+            },
+            "6": {
+              "title": "Add new text/description",
+              "id": 53
+            },
+            "7": {
+              "title": "Add highlighted icon in rankings",
+              "id": 54
+            },
+            "9": {
+              "title": "RSS news feed",
+              "id": 68
+            },
+            "3.5": {
+              "title": "Gallery (5 photos)",
+              "id": 21,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
           "attr": {
             "style": {
               "background": "#ffffff"
@@ -210,7 +256,7 @@
           }
         },
         "2": {
-          "title": "Create Ads",
+          "title": "Insert Ads",
           "id": 31,
           "attr": {
             "style": {
@@ -219,7 +265,7 @@
           }
         },
         "3": {
-          "title": "Create jobs",
+          "title": "Insert and contextualise? jobs",
           "id": 39,
           "attr": {
             "style": {
@@ -237,12 +283,7 @@
           "width": 32,
           "height": 32,
           "position": "left"
-        },
-        "position": [
-          243,
-          -425,
-          18
-        ]
+        }
       }
     },
     "-2": {
@@ -253,9 +294,9 @@
           "background": "#ADD8E6"
         },
         "position": [
-          244,
-          -85,
-          19
+          182.60263340389895,
+          79.5,
+          1
         ],
         "icon": {
           "url": "internal:1/dd150125-b899-a964-bbea-46b315b96b64/",
@@ -276,14 +317,19 @@
           "ideas": {}
         },
         "2": {
-          "title": "Create rankings table analysis",
+          "title": "Create ranking analysis section",
           "id": 40,
           "attr": {
             "style": {
               "background": "#ffffff"
             }
           },
-          "ideas": {}
+          "ideas": {
+            "1": {
+              "title": "Add analysis articles",
+              "id": 70
+            }
+          }
         },
         "4": {
           "title": "Social interaction",
@@ -292,29 +338,73 @@
             "style": {
               "background": "#ffffff"
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "Share",
+              "id": 72
+            },
+            "2": {
+              "title": "Twitter feed",
+              "id": 73
+            }
           }
         },
         "5": {
-          "title": "Add methodology",
+          "title": "Create ranking methodology section",
           "id": 59,
           "attr": {
             "style": {
               "background": "#ffffff"
             }
-          }
-        },
-        "6": {
-          "title": "Create basic profile page",
-          "id": 65,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
+          },
+          "ideas": {
+            "1": {
+              "title": "Manage methodology content",
+              "id": 71
             }
           }
         },
         "7": {
           "title": "Create landing page",
           "id": 66,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Display overall ranking",
+              "id": 74
+            },
+            "2": {
+              "title": "Display 'latest' ranking",
+              "id": 75
+            },
+            "3": {
+              "title": "Display news",
+              "id": 76
+            },
+            "4": {
+              "title": "Display subject ranking",
+              "id": 80,
+              "attr": {}
+            }
+          }
+        },
+        "8": {
+          "title": "Assign data provider logo to ranking (E.g Thomson Reuters/Elsevier)",
+          "id": 78,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "9": {
+          "title": "Assign logo to ranking (E.g World University Rankings, World Reputation Ranking)",
+          "id": 79,
           "attr": {
             "style": {
               "background": "#ffffff"
@@ -328,9 +418,9 @@
       "id": 60,
       "attr": {
         "position": [
-          276,
-          237,
-          20
+          184,
+          240,
+          2
         ],
         "style": {
           "background": "#ADD8E6"
