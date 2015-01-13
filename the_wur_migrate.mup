@@ -26,12 +26,14 @@
               155.39736659610105,
               -105.75,
               2
-            ]
+            ],
+            "collapsed": true
           },
           "ideas": {
             "1": {
               "title": "Upload spreadsheet of data",
-              "id": 35
+              "id": 35,
+              "attr": {}
             },
             "2": {
               "title": "Set rules around rankings badges",
@@ -389,7 +391,9 @@
             "4": {
               "title": "Display subject ranking",
               "id": 80,
-              "attr": {}
+              "attr": {
+                "style": {}
+              }
             }
           }
         },
