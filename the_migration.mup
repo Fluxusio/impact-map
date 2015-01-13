@@ -333,7 +333,14 @@
           "ideas": {
             "1": {
               "title": "Upload file(s) to Drupal",
-              "id": 178
+              "id": 178,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           },
           "attr": {
