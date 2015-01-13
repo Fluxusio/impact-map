@@ -254,7 +254,8 @@
           "attr": {
             "style": {
               "background": "#ffffff"
-            }
+            },
+            "collapsed": true
           }
         },
         "2": {
@@ -324,7 +325,8 @@
           "attr": {
             "style": {
               "background": "#ffffff"
-            }
+            },
+            "collapsed": true
           },
           "ideas": {
             "1": {
@@ -339,7 +341,8 @@
           "attr": {
             "style": {
               "background": "#ffffff"
-            }
+            },
+            "collapsed": true
           },
           "ideas": {
             "1": {
@@ -358,7 +361,8 @@
           "attr": {
             "style": {
               "background": "#ffffff"
-            }
+            },
+            "collapsed": true
           },
           "ideas": {
             "1": {
@@ -373,7 +377,8 @@
           "attr": {
             "style": {
               "background": "#ffffff"
-            }
+            },
+            "collapsed": true
           },
           "ideas": {
             "1": {
