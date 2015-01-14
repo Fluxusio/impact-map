@@ -339,7 +339,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/W2kJsdkd/90-the-upload-file-s-to-drupal-send-magazine-content-to-drupal"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             }
           },

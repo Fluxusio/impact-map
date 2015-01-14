@@ -37,7 +37,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Jc3pP95V/88-wur-upload-spreadsheet-of-data-add-new-wur-data"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -133,7 +135,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/olUvU5Qq/89-wur-import-data-from-old-system-view-historical-data"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             }
           }
