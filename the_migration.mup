@@ -554,7 +554,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/lNYyaGM8/91-the-add-availability-montoring-monitor-system-health"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             },
             "2": {
