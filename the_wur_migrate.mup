@@ -108,7 +108,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/RWQax8Mk/92-wur-resort-rankings-in-pre-defined-orders-sort-rankings"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             }
           }
