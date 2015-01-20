@@ -117,12 +117,16 @@
               "ideas": {}
             },
             "3": {
-              "title": "Share",
+              "title": "Share Page",
               "id": 211
             },
             "4": {
               "title": "Favourite",
               "id": 222
+            },
+            "5": {
+              "title": "Share snippet on selection",
+              "id": 236
             }
           },
           "attr": {
