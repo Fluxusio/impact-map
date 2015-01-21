@@ -141,7 +141,14 @@
           "ideas": {
             "1": {
               "title": "Ensure correct omniture tags on page",
-              "id": 20
+              "id": 20,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           },
           "attr": {
