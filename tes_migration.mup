@@ -147,7 +147,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/wquVdP7s/135-resources-homepage-ensure-correct-omniture-tags-on-page-report-on-usage"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             }
           },
