@@ -105,7 +105,14 @@
           "ideas": {
             "1": {
               "title": "Import feed",
-              "id": 38
+              "id": 38,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
