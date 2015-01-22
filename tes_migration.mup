@@ -137,7 +137,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/dWCyR58D/136-resources-homepage-import-feed-add-dynamic-content-from-resource-hub"
                 },
-                "style": {}
+                "style": {
+                  "background": "transparent"
+                }
               }
             }
           }
@@ -159,7 +161,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/kIDdCAY8/137-resources-homepage-create-resources-homepage-content-type-manage-layout"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             }
           }
