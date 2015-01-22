@@ -37,11 +37,21 @@
           "ideas": {
             "1": {
               "title": "Free text",
-              "id": 28
+              "id": 28,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/a55J5l6j/138-resources-homepage-free-text-search-search-for-resources"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Guided by school phase",
-              "id": 30
+              "id": 30,
+              "attr": {
+                "style": {}
+              }
             }
           },
           "attr": {
