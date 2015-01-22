@@ -63,6 +63,21 @@
               "background": "#FFFFFF"
             }
           }
+        },
+        "2": {
+          "title": "Navigate resources section",
+          "id": 46,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Resources subnavigation",
+              "id": 47
+            }
+          }
         }
       }
     },
