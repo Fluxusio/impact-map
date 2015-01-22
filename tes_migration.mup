@@ -36,7 +36,7 @@
           "id": 21,
           "ideas": {
             "1": {
-              "title": "Free text",
+              "title": "Free text search",
               "id": 28,
               "attr": {
                 "attachment": {
@@ -47,10 +47,14 @@
               }
             },
             "2": {
-              "title": "Guided by school phase",
+              "title": "Guided search by school phase",
               "id": 30,
               "attr": {
-                "style": {}
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/FqqrR619/140-resources-homepage-guided-search-by-school-phase-search-for-resources"
+                }
               }
             }
           },
