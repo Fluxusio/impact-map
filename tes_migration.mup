@@ -79,7 +79,19 @@
         "1": {
           "title": "Toggle opening message section",
           "id": 31,
-          "ideas": {},
+          "ideas": {
+            "1": {
+              "title": "Add optional opening message fields",
+              "id": 44,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/7Rv7XRiS/139-resources-homepage-add-optional-opening-message-fields-toggle-opening-message"
+                },
+                "style": {}
+              }
+            }
+          },
           "attr": {
             "style": {
               "background": "#FFFFFF"
