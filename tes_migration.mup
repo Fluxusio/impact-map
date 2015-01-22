@@ -123,6 +123,19 @@
             "style": {
               "background": "#FFFFFF"
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "Create Resources Homepage content type",
+              "id": 43,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/kIDdCAY8/137-resources-homepage-create-resources-homepage-content-type-manage-layout"
+                },
+                "style": {}
+              }
+            }
           }
         }
       },
