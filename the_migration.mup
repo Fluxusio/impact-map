@@ -37,7 +37,14 @@
           "ideas": {
             "1": {
               "title": "Import webvision users",
-              "id": 190
+              "id": 190,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           },
           "attr": {
@@ -53,11 +60,25 @@
             "1": {
               "title": "Import webvision content",
               "id": 192,
-              "ideas": {}
+              "ideas": {},
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Provide search form",
-              "id": 194
+              "id": 194,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           },
           "attr": {
@@ -109,24 +130,59 @@
           "ideas": {
             "1": {
               "title": "Comment",
-              "id": 208
+              "id": 208,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Rate",
               "id": 209,
-              "ideas": {}
+              "ideas": {},
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "3": {
               "title": "Share Page with relevant images, content etc",
-              "id": 211
+              "id": 211,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "4": {
               "title": "Favourite",
-              "id": 222
+              "id": 222,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "5": {
               "title": "Share snippet on selection",
-              "id": 236
+              "id": 236,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           },
           "attr": {
@@ -176,15 +232,36 @@
           "ideas": {
             "1": {
               "title": "Create Website Content",
-              "id": 168
+              "id": 168,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Attach Page Turner PDF",
-              "id": 169
+              "id": 169,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "3": {
               "title": "Publish on Schedule",
-              "id": 170
+              "id": 170,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -199,15 +276,36 @@
           "ideas": {
             "1": {
               "title": "Add metadata to content",
-              "id": 176
+              "id": 176,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Add web images to content",
-              "id": 180
+              "id": 180,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "3": {
               "title": "Publish on Schedule",
-              "id": 185
+              "id": 185,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -565,11 +663,25 @@
             },
             "2": {
               "title": "Performance",
-              "id": 234
+              "id": 234,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "3": {
               "title": "Resource utilization",
-              "id": 235
+              "id": 235,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
