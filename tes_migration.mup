@@ -43,14 +43,18 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/a55J5l6j/138-resources-homepage-free-text-search-search-for-resources"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             },
             "2": {
               "title": "Guided search by school phase",
               "id": 30,
               "attr": {
-                "style": {},
+                "style": {
+                  "background": "#d3d3d3"
+                },
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/FqqrR619/140-resources-homepage-guided-search-by-school-phase-search-for-resources"
@@ -107,7 +111,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/7Rv7XRiS/139-resources-homepage-add-optional-opening-message-fields-toggle-opening-message"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           },
@@ -153,7 +159,7 @@
                   "content": "https://trello.com/c/dWCyR58D/136-resources-homepage-import-feed-add-dynamic-content-from-resource-hub"
                 },
                 "style": {
-                  "background": "transparent"
+                  "background": "#FFB6C1"
                 }
               }
             }
