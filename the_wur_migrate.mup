@@ -38,7 +38,7 @@
                   "content": "https://trello.com/c/Jc3pP95V/88-wur-upload-spreadsheet-of-data-add-new-wur-data"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#d3d3d3"
                 }
               }
             }
@@ -130,7 +130,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/Fa2Z7NIF/110-wur-search-for-institution-by-name-search-for-institutions"
                 },
                 "style": {}
               }
@@ -141,7 +141,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/X4rbDkDl/109-wur-search-for-institution-by-location-search-for-institutions"
                 },
                 "style": {}
               }

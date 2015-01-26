@@ -43,7 +43,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/dMblSOEz/95-the-import-webvision-users-login"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           },
@@ -66,7 +68,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/JFq9iDxH/97-the-import-webvision-content-search-for-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
@@ -77,7 +81,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Ze2OGpG5/96-the-provide-search-form-search-for-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           },
@@ -136,7 +142,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/fCJdaNjs/94-the-comment-engage-with-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
@@ -148,7 +156,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/4cnpTJcl/93-the-rate-engage-with-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "3": {
@@ -159,7 +169,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/uH1S3Yum/98-the-share-page-with-relevant-images-content-etc-engage-with-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "4": {
@@ -170,7 +182,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/YLHAlS9l/99-the-favourite-engage-with-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "5": {
@@ -181,7 +195,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/VJTAnkPk/100-the-share-snippet-on-selection-engage-with-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           },
@@ -238,7 +254,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Dgg8glKS/105-the-create-website-content-publish-page-turner-edition"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
@@ -249,7 +267,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/AbQ6yfy2/101-the-attach-page-turner-pdf-publish-page-turner-edition"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "3": {
@@ -260,7 +280,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/fWrFPw8R/102-the-publish-on-schedule-publish-page-turner-edition"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -282,7 +304,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/LsfOqUHD/108-the-add-metadata-to-content-publish-magazine-content-on-website"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             },
             "2": {
@@ -293,7 +317,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/aSFOUuMD/103-the-add-web-images-to-content-publish-magazine-content-on-website"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "3": {
@@ -304,7 +330,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/yBvjgPHN/104-the-publish-on-schedule-publish-magazine-content-on-website"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -442,7 +470,7 @@
                   "content": "https://trello.com/c/W2kJsdkd/90-the-upload-file-s-to-drupal-send-magazine-content-to-drupal"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -669,7 +697,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/NtuG8Fyl/107-the-performance-monitor-system-health"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "3": {
@@ -680,7 +710,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/ek9FnEHj/106-the-resource-utilization-monitor-system-health"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
