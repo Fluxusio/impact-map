@@ -122,14 +122,29 @@
             "style": {
               "background": "#ffffff"
             }
-          }
-        },
-        "3": {
-          "title": "Filter by location",
-          "id": 32,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
+          },
+          "ideas": {
+            "1": {
+              "title": "Search for institution by name",
+              "id": 84,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Search for institution by location",
+              "id": 85,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
