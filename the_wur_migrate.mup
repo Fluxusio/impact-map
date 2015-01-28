@@ -209,6 +209,25 @@
               "background": "#ffffff"
             }
           }
+        },
+        "9": {
+          "title": "Share on social media",
+          "id": 87,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Twitter",
+              "id": 88
+            },
+            "2": {
+              "title": "Facebook",
+              "id": 89
+            }
+          }
         }
       }
     },
