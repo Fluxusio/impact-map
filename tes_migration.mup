@@ -79,7 +79,16 @@
           "ideas": {
             "1": {
               "title": "Resources subnavigation",
-              "id": 47
+              "id": 47,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/Nmbrplar/145-resources-homepage-resources-subnavigation-navigate-resources-section"
+                }
+              }
             }
           }
         }
