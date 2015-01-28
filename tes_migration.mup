@@ -53,7 +53,7 @@
               "id": 30,
               "attr": {
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 },
                 "attachment": {
                   "contentType": "text/html",

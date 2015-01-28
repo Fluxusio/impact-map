@@ -139,7 +139,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Fa2Z7NIF/110-wur-search-for-institution-by-name-search-for-institutions"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
@@ -150,7 +152,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/X4rbDkDl/109-wur-search-for-institution-by-location-search-for-institutions"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -173,7 +177,7 @@
                   "content": "https://trello.com/c/olUvU5Qq/89-wur-import-data-from-old-system-view-historical-data"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             }
