@@ -51,7 +51,14 @@
             },
             "3": {
               "title": "Review unpublished data",
-              "id": 100
+              "id": 100,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -346,16 +353,34 @@
               "title": "Indicate enhanced profile in rankings",
               "id": 54,
               "attr": {
-                "style": {}
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                }
               }
             },
             "2": {
               "title": "Add information to enhanced profle",
-              "id": 95
+              "id": 95,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "3": {
               "title": "Remove adverts from normal profile",
-              "id": 96
+              "id": 96,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
@@ -403,11 +428,25 @@
           "ideas": {
             "1": {
               "title": "Create News Item",
-              "id": 97
+              "id": 97,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Publish News Item in the Future",
-              "id": 98
+              "id": 98,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -446,11 +485,25 @@
           "ideas": {
             "1": {
               "title": "Create New Rankings Dataset",
-              "id": 101
+              "id": 101,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Publish Rankings dataset in future",
-              "id": 103
+              "id": 103,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
