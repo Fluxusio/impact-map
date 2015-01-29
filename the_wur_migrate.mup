@@ -38,7 +38,7 @@
                   "content": "https://trello.com/c/Jc3pP95V/88-wur-upload-spreadsheet-of-data-add-new-wur-data"
                 },
                 "style": {
-                  "background": "#000000"
+                  "background": "#d3d3d3"
                 }
               }
             },
@@ -55,7 +55,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/mUQCD3Wo/113-wur-review-unpublished-data-add-new-wur-data"
                 },
                 "style": {}
               }
@@ -127,7 +127,7 @@
                   "content": "https://trello.com/c/RWQax8Mk/92-wur-resort-rankings-in-pre-defined-orders-sort-rankings"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -248,7 +248,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/gRfMqXwj/112-wur-twitter-share-on-social-media"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
@@ -259,7 +261,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/ZRYqSJWe/111-wur-facebook-share-on-social-media"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             }
           }
@@ -353,11 +357,11 @@
               "title": "Indicate enhanced profile in rankings",
               "id": 54,
               "attr": {
-                "style": {},
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                }
+                  "content": "https://trello.com/c/d6m2d7sL/114-wur-indicate-enhanced-profile-in-rankings-sell-enhance-institution-profiles"
+                },
+                "style": {}
               }
             },
             "2": {
@@ -366,7 +370,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/YEbhynRs/115-wur-add-information-to-enhanced-profle-sell-enhance-institution-profiles"
                 },
                 "style": {}
               }
@@ -377,7 +381,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/Pd4U9Hvf/117-wur-remove-adverts-from-normal-profile-sell-enhance-institution-profiles"
                 },
                 "style": {}
               }
@@ -432,7 +436,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/tSNrdl9f/116-wur-create-news-item-associate-news-with-rankings-dataset"
                 },
                 "style": {}
               }
@@ -443,7 +447,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/bXPupKfs/118-wur-publish-news-item-in-the-future-associate-news-with-rankings-dataset"
                 },
                 "style": {}
               }
@@ -489,7 +493,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/q2EIkwds/119-wur-create-new-rankings-dataset-publish-new-ranking-datasets"
                 },
                 "style": {}
               }
@@ -500,7 +504,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/c8KeIsiJ/120-wur-publish-rankings-dataset-in-future-publish-new-ranking-datasets"
                 },
                 "style": {}
               }
