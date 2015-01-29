@@ -343,9 +343,26 @@
           "attr": {
             "style": {
               "background": "#FFFFFF"
-            }
+            },
+            "position": [
+              110.5,
+              119,
+              1
+            ]
           },
-          "ideas": {}
+          "ideas": {
+            "1": {
+              "title": "Pugpig integration",
+              "id": 238,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/lyrHMESv/122-the-pugpig-integration-produce-app-edition"
+                },
+                "style": {}
+              }
+            }
+          }
         },
         "4": {
           "title": "Receive Notification of Comments",
