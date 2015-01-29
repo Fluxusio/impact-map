@@ -38,7 +38,7 @@
                   "content": "https://trello.com/c/Jc3pP95V/88-wur-upload-spreadsheet-of-data-add-new-wur-data"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#000000"
                 }
               }
             },
@@ -48,6 +48,10 @@
               "attr": {
                 "style": {}
               }
+            },
+            "3": {
+              "title": "Review unpublished data",
+              "id": 100
             }
           }
         },
@@ -190,6 +194,16 @@
             "style": {
               "background": "#ffffff"
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "Email",
+              "id": 90
+            },
+            "2": {
+              "title": "Contact form",
+              "id": 91
+            }
           }
         },
         "7": {
@@ -301,64 +315,6 @@
       "title": "Sales team",
       "id": 8,
       "ideas": {
-        "1": {
-          "title": "Sell enhanced profiles",
-          "id": 10,
-          "ideas": {
-            "1": {
-              "title": "Remove adverts",
-              "id": 13,
-              "attr": {
-                "position": [
-                  165,
-                  -240,
-                  1
-                ],
-                "style": {}
-              }
-            },
-            "2": {
-              "title": "One video",
-              "id": 15
-            },
-            "4": {
-              "title": "Downloads  (PDF/.doc/Prospectus)",
-              "id": 19
-            },
-            "5": {
-              "title": "Contact",
-              "id": 20,
-              "attr": {
-                "style": {}
-              }
-            },
-            "6": {
-              "title": "Add new text/description",
-              "id": 53
-            },
-            "7": {
-              "title": "Add highlighted icon in rankings",
-              "id": 54
-            },
-            "9": {
-              "title": "RSS news feed",
-              "id": 68
-            },
-            "3.5": {
-              "title": "Gallery (5 photos)",
-              "id": 21,
-              "attr": {
-                "style": {}
-              }
-            }
-          },
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            },
-            "collapsed": true
-          }
-        },
         "2": {
           "title": "Insert Ads",
           "id": 31,
@@ -374,6 +330,32 @@
           "attr": {
             "style": {
               "background": "#ffffff"
+            }
+          }
+        },
+        "4": {
+          "title": "Sell enhance institution profiles",
+          "id": 93,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Indicate enhanced profile in rankings",
+              "id": 54,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Add information to enhanced profle",
+              "id": 95
+            },
+            "3": {
+              "title": "Remove adverts from normal profile",
+              "id": 96
             }
           }
         }
@@ -411,28 +393,21 @@
       },
       "ideas": {
         "1": {
-          "title": "Create News",
+          "title": "Associate News with Rankings Dataset",
           "id": 37,
           "attr": {
             "style": {
               "background": "#ffffff"
             }
           },
-          "ideas": {}
-        },
-        "2": {
-          "title": "Create ranking analysis section",
-          "id": 40,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            },
-            "collapsed": true
-          },
           "ideas": {
             "1": {
-              "title": "Add analysis articles",
-              "id": 70
+              "title": "Create News Item",
+              "id": 97
+            },
+            "2": {
+              "title": "Publish News Item in the Future",
+              "id": 98
             }
           }
         },
@@ -442,8 +417,7 @@
           "attr": {
             "style": {
               "background": "#ffffff"
-            },
-            "collapsed": true
+            }
           },
           "ideas": {
             "1": {
@@ -456,68 +430,27 @@
             }
           }
         },
-        "5": {
-          "title": "Create ranking methodology section",
-          "id": 59,
+        "10": {
+          "title": "Publish New Ranking Datasets",
+          "id": 92,
           "attr": {
             "style": {
-              "background": "#ffffff"
+              "background": "#FFFFFF"
             },
-            "collapsed": true
+            "position": [
+              122.5,
+              113,
+              1
+            ]
           },
           "ideas": {
             "1": {
-              "title": "Manage methodology content",
-              "id": 71
-            }
-          }
-        },
-        "7": {
-          "title": "Create landing page",
-          "id": 66,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            },
-            "collapsed": true
-          },
-          "ideas": {
-            "1": {
-              "title": "Display overall ranking",
-              "id": 74
+              "title": "Create New Rankings Dataset",
+              "id": 101
             },
             "2": {
-              "title": "Display 'latest' ranking",
-              "id": 75
-            },
-            "3": {
-              "title": "Display news",
-              "id": 76
-            },
-            "4": {
-              "title": "Display subject ranking",
-              "id": 80,
-              "attr": {
-                "style": {}
-              }
-            }
-          }
-        },
-        "8": {
-          "title": "Assign data provider logo to ranking (E.g Thomson Reuters/Elsevier)",
-          "id": 78,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
-        "9": {
-          "title": "Assign logo to ranking (E.g World University Rankings, World Reputation Ranking)",
-          "id": 79,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
+              "title": "Publish Rankings dataset in future",
+              "id": 103
             }
           }
         }
