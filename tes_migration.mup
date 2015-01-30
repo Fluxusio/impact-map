@@ -133,11 +133,26 @@
           }
         },
         "2": {
-          "title": "Add individual resources",
+          "title": "Add individual editorial promos\n",
           "id": 33,
           "attr": {
             "style": {
               "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Update resources tile content type to support extra fields for ed. promos",
+              "id": 50,
+              "attr": {
+                "style": {
+                  "background": "transparent"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/PRiwdFKY/162-resources-homepage-editorial-promos-update-resources-tile-content-type-to-support-extra-fields-for-ed-promos"
+                }
+              }
             }
           }
         },
