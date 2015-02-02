@@ -57,7 +57,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/mUQCD3Wo/113-wur-review-unpublished-data-add-new-wur-data"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -164,7 +166,7 @@
                   "content": "https://trello.com/c/X4rbDkDl/109-wur-search-for-institution-by-location-search-for-institutions"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -361,7 +363,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/d6m2d7sL/114-wur-indicate-enhanced-profile-in-rankings-sell-enhance-institution-profiles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
@@ -372,7 +376,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/YEbhynRs/115-wur-add-information-to-enhanced-profle-sell-enhance-institution-profiles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "3": {
@@ -383,7 +389,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Pd4U9Hvf/117-wur-remove-adverts-from-normal-profile-sell-enhance-institution-profiles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -438,7 +446,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/tSNrdl9f/116-wur-create-news-item-associate-news-with-rankings-dataset"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
@@ -449,7 +459,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/bXPupKfs/118-wur-publish-news-item-in-the-future-associate-news-with-rankings-dataset"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -495,7 +507,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/q2EIkwds/119-wur-create-new-rankings-dataset-publish-new-ranking-datasets"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
@@ -506,7 +520,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/c8KeIsiJ/120-wur-publish-rankings-dataset-in-future-publish-new-ranking-datasets"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }

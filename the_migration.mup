@@ -359,7 +359,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/lyrHMESv/122-the-pugpig-integration-produce-app-edition"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             }
           }
@@ -487,7 +489,7 @@
                   "content": "https://trello.com/c/W2kJsdkd/90-the-upload-file-s-to-drupal-send-magazine-content-to-drupal"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             }
@@ -740,7 +742,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/M846wNfQ/121-the-add-new-relic-monitoring-monitor-system-health"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
