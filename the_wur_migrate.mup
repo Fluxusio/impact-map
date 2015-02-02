@@ -82,6 +82,25 @@
             }
           },
           "ideas": {}
+        },
+        "4": {
+          "title": "Add New WUR Institutions",
+          "id": 105,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Import from Spreadsheet",
+              "id": 107
+            },
+            "2": {
+              "title": "Add manually",
+              "id": 108
+            }
+          }
         }
       },
       "attr": {
