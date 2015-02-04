@@ -186,6 +186,17 @@
                   "background": "#00ff00"
                 }
               }
+            },
+            "2": {
+              "title": "Auto refresh feeds content option",
+              "id": 52,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/CJ7DmLk2/169-resources-homepage-editorial-promos-support-auto-refresh-of-the-feeds-content"
+                },
+                "style": {}
+              }
             }
           }
         },
