@@ -82,7 +82,7 @@
               "id": 47,
               "attr": {
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 },
                 "attachment": {
                   "contentType": "text/html",
@@ -183,7 +183,7 @@
                   "content": "https://trello.com/c/dWCyR58D/136-resources-homepage-import-feed-add-dynamic-content-from-resource-hub"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             }
