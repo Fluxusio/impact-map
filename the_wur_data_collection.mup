@@ -34,7 +34,8 @@
               "background": "#ffffff"
             }
           },
-          "id": 7
+          "id": 7,
+          "ideas": {}
         },
         "2": {
           "title": "Adds additional contacts",
@@ -72,6 +73,34 @@
             }
           },
           "id": 23
+        },
+        "6": {
+          "title": "Receives notification of data approval",
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "id": 44,
+          "ideas": {}
+        },
+        "7": {
+          "title": "Receives notification of data rejection",
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "id": 47
+        },
+        "0.5": {
+          "title": "Receives notification of account creation",
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "id": 43
         }
       },
       "id": 6
@@ -89,9 +118,9 @@
           "position": "left"
         },
         "position": [
-          178,
-          246,
-          10
+          175,
+          335,
+          13
         ]
       },
       "ideas": {
@@ -149,6 +178,15 @@
             }
           },
           "id": 37
+        },
+        "7": {
+          "title": "Receives confirmation of data approval",
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "id": 48
         }
       },
       "id": 9
