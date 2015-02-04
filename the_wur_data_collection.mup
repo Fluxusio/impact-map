@@ -93,6 +93,15 @@
           },
           "id": 47
         },
+        "8": {
+          "title": "Amends data",
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "id": 49
+        },
         "0.5": {
           "title": "Receives notification of account creation",
           "attr": {
