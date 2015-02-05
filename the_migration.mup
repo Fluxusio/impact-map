@@ -36,15 +36,14 @@
           "id": 189,
           "ideas": {
             "1": {
-              "title": "Import webvision users",
-              "id": 190,
+              "title": "Implement Webvision password hashing",
+              "id": 240,
+              "ideas": {},
               "attr": {
+                "style": {},
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "https://trello.com/c/dMblSOEz/95-the-import-webvision-users-login"
-                },
-                "style": {
-                  "background": "#FFB6C1"
+                  "content": "backlog"
                 }
               }
             }
@@ -110,6 +109,21 @@
             "style": {
               "background": "#FFFFFF"
             }
+          },
+          "ideas": {
+            "2": {
+              "title": "Import webvision users",
+              "id": 190,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/dMblSOEz/95-the-import-webvision-users-login"
+                },
+                "style": {
+                  "background": "#FFB6C1"
+                }
+              }
+            }
           }
         },
         "5": {
@@ -127,6 +141,19 @@
           "attr": {
             "style": {
               "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Import webvision profiles",
+              "id": 239,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
