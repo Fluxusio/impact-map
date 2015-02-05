@@ -40,11 +40,11 @@
               "id": 240,
               "ideas": {},
               "attr": {
-                "style": {},
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                }
+                  "content": "https://trello.com/c/3MLEoJGE/124-the-implement-webvision-password-hashing-login"
+                },
+                "style": {}
               }
             }
           },
@@ -150,7 +150,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/LiLXlm0F/123-the-import-webvision-profiles-update-profile"
                 },
                 "style": {}
               }
