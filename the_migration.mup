@@ -135,28 +135,6 @@
             }
           }
         },
-        "6": {
-          "title": "Update Profile",
-          "id": 204,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "Import webvision profiles",
-              "id": 239,
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/LiLXlm0F/123-the-import-webvision-profiles-update-profile"
-                },
-                "style": {}
-              }
-            }
-          }
-        },
         "9": {
           "title": "Engage with Content",
           "id": 207,
@@ -662,6 +640,28 @@
           "attr": {
             "style": {
               "background": "#FFFFFF"
+            }
+          }
+        },
+        "4": {
+          "title": "Get user profiles",
+          "id": 204,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Import webvision profiles",
+              "id": 239,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/LiLXlm0F/123-the-import-webvision-profiles-update-profile"
+                },
+                "style": {}
+              }
             }
           }
         }
