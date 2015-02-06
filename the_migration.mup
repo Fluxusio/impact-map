@@ -44,7 +44,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/3MLEoJGE/124-the-implement-webvision-password-hashing-login"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           },
@@ -106,7 +108,7 @@
                   "content": "https://trello.com/c/dMblSOEz/95-the-import-webvision-users-login"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -125,7 +127,9 @@
               "title": "Import webvision content",
               "id": 242,
               "attr": {
-                "style": {},
+                "style": {
+                  "background": "#FFB6C1"
+                },
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/JFq9iDxH/97-the-import-webvision-content-access-eligible-content"
@@ -663,7 +667,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/LiLXlm0F/123-the-import-webvision-profiles-update-profile"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
