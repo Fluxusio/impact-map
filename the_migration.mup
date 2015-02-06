@@ -83,7 +83,19 @@
         "3": {
           "title": "Register",
           "id": 195,
-          "ideas": {},
+          "ideas": {
+            "1": {
+              "title": "Provide sign-up form",
+              "id": 244,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          },
           "attr": {
             "style": {
               "background": "#FFFFFF"
@@ -138,7 +150,14 @@
             },
             "2": {
               "title": "Check subscription entitlement",
-              "id": 243
+              "id": 243,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -375,6 +394,50 @@
                   "background": "#FFB6C1"
                 }
               }
+            },
+            "2": {
+              "title": "Create new PugPig Issue",
+              "id": 260,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Add Articles to PugPig Issue",
+              "id": 261,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "4": {
+              "title": "Publish to iTunes store",
+              "id": 262,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "5": {
+              "title": "Publish to Play store",
+              "id": 263,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -385,7 +448,20 @@
               "background": "#FFFFFF"
             }
           },
-          "id": 228
+          "id": 228,
+          "ideas": {
+            "1": {
+              "title": "Send email notifications",
+              "id": 264,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          }
         }
       }
     },
@@ -420,7 +496,30 @@
         "1": {
           "title": "Update Web Headlines",
           "id": 181,
-          "ideas": {},
+          "ideas": {
+            "1": {
+              "title": "Find unpublished web articles",
+              "id": 253,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Update headlines",
+              "id": 254,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          },
           "attr": {
             "style": {
               "background": "#FFFFFF"
@@ -433,6 +532,19 @@
           "attr": {
             "style": {
               "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Update standfirsts",
+              "id": 255,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
@@ -463,6 +575,30 @@
           "attr": {
             "style": {
               "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Add omniture tags",
+              "id": 245,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "basecamp"
+                },
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Add GA tags",
+              "id": 246,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "basecamp"
+                },
+                "style": {}
+              }
             }
           }
         }
@@ -599,6 +735,19 @@
             "style": {
               "background": "#FFFFFF"
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "Unpublish content immediately",
+              "id": 256,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
           }
         },
         "3": {
@@ -607,6 +756,19 @@
           "attr": {
             "style": {
               "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Mark user as blocked from commenting",
+              "id": 249,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
@@ -673,6 +835,50 @@
               }
             }
           }
+        },
+        "5": {
+          "title": "Highlight most commented articles",
+          "id": 257,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Create most commented block",
+              "id": 265,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          }
+        },
+        "6": {
+          "title": "Highlight most read articles",
+          "id": 258,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Create most read block",
+              "id": 266,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          }
         }
       },
       "id": 218
@@ -703,7 +909,20 @@
               "background": "#FFFFFF"
             }
           },
-          "id": 227
+          "id": 227,
+          "ideas": {
+            "1": {
+              "title": "Send email notification",
+              "id": 247,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          }
         }
       },
       "id": 225
