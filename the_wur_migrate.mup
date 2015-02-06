@@ -71,17 +71,31 @@
             "style": {
               "background": "#FFFFFF"
             }
-          }
-        },
-        "3": {
-          "title": "Create basic profile page",
-          "id": 65,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
           },
-          "ideas": {}
+          "ideas": {
+            "1": {
+              "title": "Hardcode rankings rules",
+              "id": 113,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Customisable rules",
+              "id": 114,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          }
         },
         "4": {
           "title": "Add New WUR Institutions",
@@ -94,11 +108,25 @@
           "ideas": {
             "1": {
               "title": "Import from Spreadsheet",
-              "id": 107
+              "id": 107,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Add manually",
-              "id": 108
+              "id": 108,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
@@ -226,11 +254,25 @@
           "ideas": {
             "1": {
               "title": "Email",
-              "id": 90
+              "id": 90,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Contact form",
-              "id": 91
+              "id": 91,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -249,6 +291,19 @@
           "attr": {
             "style": {
               "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Display badges for institutions",
+              "id": 112,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -312,6 +367,30 @@
           "attr": {
             "style": {
               "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "2": {
+              "title": "Add GA tags",
+              "id": 111,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "12": {
+              "title": "Add omniture tags",
+              "id": 110,
+              "attr": {
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                }
+              }
             }
           }
         }
@@ -574,6 +653,19 @@
           "attr": {
             "style": {
               "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Ensure current links are redirected",
+              "id": 109,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
