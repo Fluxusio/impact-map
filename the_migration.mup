@@ -58,20 +58,6 @@
           "title": "Search for Content",
           "id": 191,
           "ideas": {
-            "1": {
-              "title": "Import webvision content",
-              "id": 192,
-              "ideas": {},
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/JFq9iDxH/97-the-import-webvision-content-search-for-content"
-                },
-                "style": {
-                  "background": "#d3d3d3"
-                }
-              }
-            },
             "2": {
               "title": "Provide search form",
               "id": 194,
@@ -132,6 +118,23 @@
           "attr": {
             "style": {
               "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Import webvision content",
+              "id": 242,
+              "attr": {
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/JFq9iDxH/97-the-import-webvision-content-access-eligible-content"
+                }
+              }
+            },
+            "2": {
+              "title": "Check subscription entitlement",
+              "id": 243
             }
           }
         },
