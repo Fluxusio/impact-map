@@ -92,7 +92,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/YCbfMKDC/125-the-provide-sign-up-form-register"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           },
@@ -156,7 +158,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/px8AIBe8/126-the-check-subscription-entitlement-access-eligible-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -403,7 +407,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/OhJgup2P/127-the-create-new-pugpig-issue-produce-app-edition"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "3": {
@@ -414,7 +420,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/YyHptk2l/128-the-add-articles-to-pugpig-issue-produce-app-edition"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "4": {
@@ -425,7 +433,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/cd2NHcl8/131-the-publish-to-itunes-store-produce-app-edition"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "5": {
@@ -436,7 +446,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/xx1wdO8z/129-the-publish-to-play-store-produce-app-edition"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -458,7 +470,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/8Uo15mKc/130-the-send-email-notifications-receive-notification-of-comments"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -505,7 +519,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/r6bf7DFl/132-the-find-unpublished-web-articles-update-web-headlines"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
@@ -516,7 +532,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/T1ie2bUu/133-the-update-headlines-update-web-headlines"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           },
@@ -543,7 +561,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/1bBgchdd/134-the-update-standfirsts-update-web-standfirsts"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -745,7 +765,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/8dDJkDht/136-the-unpublish-content-immediately-spike-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -767,7 +789,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/1AKcPrPd/135-the-mark-user-as-blocked-from-commenting-prevent-user-from-commenting"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -853,7 +877,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/fZFlZXDn/137-the-create-most-commented-block-highlight-most-commented-articles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -875,7 +901,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/T3PIL1U8/138-the-create-most-read-block-highlight-most-read-articles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -919,7 +947,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/jDBjXrgK/139-the-send-email-notification-receive-notification-of-comments"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
