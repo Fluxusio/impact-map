@@ -79,7 +79,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/6AdAZ1rX/152-wur-hardcode-rankings-rules-set-rules-around-rankings-badges"
                 },
                 "style": {}
               }
@@ -90,7 +90,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/sJlgGOZk/150-wur-customisable-rules-set-rules-around-rankings-badges"
                 },
                 "style": {}
               }
@@ -112,7 +112,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/cYR9N7ER/151-wur-import-from-spreadsheet-add-new-wur-institutions"
                 },
                 "style": {}
               }
@@ -123,7 +123,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/uSxtE64J/153-wur-add-manually-add-new-wur-institutions"
                 },
                 "style": {}
               }
@@ -258,7 +258,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/zovvocpc/155-wur-email-contact-wur-team"
                 },
                 "style": {}
               }
@@ -269,7 +269,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/VhoZeE7e/154-wur-contact-form-contact-wur-team"
                 },
                 "style": {}
               }
@@ -300,7 +300,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/Yym9k9Rt/156-wur-display-badges-for-institutions-can-see-which-unis-are-in-top-10-20-and-30-for-a-given-ranking-vertical-100-under-50-top-100"
                 },
                 "style": {}
               }
@@ -376,7 +376,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/C047RZCP/157-wur-add-ga-tags-report-on-usage-statistics"
                 },
                 "style": {}
               }
@@ -385,11 +385,11 @@
               "title": "Add omniture tags",
               "id": 110,
               "attr": {
-                "style": {},
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                }
+                  "content": "https://trello.com/c/4DNuHIJ5/158-wur-add-omniture-tags-report-on-usage-statistics"
+                },
+                "style": {}
               }
             }
           }
@@ -568,7 +568,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/7fuSA6QV/159-wur-link-dataset-to-news-item-via-tags-associate-news-with-rankings-dataset"
                 },
                 "style": {}
               }
@@ -673,7 +673,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/DgGMBUWX/160-wur-ensure-current-links-are-redirected-inbound-links-esp-to-historical-data"
                 },
                 "style": {}
               }
