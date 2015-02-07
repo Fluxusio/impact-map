@@ -163,6 +163,19 @@
             "style": {
               "background": "#FFFFFF"
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "Add field for quick links row",
+              "id": 54,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/Id5KTLzK/174-resources-homepage-add-fields-for-quick-links-on-the-resources-homepage"
+                },
+                "style": {}
+              }
+            }
           }
         },
         "4": {
