@@ -631,6 +631,23 @@
               }
             }
           }
+        },
+        "11": {
+          "title": "Associate News with Institutions",
+          "id": 119,
+          "ideas": {
+            "1": {
+              "title": "Link Institutions to new item via tags",
+              "id": 120,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          }
         }
       }
     },
