@@ -146,7 +146,7 @@
               "id": 50,
               "attr": {
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 },
                 "attachment": {
                   "contentType": "text/html",
@@ -211,7 +211,7 @@
                   "content": "https://trello.com/c/CJ7DmLk2/169-resources-homepage-editorial-promos-support-auto-refresh-of-the-feeds-content"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             }

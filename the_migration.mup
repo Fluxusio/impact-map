@@ -142,7 +142,7 @@
               "id": 242,
               "attr": {
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 },
                 "attachment": {
                   "contentType": "text/html",
@@ -340,7 +340,7 @@
                   "content": "https://trello.com/c/LsfOqUHD/108-the-add-metadata-to-content-publish-magazine-content-on-website"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -866,7 +866,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/HTd2oE6V/161-the-capture-user-details-get-user-profiles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
