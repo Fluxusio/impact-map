@@ -857,6 +857,17 @@
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "2": {
+              "title": "Capture user details",
+              "id": 269,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
