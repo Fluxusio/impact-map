@@ -122,7 +122,7 @@
                   "content": "https://trello.com/c/dMblSOEz/95-the-import-webvision-users-login"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -340,7 +340,7 @@
                   "content": "https://trello.com/c/LsfOqUHD/108-the-add-metadata-to-content-publish-magazine-content-on-website"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#d3d3d3"
                 }
               }
             },
@@ -864,7 +864,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/HTd2oE6V/161-the-capture-user-details-get-user-profiles"
                 },
                 "style": {}
               }

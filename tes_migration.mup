@@ -173,7 +173,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Id5KTLzK/174-resources-homepage-add-fields-for-quick-links-on-the-resources-homepage"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             }
           }
