@@ -297,30 +297,6 @@
             }
           }
         },
-        "8": {
-          "title": "Can see which unis are in top 10%, 20% and 30% for a given ranking vertical (100 under 50, top 100 asian rankings) [Badges]",
-          "id": 62,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "Display badges for institutions",
-              "id": 112,
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/Yym9k9Rt/156-wur-display-badges-for-institutions-can-see-which-unis-are-in-top-10-20-and-30-for-a-given-ranking-vertical-100-under-50-top-100"
-                },
-                "style": {
-                  "background": "#d3d3d3"
-                }
-              }
-            }
-          }
-        },
         "9": {
           "title": "Share on social media",
           "id": 87,
