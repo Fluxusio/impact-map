@@ -171,7 +171,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/hb4zjy3Y/163-the-restrict-access-to-anonymous-users-access-eligible-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "4": {
@@ -182,7 +184,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/dRAIiHpG/164-the-restrict-access-to-non-subscribers-access-eligible-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
