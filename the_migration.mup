@@ -162,6 +162,28 @@
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "3": {
+              "title": "Restrict access to anonymous users",
+              "id": 270,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "4": {
+              "title": "Restrict access to non-subscribers",
+              "id": 271,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
