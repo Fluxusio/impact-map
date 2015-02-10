@@ -188,6 +188,17 @@
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "5": {
+              "title": "Assign Imported Content to types",
+              "id": 272,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -394,6 +405,17 @@
                 "style": {
                   "background": "#d3d3d3"
                 }
+              }
+            },
+            "4": {
+              "title": "Import Image Library",
+              "id": 273,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
               }
             }
           }
