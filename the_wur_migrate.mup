@@ -613,7 +613,7 @@
                   "content": "https://trello.com/c/q2EIkwds/119-wur-create-new-rankings-dataset-publish-new-ranking-datasets"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -644,7 +644,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/9qPbaQ1L/162-wur-link-institutions-to-new-item-via-tags-associate-news-with-institutions"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
