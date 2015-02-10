@@ -233,7 +233,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/IcselWy1/165-wur-search-for-institution-by-location-synonym-search-for-institutions"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
