@@ -224,6 +224,17 @@
                   "background": "#00ff00"
                 }
               }
+            },
+            "3": {
+              "title": "Search for institution by location synonym",
+              "id": 121,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
