@@ -662,6 +662,11 @@
                 }
               }
             }
+          },
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
           }
         }
       }
