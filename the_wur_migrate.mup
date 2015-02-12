@@ -261,6 +261,17 @@
                   "background": "#00ff00"
                 }
               }
+            },
+            "2": {
+              "title": "Switch between ranking datasets",
+              "id": 122,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
