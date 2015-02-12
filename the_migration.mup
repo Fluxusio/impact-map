@@ -197,7 +197,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/69AiVFWe/166-the-assign-imported-content-to-types-access-eligible-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -377,7 +379,7 @@
                   "content": "https://trello.com/c/LsfOqUHD/108-the-add-metadata-to-content-publish-magazine-content-on-website"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -415,7 +417,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/uLcmDSHC/167-the-import-image-library-publish-magazine-content-on-website"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
