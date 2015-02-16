@@ -206,11 +206,11 @@
               "title": "Import Webvision content prior to 2008",
               "id": 274,
               "attr": {
-                "style": {},
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                }
+                  "content": "https://trello.com/c/HTilEilF/170-the-import-webvision-content-prior-to-2008-access-eligible-content"
+                },
+                "style": {}
               }
             }
           }

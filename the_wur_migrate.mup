@@ -50,7 +50,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Y2Cn1SOI/169-wur-import-from-current-system-add-new-wur-data"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "3": {
