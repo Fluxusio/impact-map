@@ -142,7 +142,7 @@
               "id": 242,
               "attr": {
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 },
                 "attachment": {
                   "contentType": "text/html",
@@ -379,7 +379,7 @@
                   "content": "https://trello.com/c/LsfOqUHD/108-the-add-metadata-to-content-publish-magazine-content-on-website"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },

@@ -46,11 +46,11 @@
               "title": "Import from current system",
               "id": 86,
               "attr": {
-                "style": {},
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                }
+                  "content": "https://trello.com/c/Y2Cn1SOI/169-wur-import-from-current-system-add-new-wur-data"
+                },
+                "style": {}
               }
             },
             "3": {
@@ -274,7 +274,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/MUHdY4MO/168-wur-switch-between-ranking-datasets-view-historical-data"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
