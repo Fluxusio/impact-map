@@ -46,7 +46,11 @@
               "title": "Import from current system",
               "id": 86,
               "attr": {
-                "style": {}
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                }
               }
             },
             "3": {
