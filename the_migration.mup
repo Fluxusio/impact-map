@@ -432,6 +432,17 @@
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "5": {
+              "title": "Choose alternative page layout",
+              "id": 275,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
