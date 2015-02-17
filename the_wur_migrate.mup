@@ -600,6 +600,17 @@
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "4": {
+              "title": "Import Historical News Articles",
+              "id": 123,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
