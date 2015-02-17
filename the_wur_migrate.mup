@@ -67,6 +67,17 @@
                   "background": "#ffff00"
                 }
               }
+            },
+            "4": {
+              "title": "Upload spreadsheet of non-standard data",
+              "id": 124,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -609,9 +620,7 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/gvaKlzOR/175-wur-import-historical-news-articles-associate-news-with-rankings-dataset"
                 },
-                "style": {
-                  "background": "#d3d3d3"
-                }
+                "style": {}
               }
             }
           }
