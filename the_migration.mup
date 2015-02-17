@@ -142,7 +142,7 @@
               "id": 242,
               "attr": {
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#FFB6C1"
                 },
                 "attachment": {
                   "contentType": "text/html",
@@ -418,7 +418,7 @@
                   "content": "https://trello.com/c/yBvjgPHN/104-the-publish-on-schedule-publish-magazine-content-on-website"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -443,7 +443,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/KvglWd9n/171-the-choose-alternative-page-layout-publish-magazine-content-on-website"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -1135,7 +1137,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/q84RM5nO/172-the-multiple-web-server-service-resliience"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
@@ -1146,7 +1150,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/6QlFfKxt/174-the-memcache-as-a-service-service-resliience"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "3": {
@@ -1157,7 +1163,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/kRisXK7c/173-the-logging-platform-service-resliience"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }

@@ -38,7 +38,7 @@
                   "content": "https://trello.com/c/Jc3pP95V/88-wur-upload-spreadsheet-of-data-add-new-wur-data"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -64,7 +64,7 @@
                   "content": "https://trello.com/c/mUQCD3Wo/113-wur-review-unpublished-data-add-new-wur-data"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -501,7 +501,7 @@
                   "content": "https://trello.com/c/YEbhynRs/115-wur-add-information-to-enhanced-profle-sell-enhance-institution-profiles"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -607,7 +607,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/gvaKlzOR/175-wur-import-historical-news-articles-associate-news-with-rankings-dataset"
                 },
                 "style": {}
               }
@@ -669,7 +669,7 @@
                   "content": "https://trello.com/c/c8KeIsiJ/120-wur-publish-rankings-dataset-in-future-publish-new-ranking-datasets"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             }
