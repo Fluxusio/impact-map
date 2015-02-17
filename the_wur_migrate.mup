@@ -76,7 +76,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/yhlXC20b/176-wur-upload-spreadsheet-of-non-standard-data-add-new-wur-data"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
