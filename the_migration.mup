@@ -421,7 +421,7 @@
               }
             },
             "4": {
-              "title": "Select Image from Library",
+              "title": "Import Image Library",
               "id": 273,
               "attr": {
                 "attachment": {
@@ -1117,6 +1117,45 @@
                 "style": {
                   "background": "#d3d3d3"
                 }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Service resliience",
+          "id": 276,
+          "ideas": {
+            "1": {
+              "title": "Multiple web server",
+              "id": 280,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Memcache as a service",
+              "id": 281,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Logging platform",
+              "id": 283,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
               }
             }
           }
