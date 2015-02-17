@@ -609,7 +609,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/gvaKlzOR/175-wur-import-historical-news-articles-associate-news-with-rankings-dataset"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
