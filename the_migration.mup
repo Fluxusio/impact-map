@@ -421,7 +421,7 @@
               }
             },
             "4": {
-              "title": "Import Image Library",
+              "title": "Select Image from Library",
               "id": 273,
               "attr": {
                 "attachment": {
