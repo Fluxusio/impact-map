@@ -210,7 +210,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/HTilEilF/170-the-import-webvision-content-prior-to-2008-access-eligible-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -403,7 +405,7 @@
                   "content": "https://trello.com/c/aSFOUuMD/103-the-add-web-images-to-content-publish-magazine-content-on-website"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -439,7 +441,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/KvglWd9n/171-the-choose-alternative-page-layout-publish-magazine-content-on-website"
                 },
                 "style": {}
               }
@@ -1131,7 +1133,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/q84RM5nO/172-the-multiple-web-server-service-resliience"
                 },
                 "style": {}
               }
@@ -1142,7 +1144,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/6QlFfKxt/174-the-memcache-as-a-service-service-resliience"
                 },
                 "style": {}
               }
@@ -1153,7 +1155,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/kRisXK7c/173-the-logging-platform-service-resliience"
                 },
                 "style": {}
               }
