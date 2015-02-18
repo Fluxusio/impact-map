@@ -539,7 +539,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/9gedXedM/178-wur-automatically-update-rss-feeds-sell-enhance-institution-profiles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
