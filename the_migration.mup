@@ -418,7 +418,7 @@
                   "content": "https://trello.com/c/yBvjgPHN/104-the-publish-on-schedule-publish-magazine-content-on-website"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -1207,7 +1207,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Dg5Cban0/177-the-integrate-with-entitlement-api-link-drupal-with-subscriber-entitlement-api"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               },
               "id": 288
             }
