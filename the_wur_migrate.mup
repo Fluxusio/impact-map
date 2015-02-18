@@ -530,6 +530,17 @@
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "4": {
+              "title": "Automatically update RSS feeds",
+              "id": 125,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
