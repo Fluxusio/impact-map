@@ -167,7 +167,12 @@
           "width": 32,
           "height": 32,
           "position": "left"
-        }
+        },
+        "position": [
+          225.5,
+          -747.8333333333334,
+          15
+        ]
       }
     },
     "2": {
@@ -182,7 +187,12 @@
           "width": 32,
           "height": 32,
           "position": "left"
-        }
+        },
+        "position": [
+          236.5,
+          10.5,
+          16
+        ]
       },
       "ideas": {
         "1": {
@@ -393,7 +403,12 @@
           "width": 32,
           "height": 32,
           "position": "left"
-        }
+        },
+        "position": [
+          224.5,
+          457.8333333333335,
+          13
+        ]
       },
       "ideas": {
         "1": {
@@ -447,7 +462,12 @@
           "width": 32,
           "height": 32,
           "position": "left"
-        }
+        },
+        "position": [
+          218.5,
+          605.8333333333335,
+          14
+        ]
       },
       "ideas": {
         "1": {
@@ -556,7 +576,12 @@
           "width": 32,
           "height": 32,
           "position": "left"
-        }
+        },
+        "position": [
+          239.5,
+          -753.5,
+          9
+        ]
       }
     },
     "-2": {
@@ -573,9 +598,9 @@
           "position": "left"
         },
         "position": [
-          230.5,
-          -44.83333333333337,
-          3
+          244.5,
+          8.833333333333371,
+          7
         ]
       },
       "ideas": {
@@ -585,7 +610,12 @@
           "attr": {
             "style": {
               "background": "#ffffff"
-            }
+            },
+            "position": [
+              151,
+              -295.33333333333337,
+              2
+            ]
           },
           "ideas": {
             "1": {
@@ -726,6 +756,21 @@
               "background": "#FFFFFF"
             }
           }
+        },
+        "12": {
+          "title": "Updates WUR homepage",
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            },
+            "position": [
+              157,
+              320.33333333333314,
+              3
+            ]
+          },
+          "ideas": {},
+          "id": 132
         }
       }
     },
@@ -734,9 +779,9 @@
       "id": 60,
       "attr": {
         "position": [
-          201.5,
-          415.1666666666665,
-          2
+          261.5,
+          554.8333333333335,
+          8
         ],
         "style": {
           "background": "#ADD8E6"
