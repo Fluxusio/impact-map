@@ -38,7 +38,7 @@
                   "content": "https://trello.com/c/Jc3pP95V/88-wur-upload-spreadsheet-of-data-add-new-wur-data"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -64,7 +64,7 @@
                   "content": "https://trello.com/c/mUQCD3Wo/113-wur-review-unpublished-data-add-new-wur-data"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -138,7 +138,7 @@
                   "content": "https://trello.com/c/cYR9N7ER/151-wur-import-from-spreadsheet-add-new-wur-institutions"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -237,7 +237,7 @@
                   "content": "https://trello.com/c/Fa2Z7NIF/110-wur-search-for-institution-by-name-search-for-institutions"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -534,7 +534,7 @@
                   "content": "https://trello.com/c/YEbhynRs/115-wur-add-information-to-enhanced-profle-sell-enhance-institution-profiles"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -727,7 +727,7 @@
                   "content": "https://trello.com/c/c8KeIsiJ/120-wur-publish-rankings-dataset-in-future-publish-new-ranking-datasets"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             }
@@ -812,7 +812,7 @@
                   "content": "https://trello.com/c/DgGMBUWX/160-wur-ensure-current-links-are-redirected-inbound-links-esp-to-historical-data"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },
