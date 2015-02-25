@@ -528,6 +528,28 @@
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "6": {
+              "title": "Add Adverts to App Edition",
+              "id": 298,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "7": {
+              "title": "Add Contents Page to App Edition",
+              "id": 299,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
