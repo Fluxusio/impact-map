@@ -509,6 +509,19 @@
             "style": {
               "background": "#ffffff"
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "Update Adverts",
+              "id": 137,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
           }
         },
         "3": {
@@ -517,6 +530,19 @@
           "attr": {
             "style": {
               "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Display jobs",
+              "id": 138,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -786,7 +812,19 @@
               3
             ]
           },
-          "ideas": {},
+          "ideas": {
+            "1": {
+              "title": "Update rankings homepage",
+              "id": 139,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          },
           "id": 132
         }
       }
