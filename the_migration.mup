@@ -537,7 +537,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/84PNbhvP/187-the-add-adverts-to-app-edition-produce-app-edition"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "7": {
@@ -548,7 +550,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/kXWoy6P7/189-the-add-contents-page-to-app-edition-produce-app-edition"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "8": {
@@ -559,7 +563,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/rVFbAIby/188-the-preview-app-edition-produce-app-edition"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }

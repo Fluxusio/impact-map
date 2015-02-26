@@ -370,7 +370,7 @@
                   "content": "https://trello.com/c/gRfMqXwj/112-wur-twitter-share-on-social-media"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -429,7 +429,7 @@
                   "content": "https://trello.com/c/C047RZCP/157-wur-add-ga-tags-report-on-usage-statistics"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -442,7 +442,7 @@
                   "content": "https://trello.com/c/4DNuHIJ5/158-wur-add-omniture-tags-report-on-usage-statistics"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             }
@@ -491,7 +491,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/B02yC1cv/184-wur-theme-pages-product-shares-the-branding"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -517,7 +519,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/QNpG7NZl/190-wur-update-adverts-insert-ads"
                 },
                 "style": {}
               }
@@ -539,7 +541,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/MKeZZpkP/191-wur-display-jobs-insert-and-contextualise-jobs"
                 },
                 "style": {}
               }
@@ -590,7 +592,7 @@
                   "content": "https://trello.com/c/Pd4U9Hvf/117-wur-remove-adverts-from-normal-profile-sell-enhance-institution-profiles"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -683,7 +685,7 @@
                   "content": "https://trello.com/c/bXPupKfs/118-wur-publish-news-item-in-the-future-associate-news-with-rankings-dataset"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -819,7 +821,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/DqSgzqpc/192-wur-update-rankings-homepage-updates-wur-homepage"
                 },
                 "style": {}
               }
@@ -867,7 +869,7 @@
                   "content": "https://trello.com/c/DgGMBUWX/160-wur-ensure-current-links-are-redirected-inbound-links-esp-to-historical-data"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#d3d3d3"
                 }
               }
             },
@@ -879,7 +881,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/VLKBb1YJ/185-wur-ensure-institution-profile-urls-conform-to-new-structure-inbound-links-esp-to-historical-data"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -901,7 +905,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/di5ubPmj/186-wur-seo-seo"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
