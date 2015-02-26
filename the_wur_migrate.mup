@@ -489,7 +489,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/B02yC1cv/184-wur-theme-pages-product-shares-the-branding"
                 },
                 "style": {}
               }
@@ -837,11 +837,11 @@
               "title": "Ensure institution profile URLs conform to new structure",
               "id": 126,
               "attr": {
-                "style": {},
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                }
+                  "content": "https://trello.com/c/VLKBb1YJ/185-wur-ensure-institution-profile-urls-conform-to-new-structure-inbound-links-esp-to-historical-data"
+                },
+                "style": {}
               }
             }
           }
@@ -861,7 +861,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/di5ubPmj/186-wur-seo-seo"
                 },
                 "style": {}
               }
