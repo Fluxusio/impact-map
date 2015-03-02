@@ -147,6 +147,11 @@
             }
           }
         }
+      },
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        }
       }
     },
     "-1": {
@@ -155,22 +160,42 @@
       "ideas": {
         "1": {
           "title": "Share",
-          "id": 14
+          "id": 14,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
         },
         "2": {
           "title": "Drive traffic",
-          "id": 15
+          "id": 15,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
         },
         "3": {
           "title": "Provide assets",
-          "id": 16
+          "id": 16,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
         }
       },
       "attr": {
         "style": {
-          "background": "#ffffff"
+          "background": "#33cccc"
         }
       }
+    }
+  },
+  "attr": {
+    "style": {
+      "background": "#ffcc00"
     }
   }
 }
