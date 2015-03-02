@@ -1,5 +1,176 @@
 {
-  "title": "Press Space or double-click to edit",
+  "title": "Marketing partnerships:\nRaise brand and co-brand awareness via traffic, referrals and with a 3-day turnaround for pages",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Digital marketing",
+      "id": 2,
+      "ideas": {
+        "2": {
+          "title": "Report",
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": "Set up heat mapping",
+              "id": 17
+            },
+            "2": {
+              "title": "Set up Google Analytics",
+              "id": 18
+            },
+            "3": {
+              "title": "Set up Omniture",
+              "id": 19
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "3": {
+          "title": "Build page",
+          "id": 7,
+          "ideas": {
+            "1": {
+              "title": "Ability to A/B test",
+              "id": 21
+            },
+            "2": {
+              "title": "Ability to create pages",
+              "id": 22
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "4": {
+          "title": "Commission assets",
+          "id": 8,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "5": {
+          "title": "Drive traffic",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "Social media",
+              "id": 23
+            },
+            "2": {
+              "title": "PPC",
+              "id": 24
+            },
+            "3": {
+              "title": "Owned media",
+              "id": 25
+            },
+            "4": {
+              "title": "Create URLs",
+              "id": 5,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "6": {
+          "title": "In-house design",
+          "id": 10,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "title": "End Users",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "Respond to call to action",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "Share via Twitter/Google/FB/Pinterest",
+              "id": 26,
+              "ideas": {}
+            },
+            "2": {
+              "title": "View embedded Twitter feed",
+              "id": 27
+            },
+            "3": {
+              "title": "Link to partner sites",
+              "id": 28
+            },
+            "4": {
+              "title": "Provide data",
+              "id": 29
+            },
+            "5": {
+              "title": "View video",
+              "id": 30
+            },
+            "6": {
+              "title": "Subscribe to magazine",
+              "id": 31
+            },
+            "7": {
+              "title": "View photo gallery",
+              "id": 32
+            },
+            "8": {
+              "title": "View formatted content",
+              "id": 33
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "Partners",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "Share",
+          "id": 14
+        },
+        "2": {
+          "title": "Drive traffic",
+          "id": 15
+        },
+        "3": {
+          "title": "Provide assets",
+          "id": 16
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ffffff"
+        }
+      }
+    }
+  }
 }
