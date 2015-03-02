@@ -78,7 +78,9 @@
               "title": "Create URLs",
               "id": 5,
               "attr": {
-                "style": {}
+                "style": {
+                  "background": "transparent"
+                }
               }
             }
           },
@@ -95,7 +97,32 @@
             "style": {
               "background": "#ffffff"
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "Create bubbles without links",
+              "id": 35,
+              "attr": {
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/vz3s1XRR/204-marketing-partnerships-create-bubbles-without-links-in-house-design"
+                }
+              }
+            },
+            "2": {
+              "title": "Create formatted content (pull-out quote)",
+              "id": 33,
+              "attr": {
+                "style": {}
+              }
+            }
           }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#33cccc"
         }
       }
     },
@@ -110,7 +137,16 @@
             "1": {
               "title": "Share via Twitter/Google/FB/Pinterest",
               "id": 26,
-              "ideas": {}
+              "ideas": {},
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/9QTSugDW/201-marketing-partnerships-share-via-twitter-google-fb-pinterest-respond-to-call-to-action"
+                },
+                "style": {
+                  "background": "transparent"
+                }
+              }
             },
             "2": {
               "title": "View embedded Twitter feed",
@@ -130,15 +166,18 @@
             },
             "6": {
               "title": "Subscribe to magazine",
-              "id": 31
+              "id": 31,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/YR6FPbLl/202-marketing-partnerships-subscribe-to-magazine-respond-to-call-to-action"
+                },
+                "style": {}
+              }
             },
             "7": {
               "title": "View photo gallery",
               "id": 32
-            },
-            "8": {
-              "title": "View formatted content",
-              "id": 33
             }
           },
           "attr": {
