@@ -59,12 +59,109 @@
         }
       }
     },
+    "15": {
+      "title": "INFRASTRUCTURE",
+      "id": 168,
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        },
+        "icon": {
+          "url": "internal:2/30ccc9b3-9078-ab24-ad6f-deedccd27096/",
+          "width": 32,
+          "height": 32,
+          "position": "left"
+        },
+        "position": [
+          228.5,
+          78,
+          4
+        ]
+      }
+    },
+    "20": {
+      "title": "Community Team",
+      "id": 205,
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        },
+        "icon": {
+          "url": "internal:2/30ccc9b3-9078-ab24-ad6f-deedccd27096/",
+          "width": 32,
+          "height": 32,
+          "position": "left"
+        },
+        "position": [
+          181.5,
+          270,
+          2
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Moderation",
+          "id": 206,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "2": {
+          "title": "Manage Users (External Content)",
+          "id": 207,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        }
+      }
+    },
+    "30": {
+      "title": "SUB-EDITORS",
+      "id": 167,
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        },
+        "icon": {
+          "url": "internal:2/30ccc9b3-9078-ab24-ad6f-deedccd27096/",
+          "width": 32,
+          "height": 32,
+          "position": "left"
+        },
+        "position": [
+          360.5,
+          435,
+          3
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Notified of filed articles",
+          "id": 191,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        }
+      }
+    },
     "-1": {
       "title": "REPORTER",
       "id": 164,
       "attr": {
         "style": {
           "background": "#33cccc"
+        },
+        "icon": {
+          "url": "internal:2/30ccc9b3-9078-ab24-ad6f-deedccd27096/",
+          "width": 32,
+          "height": 32,
+          "position": "left"
         }
       },
       "ideas": {
@@ -145,6 +242,12 @@
       "attr": {
         "style": {
           "background": "#33cccc"
+        },
+        "icon": {
+          "url": "internal:2/30ccc9b3-9078-ab24-ad6f-deedccd27096/",
+          "width": 32,
+          "height": 32,
+          "position": "left"
         }
       },
       "ideas": {
@@ -239,44 +342,68 @@
       "attr": {
         "style": {
           "background": "#33cccc"
+        },
+        "icon": {
+          "url": "internal:2/30ccc9b3-9078-ab24-ad6f-deedccd27096/",
+          "width": 32,
+          "height": 32,
+          "position": "left"
         }
       }
     },
-    "-31": {
-      "title": "SUB-EDITORS",
-      "id": 167,
+    "-61": {
+      "title": "ANALYTICS TEAM",
+      "id": 170,
       "attr": {
         "style": {
           "background": "#33cccc"
+        },
+        "icon": {
+          "url": "internal:2/30ccc9b3-9078-ab24-ad6f-deedccd27096/",
+          "width": 32,
+          "height": 32,
+          "position": "left"
         }
-      },
+      }
+    },
+    "-23.5": {
+      "title": "SEO",
+      "id": 208,
       "ideas": {
         "1": {
-          "title": "Notified of filed articles",
-          "id": 191,
+          "title": "Redirects from old URLs ",
+          "id": 209,
           "attr": {
             "style": {
               "background": "#ffffff"
             }
           }
         }
-      }
-    },
-    "-41": {
-      "title": "INFRASTRUCTURE",
-      "id": 168,
+      },
       "attr": {
         "style": {
           "background": "#33cccc"
+        },
+        "icon": {
+          "url": "internal:2/30ccc9b3-9078-ab24-ad6f-deedccd27096/",
+          "width": 32,
+          "height": 32,
+          "position": "left"
         }
       }
     },
-    "-51": {
+    "12.5": {
       "title": "CONTRIBUTORS (EXTERNAL)",
       "id": 169,
       "attr": {
         "style": {
           "background": "#33cccc"
+        },
+        "icon": {
+          "url": "internal:2/30ccc9b3-9078-ab24-ad6f-deedccd27096/",
+          "width": 32,
+          "height": 32,
+          "position": "left"
         }
       },
       "ideas": {
@@ -306,64 +433,6 @@
               "background": "#ffffff"
             }
           }
-        }
-      }
-    },
-    "-61": {
-      "title": "ANALYTICS TEAM",
-      "id": 170,
-      "attr": {
-        "style": {
-          "background": "#33cccc"
-        }
-      }
-    },
-    "-26": {
-      "title": "Community Team",
-      "id": 205,
-      "attr": {
-        "style": {
-          "background": "#33cccc"
-        }
-      },
-      "ideas": {
-        "1": {
-          "title": "Moderation",
-          "id": 206,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
-        "2": {
-          "title": "Manage Users (External Content)",
-          "id": 207,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        }
-      }
-    },
-    "-23.5": {
-      "title": "SEO",
-      "id": 208,
-      "ideas": {
-        "1": {
-          "title": "Redirects from old URLs ",
-          "id": 209,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        }
-      },
-      "attr": {
-        "style": {
-          "background": "#33cccc"
         }
       }
     }
