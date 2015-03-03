@@ -61,11 +61,21 @@
     },
     "-1": {
       "title": "REPORTER",
-      "id": 164
+      "id": 164,
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        }
+      }
     },
     "-11": {
       "title": "EDITOR",
-      "id": 165
+      "id": 165,
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        }
+      }
     },
     "-21": {
       "title": "READERS",
@@ -73,41 +83,82 @@
       "ideas": {
         "1": {
           "title": "Search news",
-          "id": 172
-        },
-        "2": {
-          "title": "Commenting",
-          "id": 173
-        },
-        "3": {
-          "title": "Sharing",
-          "id": 174
-        },
-        "4": {
-          "title": "Follow authors on TES site",
-          "id": 175
+          "id": 172,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
         },
         "5": {
-          "title": "Suggested articles",
-          "id": 176
+          "title": "Engage with content",
+          "id": 176,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Comment",
+              "id": 178
+            },
+            "2": {
+              "title": "Sharing",
+              "id": 179
+            },
+            "3": {
+              "title": "Follow an author on TES site",
+              "id": 180
+            },
+            "4": {
+              "title": "Explore related news content",
+              "id": 181
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#33cccc"
         }
       }
     },
     "-31": {
       "title": "SUBEDITORS",
-      "id": 167
+      "id": 167,
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        }
+      }
     },
     "-41": {
       "title": "INFRASTRUCTURE",
-      "id": 168
+      "id": 168,
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        }
+      }
     },
     "-51": {
       "title": "CONTRIBUTORS",
-      "id": 169
+      "id": 169,
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        }
+      }
     },
     "-61": {
       "title": "ANALYTICS TEAM",
-      "id": 170
+      "id": 170,
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        }
+      }
     }
   },
   "links": [],
