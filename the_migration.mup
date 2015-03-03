@@ -48,6 +48,10 @@
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "2": {
+              "title": "Single sign-on with Madgex",
+              "id": 303
             }
           },
           "attr": {
