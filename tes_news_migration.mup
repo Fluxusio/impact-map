@@ -86,6 +86,39 @@
             }
           }
         },
+        "3": {
+          "title": "Tagging",
+          "id": 186,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "4": {
+          "title": "Upload media",
+          "id": 194,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Embed podbean media",
+              "id": 196,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "2": {
+              "title": "Brightcove video",
+              "id": 197
+            }
+          }
+        },
         "1.5": {
           "title": "Headlines",
           "id": 185,
@@ -103,6 +136,35 @@
       "attr": {
         "style": {
           "background": "#33cccc"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Maintain tags",
+          "id": 187,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "2": {
+          "title": "Publish articles",
+          "id": 188,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "1.5": {
+          "title": "Manage homepage",
+          "id": 193,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
         }
       }
     },
@@ -154,11 +216,22 @@
       }
     },
     "-31": {
-      "title": "SUBEDITORS",
+      "title": "SUB-EDITORS",
       "id": 167,
       "attr": {
         "style": {
           "background": "#33cccc"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Notified of filed articles",
+          "id": 191,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
         }
       }
     },
@@ -177,6 +250,26 @@
       "attr": {
         "style": {
           "background": "#33cccc"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "File articles",
+          "id": 189,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "2": {
+          "title": "Headlines",
+          "id": 192,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
         }
       }
     },
