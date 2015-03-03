@@ -51,7 +51,14 @@
             },
             "2": {
               "title": "Single sign-on with Madgex",
-              "id": 303
+              "id": 303,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           },
           "attr": {
@@ -176,7 +183,7 @@
                   "content": "https://trello.com/c/hb4zjy3Y/163-the-restrict-access-to-anonymous-users-access-eligible-content"
                 },
                 "style": {
-                  "background": "#00ff00"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -490,7 +497,7 @@
                   "content": "https://trello.com/c/OhJgup2P/127-the-create-new-pugpig-issue-produce-app-edition"
                 },
                 "style": {
-                  "background": "#00ff00"
+                  "background": "#d3d3d3"
                 }
               }
             },
@@ -503,7 +510,7 @@
                   "content": "https://trello.com/c/YyHptk2l/128-the-add-articles-to-pugpig-issue-produce-app-edition"
                 },
                 "style": {
-                  "background": "#00ff00"
+                  "background": "#d3d3d3"
                 }
               }
             },
