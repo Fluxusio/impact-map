@@ -13,7 +13,14 @@
           "ideas": {
             "1": {
               "title": "Set up heat mapping",
-              "id": 17
+              "id": 17,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Set up Google Analytics",
