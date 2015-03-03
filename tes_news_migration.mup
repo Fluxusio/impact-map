@@ -60,7 +60,7 @@
       }
     },
     "15": {
-      "title": "INFRASTRUCTURE",
+      "title": "Infrastructure Team",
       "id": 168,
       "attr": {
         "style": {
@@ -100,7 +100,7 @@
       },
       "ideas": {
         "1": {
-          "title": "Moderation",
+          "title": "Moderate user-generated content",
           "id": 206,
           "attr": {
             "style": {
@@ -109,7 +109,7 @@
           }
         },
         "2": {
-          "title": "Manage Users (External Content)",
+          "title": "Manage Users (External Contributors)",
           "id": 207,
           "attr": {
             "style": {
@@ -120,7 +120,7 @@
       }
     },
     "30": {
-      "title": "SUB-EDITORS",
+      "title": "Sub-editors",
       "id": 167,
       "attr": {
         "style": {
@@ -140,7 +140,7 @@
       },
       "ideas": {
         "1": {
-          "title": "Notified of filed articles",
+          "title": "Receive notification of filed articles",
           "id": 191,
           "attr": {
             "style": {
@@ -151,7 +151,7 @@
       }
     },
     "-1": {
-      "title": "REPORTER",
+      "title": "Reporters",
       "id": 164,
       "attr": {
         "style": {
@@ -174,17 +174,8 @@
             }
           }
         },
-        "2": {
-          "title": "Upload pictures",
-          "id": 184,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
         "3": {
-          "title": "Tagging",
+          "title": "Tag articles",
           "id": 186,
           "attr": {
             "style": {
@@ -213,20 +204,19 @@
             "2": {
               "title": "Brightcove video",
               "id": 197
-            }
-          }
-        },
-        "5": {
-          "title": "Upload documents",
-          "id": 198,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
+            },
+            "3": {
+              "title": "Upload images",
+              "id": 211
+            },
+            "4": {
+              "title": "Upload documents",
+              "id": 212
             }
           }
         },
         "1.5": {
-          "title": "Headlines",
+          "title": "Write headlines for articles",
           "id": 185,
           "attr": {
             "style": {
@@ -237,7 +227,7 @@
       }
     },
     "-11": {
-      "title": "EDITOR",
+      "title": "Editors",
       "id": 165,
       "attr": {
         "style": {
@@ -270,18 +260,24 @@
           }
         },
         "1.5": {
-          "title": "Manage homepage",
+          "title": "Manage homepage ",
           "id": 193,
           "attr": {
             "style": {
               "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Manage layout",
+              "id": 213
             }
           }
         }
       }
     },
     "-21": {
-      "title": "READERS",
+      "title": "Readers",
       "id": 166,
       "ideas": {
         "1": {
@@ -303,11 +299,11 @@
           },
           "ideas": {
             "1": {
-              "title": "Comment",
+              "title": "Comment on news articles",
               "id": 178
             },
             "2": {
-              "title": "Sharing",
+              "title": "Sharing content on social media",
               "id": 179
             },
             "3": {
@@ -352,7 +348,7 @@
       }
     },
     "-61": {
-      "title": "ANALYTICS TEAM",
+      "title": "Analytics Team",
       "id": 170,
       "attr": {
         "style": {
@@ -393,7 +389,7 @@
       }
     },
     "12.5": {
-      "title": "CONTRIBUTORS (EXTERNAL)",
+      "title": "External contributors",
       "id": 169,
       "attr": {
         "style": {
@@ -417,7 +413,7 @@
           }
         },
         "2": {
-          "title": "Headlines",
+          "title": "Write headlines",
           "id": 192,
           "attr": {
             "style": {
