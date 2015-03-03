@@ -1,5 +1,5 @@
 {
-  "title": "MOVE FE+SCM NEWS TO DRUPAL BY 30TH APRIL",
+  "title": "MOVE FE+SCM NEWS TO DRUPAL BY 30TH APRIL\nImprove the bounce rate from 50%\nED: improve page views by at least 300% within a year",
   "id": 1,
   "formatVersion": 2,
   "ideas": {
@@ -69,7 +69,29 @@
     },
     "-21": {
       "title": "READERS",
-      "id": 166
+      "id": 166,
+      "ideas": {
+        "1": {
+          "title": "Search news",
+          "id": 172
+        },
+        "2": {
+          "title": "Commenting",
+          "id": 173
+        },
+        "3": {
+          "title": "Sharing",
+          "id": 174
+        },
+        "4": {
+          "title": "Follow authors on TES site",
+          "id": 175
+        },
+        "5": {
+          "title": "Suggested articles",
+          "id": 176
+        }
+      }
     },
     "-31": {
       "title": "SUBEDITORS",
