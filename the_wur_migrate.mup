@@ -300,7 +300,7 @@
                   "content": "https://trello.com/c/MUHdY4MO/168-wur-switch-between-ranking-datasets-view-historical-data"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             }
@@ -370,7 +370,7 @@
                   "content": "https://trello.com/c/gRfMqXwj/112-wur-twitter-share-on-social-media"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -429,7 +429,7 @@
                   "content": "https://trello.com/c/C047RZCP/157-wur-add-ga-tags-report-on-usage-statistics"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -442,7 +442,7 @@
                   "content": "https://trello.com/c/4DNuHIJ5/158-wur-add-omniture-tags-report-on-usage-statistics"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#d3d3d3"
                 }
               }
             }
@@ -521,7 +521,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/QNpG7NZl/190-wur-update-adverts-insert-ads"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -543,7 +545,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/MKeZZpkP/191-wur-display-jobs-insert-and-contextualise-jobs"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -592,7 +596,7 @@
                   "content": "https://trello.com/c/Pd4U9Hvf/117-wur-remove-adverts-from-normal-profile-sell-enhance-institution-profiles"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -605,7 +609,7 @@
                   "content": "https://trello.com/c/9gedXedM/178-wur-automatically-update-rss-feeds-sell-enhance-institution-profiles"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             }
@@ -685,7 +689,7 @@
                   "content": "https://trello.com/c/bXPupKfs/118-wur-publish-news-item-in-the-future-associate-news-with-rankings-dataset"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -711,7 +715,7 @@
                   "content": "https://trello.com/c/gvaKlzOR/175-wur-import-historical-news-articles-associate-news-with-rankings-dataset"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -823,7 +827,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/DqSgzqpc/192-wur-update-rankings-homepage-updates-wur-homepage"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           },
@@ -869,7 +875,7 @@
                   "content": "https://trello.com/c/DgGMBUWX/160-wur-ensure-current-links-are-redirected-inbound-links-esp-to-historical-data"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },

@@ -103,7 +103,9 @@
               "title": "Create bubbles without links",
               "id": 35,
               "attr": {
-                "style": {},
+                "style": {
+                  "background": "#d3d3d3"
+                },
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/vz3s1XRR/204-marketing-partnerships-create-bubbles-without-links-in-house-design"
@@ -144,7 +146,7 @@
                   "content": "https://trello.com/c/9QTSugDW/201-marketing-partnerships-share-via-twitter-google-fb-pinterest-respond-to-call-to-action"
                 },
                 "style": {
-                  "background": "transparent"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -172,7 +174,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/YR6FPbLl/202-marketing-partnerships-subscribe-to-magazine-respond-to-call-to-action"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "7": {
