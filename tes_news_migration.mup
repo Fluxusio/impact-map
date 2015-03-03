@@ -119,6 +119,15 @@
             }
           }
         },
+        "5": {
+          "title": "Upload documents",
+          "id": 198,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
         "1.5": {
           "title": "Headlines",
           "id": 185,
@@ -204,7 +213,25 @@
             },
             "4": {
               "title": "Explore related news content",
-              "id": 181
+              "id": 181,
+              "ideas": {
+                "1": {
+                  "title": "Subscriptions",
+                  "id": 199
+                },
+                "2": {
+                  "title": "Resources",
+                  "id": 200
+                },
+                "3": {
+                  "title": "Jobs",
+                  "id": 201
+                },
+                "4": {
+                  "title": "Related blogs",
+                  "id": 202
+                }
+              }
             }
           }
         }
@@ -245,7 +272,7 @@
       }
     },
     "-51": {
-      "title": "CONTRIBUTORS",
+      "title": "CONTRIBUTORS (EXTERNAL)",
       "id": 169,
       "attr": {
         "style": {
@@ -270,12 +297,70 @@
               "background": "#ffffff"
             }
           }
+        },
+        "3": {
+          "title": "Login / Register",
+          "id": 203,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
         }
       }
     },
     "-61": {
       "title": "ANALYTICS TEAM",
       "id": 170,
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        }
+      }
+    },
+    "-26": {
+      "title": "Community Team",
+      "id": 205,
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Moderation",
+          "id": 206,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "2": {
+          "title": "Manage Users (External Content)",
+          "id": 207,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        }
+      }
+    },
+    "-23.5": {
+      "title": "SEO",
+      "id": 208,
+      "ideas": {
+        "1": {
+          "title": "Redirects from old URLs ",
+          "id": 209,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        }
+      },
       "attr": {
         "style": {
           "background": "#33cccc"
