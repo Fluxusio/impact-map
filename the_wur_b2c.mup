@@ -297,7 +297,7 @@
       },
       "ideas": {
         "1": {
-          "title": "Writes content",
+          "title": "Writes student-specific content",
           "attr": {
             "style": {
               "background": "#FFFFFF"
@@ -468,7 +468,7 @@
           "id": 91
         },
         "2": {
-          "title": "Maintains student homepage",
+          "title": "Manages academic section",
           "attr": {
             "style": {
               "background": "#FFFFFF"
@@ -481,6 +481,21 @@
           },
           "ideas": {},
           "id": 124
+        },
+        "3": {
+          "title": "Manages student section",
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            },
+            "position": [
+              214,
+              173.33333333333348,
+              3
+            ]
+          },
+          "ideas": {},
+          "id": 156
         }
       },
       "id": 90
