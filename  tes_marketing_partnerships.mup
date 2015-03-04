@@ -7,38 +7,6 @@
       "title": "Digital marketing",
       "id": 2,
       "ideas": {
-        "2": {
-          "title": "Report",
-          "id": 6,
-          "ideas": {
-            "1": {
-              "title": "Set up heat mapping",
-              "id": 17,
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/6Pz6vQIT/205-marketing-partnerships-set-up-heat-mapping-report"
-                },
-                "style": {
-                  "background": "#d3d3d3"
-                }
-              }
-            },
-            "2": {
-              "title": "Set up Google Analytics",
-              "id": 18
-            },
-            "3": {
-              "title": "Set up Omniture",
-              "id": 19
-            }
-          },
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
         "3": {
           "title": "Build page",
           "id": 7,
@@ -58,6 +26,26 @@
                 "style": {
                   "background": "transparent"
                 }
+              }
+            },
+            "4": {
+              "title": "Create bubbles without links",
+              "id": 35,
+              "attr": {
+                "style": {
+                  "background": "#d3d3d3"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/vz3s1XRR/204-marketing-partnerships-create-bubbles-without-links-in-house-design"
+                }
+              }
+            },
+            "5": {
+              "title": "Create formatted content (pull-out quote)",
+              "id": 33,
+              "attr": {
+                "style": {}
               }
             }
           },
@@ -84,28 +72,7 @@
               "background": "#ffffff"
             }
           },
-          "ideas": {
-            "1": {
-              "title": "Create bubbles without links",
-              "id": 35,
-              "attr": {
-                "style": {
-                  "background": "#d3d3d3"
-                },
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/vz3s1XRR/204-marketing-partnerships-create-bubbles-without-links-in-house-design"
-                }
-              }
-            },
-            "2": {
-              "title": "Create formatted content (pull-out quote)",
-              "id": 33,
-              "attr": {
-                "style": {}
-              }
-            }
-          }
+          "ideas": {}
         },
         "7": {
           "title": "Create call to action",
@@ -146,7 +113,7 @@
                   "content": "https://trello.com/c/YR6FPbLl/202-marketing-partnerships-subscribe-to-magazine-respond-to-call-to-action"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#d3d3d3"
                 }
               }
             },
@@ -168,6 +135,41 @@
             "style": {
               "background": "#ffffff"
             }
+          }
+        },
+        "1.5": {
+          "title": "Report",
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": "Set up heat mapping",
+              "id": 17,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/6Pz6vQIT/205-marketing-partnerships-set-up-heat-mapping-report"
+                },
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Set up Google Analytics",
+              "id": 18
+            },
+            "3": {
+              "title": "Set up Omniture",
+              "id": 19
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            },
+            "position": [
+              92.5,
+              -491.5,
+              1
+            ]
           }
         }
       },
