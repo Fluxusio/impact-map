@@ -834,6 +834,36 @@
             }
           },
           "id": 132
+        },
+        "13": {
+          "title": "Integrate THE look and feel",
+          "id": 142,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "View themed sorting controls",
+              "id": 141,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "View enhanced profiles in ranking dataset",
+              "id": 143
+            },
+            "3": {
+              "title": "View standard profiles in ranking dataset",
+              "id": 144
+            },
+            "4": {
+              "title": "View associated content tabs on ranking dataset",
+              "id": 145
+            }
+          }
         }
       }
     },
