@@ -734,7 +734,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "basecamp"
+                  "content": "backlog"
                 },
                 "style": {}
               }
@@ -745,7 +745,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "basecamp"
+                  "content": "backlog"
                 },
                 "style": {}
               }
