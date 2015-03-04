@@ -88,7 +88,7 @@
                   "content": "https://trello.com/c/9QTSugDW/201-marketing-partnerships-share-via-twitter-google-fb-pinterest-respond-to-call-to-action"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -113,7 +113,7 @@
                   "content": "https://trello.com/c/YR6FPbLl/202-marketing-partnerships-subscribe-to-magazine-respond-to-call-to-action"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -149,7 +149,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/6Pz6vQIT/205-marketing-partnerships-set-up-heat-mapping-report"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
