@@ -162,7 +162,12 @@
           "width": 32,
           "height": 32,
           "position": "left"
-        }
+        },
+        "position": [
+          185.5,
+          -470,
+          5
+        ]
       },
       "ideas": {
         "1": {
@@ -333,6 +338,26 @@
               }
             }
           }
+        },
+        "6": {
+          "title": "View content",
+          "id": 214,
+          "ideas": {
+            "1": {
+              "title": "Redirects from old URLs ",
+              "id": 209,
+              "attr": {
+                "style": {
+                  "background": "transparent"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
         }
       },
       "attr": {
@@ -365,17 +390,7 @@
     "-23.5": {
       "title": "SEO",
       "id": 208,
-      "ideas": {
-        "1": {
-          "title": "Redirects from old URLs ",
-          "id": 209,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        }
-      },
+      "ideas": {},
       "attr": {
         "style": {
           "background": "#33cccc"
