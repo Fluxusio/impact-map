@@ -522,7 +522,7 @@
                   "content": "https://trello.com/c/QNpG7NZl/190-wur-update-adverts-insert-ads"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             }
@@ -715,7 +715,7 @@
                   "content": "https://trello.com/c/gvaKlzOR/175-wur-import-historical-news-articles-associate-news-with-rankings-dataset"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#FFB6C1"
                 }
               }
             }
@@ -795,7 +795,7 @@
                   "content": "https://trello.com/c/9qPbaQ1L/162-wur-link-institutions-to-new-item-via-tags-associate-news-with-institutions"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             }
@@ -852,7 +852,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/VArP7cet/196-wur-view-themed-sorting-controls-integrate-the-look-and-feel"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
@@ -863,7 +865,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/hLiP8PLs/195-wur-view-enhanced-profiles-in-ranking-dataset-integrate-the-look-and-feel"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "3": {
@@ -874,7 +878,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/3vPzuC2D/197-wur-view-standard-profiles-in-ranking-dataset-integrate-the-look-and-feel"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "4": {
@@ -885,7 +891,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/jMGtmfGB/198-wur-view-associated-content-tabs-on-ranking-dataset-integrate-the-look-and-feel"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             }
           }
