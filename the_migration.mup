@@ -57,7 +57,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/wOpiM0KP/194-the-single-sign-on-with-madgex-login"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           },
