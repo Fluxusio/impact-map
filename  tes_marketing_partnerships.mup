@@ -1,5 +1,5 @@
 {
-  "title": "Marketing partnerships:\nRaise brand and co-brand awareness via traffic, referrals and with a 3-day turnaround for pages",
+  "title": "Marketing partnerships:\nRaise brand and co-brand awareness via traffic, referrals and with a 3-day turnaround for pages -- NEEDS REVISION",
   "id": 1,
   "formatVersion": 2,
   "ideas": {
@@ -48,6 +48,15 @@
             "2": {
               "title": "Ability to create pages",
               "id": 22
+            },
+            "3": {
+              "title": "Create URLs",
+              "id": 5,
+              "attr": {
+                "style": {
+                  "background": "transparent"
+                }
+              }
             }
           },
           "attr": {
@@ -59,38 +68,6 @@
         "4": {
           "title": "Commission assets",
           "id": 8,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
-        "5": {
-          "title": "Drive traffic",
-          "id": 9,
-          "ideas": {
-            "1": {
-              "title": "Social media",
-              "id": 23
-            },
-            "2": {
-              "title": "PPC",
-              "id": 24
-            },
-            "3": {
-              "title": "Owned media",
-              "id": 25
-            },
-            "4": {
-              "title": "Create URLs",
-              "id": 5,
-              "attr": {
-                "style": {
-                  "background": "transparent"
-                }
-              }
-            }
-          },
           "attr": {
             "style": {
               "background": "#ffffff"
@@ -127,20 +104,9 @@
               }
             }
           }
-        }
-      },
-      "attr": {
-        "style": {
-          "background": "#33cccc"
-        }
-      }
-    },
-    "2": {
-      "title": "End Users",
-      "id": 4,
-      "ideas": {
-        "1": {
-          "title": "Respond to call to action",
+        },
+        "7": {
+          "title": "Create call to action",
           "id": 12,
           "ideas": {
             "1": {
@@ -164,10 +130,6 @@
             "3": {
               "title": "Link to partner sites",
               "id": 28
-            },
-            "4": {
-              "title": "Provide data",
-              "id": 29
             },
             "5": {
               "title": "View video",
@@ -196,8 +158,27 @@
               "background": "#ffffff"
             }
           }
+        },
+        "8": {
+          "title": "Collect data",
+          "id": 29,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
         }
       },
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        }
+      }
+    },
+    "2": {
+      "title": "End Users",
+      "id": 4,
+      "ideas": {},
       "attr": {
         "style": {
           "background": "#33cccc"
@@ -247,5 +228,6 @@
     "style": {
       "background": "#ffcc00"
     }
-  }
+  },
+  "links": []
 }
