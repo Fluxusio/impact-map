@@ -848,20 +848,45 @@
               "title": "View themed sorting controls",
               "id": 141,
               "attr": {
-                "style": {}
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                }
               }
             },
             "2": {
               "title": "View enhanced profiles in ranking dataset",
-              "id": 143
+              "id": 143,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "3": {
               "title": "View standard profiles in ranking dataset",
-              "id": 144
+              "id": 144,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "4": {
               "title": "View associated content tabs on ranking dataset",
-              "id": 145
+              "id": 145,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
