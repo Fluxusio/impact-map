@@ -312,7 +312,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/IVo6kADR/199-wur-switch-between-ranking-datasets-view-historical-data"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
