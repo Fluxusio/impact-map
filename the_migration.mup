@@ -55,7 +55,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/wOpiM0KP/194-the-single-sign-on-with-madgex-login"
                 },
                 "style": {}
               }
@@ -183,7 +183,7 @@
                   "content": "https://trello.com/c/hb4zjy3Y/163-the-restrict-access-to-anonymous-users-access-eligible-content"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -497,7 +497,7 @@
                   "content": "https://trello.com/c/OhJgup2P/127-the-create-new-pugpig-issue-produce-app-edition"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -510,7 +510,7 @@
                   "content": "https://trello.com/c/YyHptk2l/128-the-add-articles-to-pugpig-issue-produce-app-edition"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#00ff00"
                 }
               }
             },
