@@ -162,87 +162,6 @@
         }
       }
     },
-    "-1": {
-      "title": "Reporters",
-      "id": 164,
-      "attr": {
-        "style": {
-          "background": "#33cccc"
-        },
-        "icon": {
-          "url": "internal:2/30ccc9b3-9078-ab24-ad6f-deedccd27096/",
-          "width": 32,
-          "height": 32,
-          "position": "left"
-        },
-        "position": [
-          185.5,
-          -470,
-          5
-        ]
-      },
-      "ideas": {
-        "1": {
-          "title": "File articles",
-          "id": 183,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
-        "3": {
-          "title": "Tag articles",
-          "id": 186,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
-        "4": {
-          "title": "Upload media",
-          "id": 194,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "Embed podbean media",
-              "id": 196,
-              "attr": {
-                "style": {
-                  "background": "#c0c0c0"
-                }
-              }
-            },
-            "2": {
-              "title": "Brightcove video",
-              "id": 197
-            },
-            "3": {
-              "title": "Upload images",
-              "id": 211
-            },
-            "4": {
-              "title": "Upload documents",
-              "id": 212
-            }
-          }
-        },
-        "1.5": {
-          "title": "Write headlines for articles",
-          "id": 185,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        }
-      }
-    },
     "-11": {
       "title": "Editors",
       "id": 165,
@@ -292,7 +211,7 @@
           }
         },
         "3": {
-          "title": "Curate content",
+          "title": "Curate secondary content",
           "id": 215,
           "attr": {
             "style": {
@@ -327,6 +246,21 @@
               "attr": {
                 "style": {}
               }
+            }
+          }
+        },
+        "4": {
+          "title": "Spike content",
+          "id": 229,
+          "ideas": {
+            "1": {
+              "title": "Unpublish content immediately",
+              "id": 230
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffffff"
             }
           }
         },
@@ -386,11 +320,6 @@
             "3": {
               "title": "Follow an Author  / Subject",
               "id": 180
-            },
-            "4": {
-              "title": "Explore related news content",
-              "id": 181,
-              "ideas": {}
             }
           }
         },
@@ -410,6 +339,21 @@
             "2": {
               "title": "Import articles from Telligent",
               "id": 217
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "7": {
+          "title": "Explore related news content",
+          "id": 181,
+          "ideas": {
+            "1": {
+              "title": "View tagged articles",
+              "id": 228
             }
           },
           "attr": {
@@ -483,6 +427,87 @@
         "3": {
           "title": "Login / Register",
           "id": 203,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        }
+      }
+    },
+    "6.25": {
+      "title": "Reporters",
+      "id": 164,
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        },
+        "icon": {
+          "url": "internal:2/30ccc9b3-9078-ab24-ad6f-deedccd27096/",
+          "width": 32,
+          "height": 32,
+          "position": "left"
+        },
+        "position": [
+          279.5,
+          -436,
+          7
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "File articles",
+          "id": 183,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "3": {
+          "title": "Tag articles",
+          "id": 186,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "4": {
+          "title": "Upload media",
+          "id": 194,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Embed podbean media",
+              "id": 196,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "2": {
+              "title": "Brightcove video",
+              "id": 197
+            },
+            "3": {
+              "title": "Upload images",
+              "id": 211
+            },
+            "4": {
+              "title": "Upload documents",
+              "id": 212
+            }
+          }
+        },
+        "1.5": {
+          "title": "Write headlines for articles",
+          "id": 185,
           "attr": {
             "style": {
               "background": "#ffffff"
