@@ -736,7 +736,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/m2b68xq5/201-the-add-omniture-tags-report-on-page-usage"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
@@ -747,7 +749,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/73KyQpWT/200-the-add-ga-tags-report-on-page-usage"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
