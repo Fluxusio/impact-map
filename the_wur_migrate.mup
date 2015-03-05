@@ -689,7 +689,7 @@
                   "content": "https://trello.com/c/tSNrdl9f/116-wur-create-news-item-associate-news-with-rankings-dataset"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -808,7 +808,7 @@
                   "content": "https://trello.com/c/9qPbaQ1L/162-wur-link-institutions-to-new-item-via-tags-associate-news-with-institutions"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#FFB6C1"
                 }
               }
             }
