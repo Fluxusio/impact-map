@@ -111,7 +111,14 @@
           "ideas": {
             "1": {
               "title": "Add email sending capability",
-              "id": 221
+              "id": 221,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
@@ -190,7 +197,11 @@
               "title": "Import taxonomy from Telligent",
               "id": 216,
               "attr": {
-                "style": {}
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                }
               }
             }
           }
@@ -338,7 +349,14 @@
             },
             "2": {
               "title": "Import articles from Telligent",
-              "id": 217
+              "id": 217,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           },
           "attr": {
