@@ -120,6 +120,10 @@
             "7": {
               "title": "View photo gallery",
               "id": 32
+            },
+            "2.5": {
+              "title": "View embedded Twitter hashtag feed",
+              "id": 37
             }
           },
           "attr": {
