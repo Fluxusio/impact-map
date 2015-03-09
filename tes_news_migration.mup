@@ -451,6 +451,11 @@
                 },
                 "style": {}
               }
+            },
+            "2": {
+              "title": "Import tags from Telligent",
+              "id": 262,
+              "attr": {}
             }
           },
           "attr": {
