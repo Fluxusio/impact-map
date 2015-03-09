@@ -115,7 +115,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/p3WnGueT/210-tes-migrate-add-email-sending-capability-receive-notification-of-filed-articles"
                 },
                 "style": {}
               }
@@ -137,7 +137,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/YQfLRfnO/211-tes-migrate-edit-draft-articles-in-the-cms-edit-filed-articles"
                 },
                 "style": {}
               }
@@ -228,11 +228,11 @@
               "title": "Import taxonomy from Telligent",
               "id": 216,
               "attr": {
-                "style": {},
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                }
+                  "content": "https://trello.com/c/1euZOBRj/213-tes-migrate-import-taxonomy-from-telligent-maintain-tags"
+                },
+                "style": {}
               }
             }
           }
@@ -364,7 +364,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/GDeygtjF/209-tes-migrate-implement-solr-search-news"
                 },
                 "style": {}
               }
@@ -386,7 +386,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/lk0QE8aU/208-tes-migrate-comment-on-news-articles-engage-with-content"
                 },
                 "style": {}
               }
@@ -397,7 +397,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/tHAAjwJv/212-tes-migrate-follow-an-author-subject-engage-with-content"
                 },
                 "style": {}
               }
@@ -412,13 +412,11 @@
               "title": "Redirect from old URLs to Drupal ",
               "id": 209,
               "attr": {
-                "style": {
-                  "background": "transparent"
-                },
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                }
+                  "content": "https://trello.com/c/AFvxvysS/214-tes-migrate-redirect-from-old-urls-to-drupal-view-content"
+                },
+                "style": {}
               }
             },
             "2": {
@@ -427,7 +425,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/Ss08PML7/215-tes-migrate-import-articles-from-telligent-view-content"
                 },
                 "style": {}
               }
@@ -449,7 +447,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/vrlyd4Z6/216-tes-migrate-view-tagged-articles-explore-related-news-content"
                 },
                 "style": {}
               }
@@ -474,11 +472,11 @@
               "title": "Share on WhatsApp",
               "id": 246,
               "attr": {
-                "style": {},
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                }
+                  "content": "https://trello.com/c/9e37LUfP/217-tes-migrate-share-on-whatsapp-share-content-on-social-media"
+                },
+                "style": {}
               }
             },
             "2": {
@@ -487,7 +485,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/CJqaK38G/218-tes-migrate-share-on-fb-share-content-on-social-media"
                 },
                 "style": {}
               }
@@ -498,7 +496,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/21pP6afC/219-tes-migrate-share-on-twitter-share-content-on-social-media"
                 },
                 "style": {}
               }
@@ -509,7 +507,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/kWuGD5tD/220-tes-migrate-share-on-linkedin-share-content-on-social-media"
                 },
                 "style": {}
               }
@@ -531,7 +529,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/Q1omv8yO/223-tes-migrate-implement-responsive-design-view-articles-on-different-devices"
                 },
                 "style": {}
               }
@@ -633,7 +631,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/MF7hsq7J/221-tes-migrate-create-a-draft-article-in-the-cms-file-articles"
                 },
                 "style": {}
               }
@@ -644,7 +642,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/wPlNWOQN/224-tes-migrate-submit-an-article-for-review-file-articles"
                 },
                 "style": {}
               }
@@ -653,13 +651,11 @@
               "title": "Revoke article from review",
               "id": 244,
               "attr": {
-                "style": {
-                  "background": "transparent"
-                },
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                }
+                  "content": "https://trello.com/c/lZWuyxDf/222-tes-migrate-revoke-article-from-review-file-articles"
+                },
+                "style": {}
               }
             }
           }
@@ -687,13 +683,11 @@
               "title": "Embed podbean media",
               "id": 196,
               "attr": {
-                "style": {
-                  "background": "#c0c0c0"
-                },
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                }
+                  "content": "https://trello.com/c/JrDjLrgp/225-tes-migrate-embed-podbean-media-upload-media"
+                },
+                "style": {}
               }
             },
             "2": {
@@ -702,7 +696,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/idCU2On5/226-tes-migrate-brightcove-video-upload-media"
                 },
                 "style": {}
               }
@@ -713,7 +707,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/oQcH2I7v/227-tes-migrate-upload-images-upload-media"
                 },
                 "style": {}
               }
@@ -724,7 +718,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/9Eb6HECs/228-tes-migrate-upload-documents-upload-media"
                 },
                 "style": {}
               }
@@ -746,7 +740,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/ilndWl6x/229-tes-migrate-add-a-headline-for-draft-article-in-cms-write-headlines-for-articles"
                 },
                 "style": {}
               }
