@@ -121,6 +121,28 @@
               }
             }
           }
+        },
+        "2": {
+          "title": "Edit filed articles",
+          "id": 236,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Edit draft articles in the CMS\n",
+              "id": 237,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          }
         }
       }
     },
@@ -431,7 +453,8 @@
             "style": {
               "background": "#ffffff"
             }
-          }
+          },
+          "ideas": {}
         },
         "2": {
           "title": "Write headlines",
@@ -440,7 +463,8 @@
             "style": {
               "background": "#ffffff"
             }
-          }
+          },
+          "ideas": {}
         },
         "3": {
           "title": "Login / Register",
@@ -480,6 +504,20 @@
             "style": {
               "background": "#ffffff"
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "Create a draft article in the CMS",
+              "id": 231,
+              "ideas": {},
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
           }
         },
         "3": {
@@ -489,7 +527,8 @@
             "style": {
               "background": "#ffffff"
             }
-          }
+          },
+          "ideas": {}
         },
         "4": {
           "title": "Upload media",
@@ -529,6 +568,19 @@
           "attr": {
             "style": {
               "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Add a headline for draft article in CMS",
+              "id": 232,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
