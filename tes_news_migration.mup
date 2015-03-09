@@ -360,7 +360,14 @@
           "ideas": {
             "1": {
               "title": "Implement SOLR",
-              "id": 226
+              "id": 226,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -375,11 +382,25 @@
           "ideas": {
             "1": {
               "title": "Comment on news articles",
-              "id": 178
+              "id": 178,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "3": {
               "title": "Follow an Author  / Subject",
-              "id": 180
+              "id": 180,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -393,6 +414,10 @@
               "attr": {
                 "style": {
                   "background": "transparent"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
                 }
               }
             },
@@ -420,7 +445,14 @@
           "ideas": {
             "1": {
               "title": "View tagged articles",
-              "id": 228
+              "id": 228,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           },
           "attr": {
@@ -442,20 +474,45 @@
               "title": "Share on WhatsApp",
               "id": 246,
               "attr": {
-                "style": {}
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                }
               }
             },
             "2": {
               "title": "Share on FB",
-              "id": 247
+              "id": 247,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "3": {
               "title": "Share on Twitter",
-              "id": 248
+              "id": 248,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "4": {
               "title": "Share on LinkedIn",
-              "id": 249
+              "id": 249,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -465,6 +522,19 @@
           "attr": {
             "style": {
               "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Implement responsive design",
+              "id": 259,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
@@ -567,6 +637,30 @@
                 },
                 "style": {}
               }
+            },
+            "2": {
+              "title": "Submit an article for review",
+              "id": 260,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Revoke article from review",
+              "id": 244,
+              "attr": {
+                "style": {
+                  "background": "transparent"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                }
+              }
             }
           }
         },
@@ -595,35 +689,46 @@
               "attr": {
                 "style": {
                   "background": "#c0c0c0"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
                 }
               }
             },
             "2": {
               "title": "Brightcove video",
-              "id": 197
+              "id": 197,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "3": {
               "title": "Upload images",
-              "id": 211
+              "id": 211,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "4": {
               "title": "Upload documents",
-              "id": 212
+              "id": 212,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
-          }
-        },
-        "5": {
-          "title": "Reporter to ask for articles back from review",
-          "id": 244,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            },
-            "position": [
-              103.09999999999991,
-              185.60000000000002,
-              1
-            ]
           }
         },
         "1.5": {
