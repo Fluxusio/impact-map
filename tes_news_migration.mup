@@ -34,7 +34,14 @@
           "ideas": {
             "1": {
               "title": "Implement multiple web servers",
-              "id": 219
+              "id": 219,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
@@ -110,7 +117,7 @@
           },
           "ideas": {
             "1": {
-              "title": "Add email sending capability",
+              "title": "Send email",
               "id": 221,
               "attr": {
                 "attachment": {
@@ -145,7 +152,7 @@
           }
         },
         "3": {
-          "title": "Multiple (sub)editors should NOT be able to edit the same news article",
+          "title": "Prevent other (sub)-editors working on same article",
           "id": 243,
           "attr": {
             "style": {
@@ -181,15 +188,36 @@
           "ideas": {
             "1": {
               "title": "Add Google Analytics",
-              "id": 223
+              "id": 223,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Add Omniture",
-              "id": 224
+              "id": 224,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "3": {
               "title": "Add MZ",
-              "id": 225
+              "id": 225,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           },
           "attr": {
@@ -248,7 +276,25 @@
           "ideas": {
             "1": {
               "title": "Publish on schedule",
-              "id": 227
+              "id": 227,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Publish immediately",
+              "id": 263,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -262,7 +308,7 @@
           },
           "ideas": {
             "2": {
-              "title": "Display resources",
+              "title": "Display related resources",
               "id": 200,
               "attr": {
                 "style": {}
@@ -293,11 +339,21 @@
           }
         },
         "5": {
-          "title": "Show publication date",
+          "title": "Set publication date",
           "id": 245,
           "attr": {
             "style": {
               "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Manually edit",
+              "id": 264
+            },
+            "2": {
+              "title": "Automatically set",
+              "id": 265
             }
           }
         },
@@ -330,12 +386,19 @@
           "ideas": {
             "1": {
               "title": "Manage layout",
-              "id": 213
+              "id": 213,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
         "2.5": {
-          "title": "Show articles that are ready for review",
+          "title": "Find articles that are ready for review",
           "id": 239,
           "attr": {
             "style": {
@@ -350,7 +413,7 @@
       "id": 166,
       "ideas": {
         "1": {
-          "title": "Search news",
+          "title": "Search for content",
           "id": 172,
           "attr": {
             "style": {
@@ -368,6 +431,17 @@
                 },
                 "style": {}
               }
+            },
+            "2": {
+              "title": "Implement Drupal search",
+              "id": 266,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -380,17 +454,6 @@
             }
           },
           "ideas": {
-            "1": {
-              "title": "Comment on news articles",
-              "id": 178,
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/lk0QE8aU/208-tes-migrate-comment-on-news-articles-engage-with-content"
-                },
-                "style": {}
-              }
-            },
             "3": {
               "title": "Follow an Author  / Subject",
               "id": 180,
@@ -398,6 +461,17 @@
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/tHAAjwJv/212-tes-migrate-follow-an-author-subject-engage-with-content"
+                },
+                "style": {}
+              }
+            },
+            "4": {
+              "title": "Comment on news articles",
+              "id": 178,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/lk0QE8aU/208-tes-migrate-comment-on-news-articles-engage-with-content"
                 },
                 "style": {}
               }
@@ -426,6 +500,17 @@
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Ss08PML7/215-tes-migrate-import-articles-from-telligent-view-content"
+                },
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Import images from Telligent",
+              "id": 272,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
                 },
                 "style": {}
               }
@@ -544,6 +629,17 @@
                 },
                 "style": {}
               }
+            },
+            "2": {
+              "title": "Implement mobile theme",
+              "id": 271,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
@@ -583,7 +679,12 @@
               "background": "#ffffff"
             }
           },
-          "ideas": {}
+          "ideas": {
+            "1": {
+              "title": "Send by email to reporter",
+              "id": 274
+            }
+          }
         },
         "2": {
           "title": "Write headlines",
@@ -769,18 +870,22 @@
         }
       },
       "ideas": {
-        "1": {
-          "title": "Display subscriptions MPU",
+        "4": {
+          "title": "Update subscriptions MPU",
           "id": 199,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#FFFFFF"
+            }
           }
         },
-        "2": {
-          "title": "Display advertising",
+        "5": {
+          "title": "Update display advertising",
           "id": 251,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#FFFFFF"
+            }
           }
         }
       }
