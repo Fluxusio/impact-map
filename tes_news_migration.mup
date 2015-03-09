@@ -261,13 +261,6 @@
             }
           },
           "ideas": {
-            "1": {
-              "title": "Display subscriptions MPU",
-              "id": 199,
-              "attr": {
-                "style": {}
-              }
-            },
             "2": {
               "title": "Display resources",
               "id": 200,
@@ -302,6 +295,24 @@
         "5": {
           "title": "Show publication date",
           "id": 245,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "6": {
+          "title": "Display the News page correctly",
+          "id": 255,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "7": {
+          "title": "Display the News homepage correctly",
+          "id": 256,
           "attr": {
             "style": {
               "background": "#ffffff"
@@ -449,22 +460,6 @@
           }
         }
       },
-      "attr": {
-        "style": {
-          "background": "#33cccc"
-        },
-        "icon": {
-          "url": "internal:2/30ccc9b3-9078-ab24-ad6f-deedccd27096/",
-          "width": 32,
-          "height": 32,
-          "position": "left"
-        }
-      }
-    },
-    "-23.5": {
-      "title": "SEO",
-      "id": 208,
-      "ideas": {},
       "attr": {
         "style": {
           "background": "#33cccc"
@@ -642,6 +637,31 @@
                 "style": {}
               }
             }
+          }
+        }
+      }
+    },
+    "-16": {
+      "title": "Display Advertising Team",
+      "id": 252,
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Display subscriptions MPU",
+          "id": 199,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Display advertising",
+          "id": 251,
+          "attr": {
+            "style": {}
           }
         }
       }
