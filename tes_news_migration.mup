@@ -275,13 +275,6 @@
                 "style": {}
               }
             },
-            "3": {
-              "title": "Display jobs",
-              "id": 201,
-              "attr": {
-                "style": {}
-              }
-            },
             "4": {
               "title": "Display related blogs",
               "id": 202,
@@ -429,7 +422,9 @@
           "title": "Share content on social media",
           "id": 179,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#ffffff"
+            }
           },
           "ideas": {
             "1": {
