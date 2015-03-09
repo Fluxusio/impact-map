@@ -143,6 +143,15 @@
               }
             }
           }
+        },
+        "3": {
+          "title": "Multiple (sub)editors should NOT be able to edit the same news article",
+          "id": 243,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
         }
       }
     },
@@ -309,6 +318,15 @@
             "1": {
               "title": "Manage layout",
               "id": 213
+            }
+          }
+        },
+        "2.5": {
+          "title": "Show articles that are ready for review",
+          "id": 239,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
             }
           }
         }
