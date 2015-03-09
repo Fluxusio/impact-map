@@ -311,14 +311,22 @@
               "title": "Display related resources",
               "id": 200,
               "attr": {
-                "style": {}
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                }
               }
             },
             "4": {
               "title": "Display related blogs",
               "id": 202,
               "attr": {
-                "style": {}
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                }
               }
             }
           }
@@ -329,7 +337,14 @@
           "ideas": {
             "1": {
               "title": "Unpublish content immediately",
-              "id": 230
+              "id": 230,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           },
           "attr": {
@@ -349,11 +364,25 @@
           "ideas": {
             "1": {
               "title": "Manually edit",
-              "id": 264
+              "id": 264,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Automatically set",
-              "id": 265
+              "id": 265,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
