@@ -77,7 +77,7 @@
                   "content": "https://trello.com/c/yhlXC20b/176-wur-upload-spreadsheet-of-non-standard-data-add-new-wur-data"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             }
@@ -300,7 +300,7 @@
                   "content": "https://trello.com/c/MUHdY4MO/168-wur-switch-between-ranking-datasets-view-historical-data"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -313,7 +313,7 @@
                   "content": "https://trello.com/c/IVo6kADR/199-wur-switch-between-ranking-datasets-view-historical-data"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#00ff00"
                 }
               }
             }
@@ -622,7 +622,7 @@
                   "content": "https://trello.com/c/9gedXedM/178-wur-automatically-update-rss-feeds-sell-enhance-institution-profiles"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             }
@@ -728,7 +728,7 @@
                   "content": "https://trello.com/c/gvaKlzOR/175-wur-import-historical-news-articles-associate-news-with-rankings-dataset"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             }
@@ -808,7 +808,7 @@
                   "content": "https://trello.com/c/9qPbaQ1L/162-wur-link-institutions-to-new-item-via-tags-associate-news-with-institutions"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#00ff00"
                 }
               }
             }
