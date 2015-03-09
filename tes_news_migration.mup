@@ -458,6 +458,15 @@
               "id": 249
             }
           }
+        },
+        "5.25": {
+          "title": "View articles on different devices ",
+          "id": 258,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
         }
       },
       "attr": {
