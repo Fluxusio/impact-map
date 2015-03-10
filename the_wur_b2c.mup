@@ -167,16 +167,8 @@
             ]
           },
           "ideas": {
-            "8": {
-              "title": "Google",
-              "attr": {
-                "style": {}
-              },
-              "id": 70,
-              "ideas": {}
-            },
             "9": {
-              "title": "Search the site",
+              "title": "See student-relevant results in site search",
               "id": 160
             },
             "10": {
@@ -261,7 +253,7 @@
           },
           "ideas": {
             "2": {
-              "title": "Search the wider THE site",
+              "title": "See academic relevant results in site search",
               "id": 170
             },
             "3": {
