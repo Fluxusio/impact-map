@@ -523,19 +523,6 @@
           "title": "View content",
           "id": 214,
           "ideas": {
-            "1": {
-              "title": "Redirect from old URLs to Drupal ",
-              "id": 209,
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/AFvxvysS/214-tes-migrate-redirect-from-old-urls-to-drupal-view-content"
-                },
-                "style": {
-                  "background": "#d3d3d3"
-                }
-              }
-            },
             "2": {
               "title": "Import articles from Telligent",
               "id": 217,
@@ -547,7 +534,8 @@
                 "style": {
                   "background": "#d3d3d3"
                 }
-              }
+              },
+              "ideas": {}
             },
             "3": {
               "title": "Import images from Telligent",
@@ -556,6 +544,30 @@
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/ZSTjlVa9/244-tes-migrate-import-images-from-telligent-view-content"
+                },
+                "style": {}
+              }
+            },
+            "4": {
+              "title": "Ensure old articles are accessible on the same url",
+              "id": 209,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/AFvxvysS/214-tes-migrate-redirect-from-old-urls-to-drupal-view-content"
+                },
+                "style": {
+                  "background": "#d3d3d3"
+                }
+              }
+            },
+            "2.5": {
+              "title": "Import bylines from Telligent",
+              "id": 275,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/ZlCDxdvH/247-tes-migrate-import-bylines-from-telligent-view-content"
                 },
                 "style": {}
               }
@@ -592,7 +604,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Pe4LHIJq/246-tes-migrate-import-tags-from-telligent-explore-related-news-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#000000"
+                }
               }
             }
           },
