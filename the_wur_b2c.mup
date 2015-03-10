@@ -19,9 +19,9 @@
           "background": "#ADD8E6"
         },
         "position": [
-          431.16666666666663,
-          -509,
-          12
+          387.5,
+          -883,
+          38
         ]
       },
       "ideas": {
@@ -49,7 +49,7 @@
       "id": 2
     },
     "2": {
-      "title": "Students",
+      "title": "Student",
       "attr": {
         "icon": {
           "url": "internal:1/ddef8c95-95ca-94ce-8510-7cc8b216c800/",
@@ -61,9 +61,9 @@
           "background": "#ADD8E6"
         },
         "position": [
-          417.5,
-          23.333333333333258,
-          25
+          405.5,
+          -221.66666666666652,
+          37
         ]
       },
       "ideas": {
@@ -134,16 +134,36 @@
           },
           "id": 83
         },
+        "4": {
+          "title": "Compare institutions",
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {},
+          "id": 157
+        },
+        "5": {
+          "title": "Compare institutions",
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {},
+          "id": 159
+        },
         "0.5": {
-          "title": "Search in English",
+          "title": "Discover student-targeted content",
           "attr": {
             "style": {
               "background": "#FFFFFF"
             },
             "position": [
-              125.66666666666674,
-              -362.3333333333333,
-              1
+              123,
+              -407.3333333333335,
+              3
             ]
           },
           "ideas": {
@@ -152,13 +172,42 @@
               "attr": {
                 "style": {}
               },
-              "id": 70
+              "id": 70,
+              "ideas": {}
+            },
+            "9": {
+              "title": "Search the site",
+              "id": 160
+            },
+            "10": {
+              "title": "Student navigation",
+              "attr": {
+                "style": {}
+              },
+              "id": 162,
+              "ideas": {}
+            },
+            "11": {
+              "title": "Student-focused rankings datasets",
+              "attr": {
+                "style": {}
+              },
+              "ideas": {},
+              "id": 165
+            },
+            "12": {
+              "title": "Student-focused institution profiles",
+              "attr": {
+                "style": {}
+              },
+              "ideas": {},
+              "id": 166
             }
           },
           "id": 62
         },
         "0.75": {
-          "title": "Discover relevant content",
+          "title": "Browse on multiple devices",
           "attr": {
             "style": {
               "background": "#FFFFFF"
@@ -171,7 +220,7 @@
               "ideas": {}
             },
             "2": {
-              "title": "Browser on tablet",
+              "title": "Browse on tablet",
               "id": 129
             },
             "3": {
@@ -183,6 +232,67 @@
         }
       },
       "id": 15
+    },
+    "3": {
+      "title": "Academic",
+      "attr": {
+        "icon": {
+          "url": "internal:1/ddef8c95-95ca-94ce-8510-7cc8b216c800/",
+          "width": 32,
+          "height": 32,
+          "position": "left"
+        },
+        "style": {
+          "background": "#ADD8E6"
+        },
+        "position": [
+          393.5,
+          408.66666666666674,
+          36
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Discover academic-targeted content",
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "2": {
+              "title": "Search the wider THE site",
+              "id": 170
+            },
+            "3": {
+              "title": "Academic navigation",
+              "attr": {
+                "style": {}
+              },
+              "ideas": {},
+              "id": 171
+            },
+            "4": {
+              "title": "Academic-focused rankings datasets",
+              "attr": {
+                "style": {}
+              },
+              "ideas": {},
+              "id": 172
+            },
+            "5": {
+              "title": "Academic-focused institution profiles",
+              "attr": {
+                "style": {}
+              },
+              "ideas": {},
+              "id": 173
+            }
+          },
+          "id": 168
+        }
+      },
+      "id": 167
     },
     "4": {
       "title": "Parents",
@@ -197,9 +307,9 @@
           "background": "#ADD8E6"
         },
         "position": [
-          416.16666666666663,
-          528,
-          11
+          413.5,
+          751.666666666667,
+          34
         ]
       },
       "ideas": {
@@ -246,9 +356,9 @@
           "background": "#ADD8E6"
         },
         "position": [
-          419.16666666666663,
-          681,
-          13
+          323.5,
+          1061.666666666667,
+          35
         ]
       },
       "ideas": {
