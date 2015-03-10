@@ -954,6 +954,12 @@
       "attr": {
         "style": {
           "background": "#33cccc"
+        },
+        "icon": {
+          "url": "internal:2/30ccc9b3-9078-ab24-ad6f-deedccd27096/",
+          "width": 32,
+          "height": 32,
+          "position": "left"
         }
       },
       "ideas": {
@@ -972,6 +978,45 @@
           "attr": {
             "style": {
               "background": "#FFFFFF"
+            }
+          }
+        }
+      }
+    },
+    "-22": {
+      "title": "SEO Team",
+      "id": 276,
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        },
+        "icon": {
+          "url": "internal:2/30ccc9b3-9078-ab24-ad6f-deedccd27096/",
+          "width": 32,
+          "height": 32,
+          "position": "left"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Optimise pages for search visibility",
+          "id": 277,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Set URL pattern for news articles",
+              "id": 278,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
