@@ -316,6 +316,10 @@
                   "background": "#00ff00"
                 }
               }
+            },
+            "4": {
+              "title": "Switch between dataset types on dataset page",
+              "id": 150
             }
           }
         },
@@ -908,6 +912,25 @@
                   "background": "#d3d3d3"
                 }
               }
+            }
+          }
+        },
+        "14": {
+          "title": "Attribute data sources",
+          "id": 147,
+          "ideas": {
+            "1": {
+              "title": "Data source is shown on the ranking dataset",
+              "id": 148
+            },
+            "2": {
+              "title": "Data source is shown on institution",
+              "id": 149
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "transparent"
             }
           }
         }
