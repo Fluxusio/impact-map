@@ -558,7 +558,7 @@
                   "content": "https://trello.com/c/Ss08PML7/215-tes-migrate-import-articles-from-telligent-view-content"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               },
               "ideas": {}
@@ -1047,7 +1047,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/UqUdHHbE/248-tes-migrate-set-url-pattern-for-news-articles-optimise-pages-for-search-visibility"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }

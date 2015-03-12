@@ -719,7 +719,7 @@
                   "content": "https://trello.com/c/7fuSA6QV/159-wur-link-dataset-to-news-item-via-tags-associate-news-with-rankings-dataset"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -870,7 +870,7 @@
                   "content": "https://trello.com/c/VArP7cet/196-wur-view-themed-sorting-controls-integrate-the-look-and-feel"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -896,7 +896,7 @@
                   "content": "https://trello.com/c/3vPzuC2D/197-wur-view-standard-profiles-in-ranking-dataset-integrate-the-look-and-feel"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -909,7 +909,7 @@
                   "content": "https://trello.com/c/jMGtmfGB/198-wur-view-associated-content-tabs-on-ranking-dataset-integrate-the-look-and-feel"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             }

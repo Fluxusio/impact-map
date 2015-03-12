@@ -308,7 +308,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/yF4qFJuE/202-the-allow-anonymous-users-to-comment-w-registration-engage-with-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           },
