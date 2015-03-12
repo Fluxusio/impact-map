@@ -889,7 +889,19 @@
               "background": "#ffffff"
             }
           },
-          "ideas": {}
+          "ideas": {
+            "1": {
+              "title": "Tag articles in the CMS",
+              "id": 279,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          }
         },
         "4": {
           "title": "Upload media",
