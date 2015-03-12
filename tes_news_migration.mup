@@ -40,7 +40,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/u3SdU24j/233-tes-migrate-implement-multiple-web-servers-service-resilience"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -149,7 +151,7 @@
                   "content": "https://trello.com/c/YQfLRfnO/211-tes-migrate-edit-draft-articles-in-the-cms-edit-filed-articles"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#00ff00"
                 }
               }
             }
@@ -198,7 +200,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/7j0kglH0/232-tes-migrate-add-google-analytics-report-on-page-usage"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
@@ -209,7 +213,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/ArRYr8Xh/231-tes-migrate-add-omniture-report-on-page-usage"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "3": {
@@ -220,7 +226,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/xfoC2x7J/237-tes-migrate-add-mz-report-on-page-usage"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           },
@@ -288,7 +296,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/MibpfXRJ/235-tes-migrate-publish-on-schedule-publish-articles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
@@ -299,7 +309,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/4pf066i2/234-tes-migrate-publish-immediately-publish-articles"
                 },
-                "style": {}
+                "style": {
+                  "background": "#00ff00"
+                }
               }
             }
           }
@@ -321,7 +333,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/RlobS547/236-tes-migrate-display-related-resources-curate-secondary-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "4": {
@@ -332,7 +346,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/dDOh136x/238-tes-migrate-display-related-blogs-curate-secondary-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -349,7 +365,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/oMuw9415/239-tes-migrate-unpublish-content-immediately-spike-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           },
@@ -376,7 +394,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/nY1cGyfm/240-tes-migrate-manually-edit-set-publication-date"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
@@ -387,7 +407,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/TJ8HkFsU/241-tes-migrate-automatically-set-set-publication-date"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -427,7 +449,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/lJ8bjV5t/242-tes-migrate-manage-layout-manage-homepage"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -477,7 +501,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/EdmlLLLK/243-tes-migrate-implement-drupal-search-search-for-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -532,7 +558,7 @@
                   "content": "https://trello.com/c/Ss08PML7/215-tes-migrate-import-articles-from-telligent-view-content"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               },
               "ideas": {}
@@ -545,7 +571,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/ZSTjlVa9/244-tes-migrate-import-images-from-telligent-view-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "4": {
@@ -569,7 +597,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/ZlCDxdvH/247-tes-migrate-import-bylines-from-telligent-view-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           },
@@ -605,7 +635,7 @@
                   "content": "https://trello.com/c/Pe4LHIJq/246-tes-migrate-import-tags-from-telligent-explore-related-news-content"
                 },
                 "style": {
-                  "background": "#000000"
+                  "background": "#d3d3d3"
                 }
               }
             }
@@ -709,7 +739,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/GJJjevZJ/245-tes-migrate-implement-mobile-theme-view-articles-on-different-devices"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -817,7 +849,7 @@
                   "content": "https://trello.com/c/MF7hsq7J/221-tes-migrate-create-a-draft-article-in-the-cms-file-articles"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -830,7 +862,7 @@
                   "content": "https://trello.com/c/wPlNWOQN/224-tes-migrate-submit-an-article-for-review-file-articles"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -903,7 +935,7 @@
                   "content": "https://trello.com/c/oQcH2I7v/227-tes-migrate-upload-images-upload-media"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -940,7 +972,7 @@
                   "content": "https://trello.com/c/ilndWl6x/229-tes-migrate-add-a-headline-for-draft-article-in-cms-write-headlines-for-articles"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -1013,7 +1045,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/UqUdHHbE/248-tes-migrate-set-url-pattern-for-news-articles-optimise-pages-for-search-visibility"
                 },
                 "style": {}
               }

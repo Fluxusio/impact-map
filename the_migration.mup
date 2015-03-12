@@ -243,7 +243,7 @@
                   "content": "https://trello.com/c/fCJdaNjs/94-the-comment-engage-with-content"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -306,7 +306,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/yF4qFJuE/202-the-allow-anonymous-users-to-comment-w-registration-engage-with-content"
                 },
                 "style": {}
               }
