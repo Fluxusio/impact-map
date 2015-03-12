@@ -299,6 +299,17 @@
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "6": {
+              "title": "Allow Anonymous Users to Comment w/Registration",
+              "id": 304,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           },
           "attr": {
