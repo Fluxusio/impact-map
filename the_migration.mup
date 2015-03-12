@@ -243,7 +243,7 @@
                   "content": "https://trello.com/c/fCJdaNjs/94-the-comment-engage-with-content"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#d3d3d3"
                 }
               }
             },
@@ -301,16 +301,14 @@
               }
             },
             "6": {
-              "title": "Allow Anonymous Users to Comment w/Registration",
-              "id": 304,
+              "title": "View comment history",
+              "id": 308,
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "https://trello.com/c/yF4qFJuE/202-the-allow-anonymous-users-to-comment-w-registration-engage-with-content"
+                  "content": "backlog"
                 },
-                "style": {
-                  "background": "#d3d3d3"
-                }
+                "style": {}
               }
             }
           },
@@ -1091,7 +1089,7 @@
       },
       "ideas": {
         "2": {
-          "title": "Receive Notification of Comments",
+          "title": "Manage comments",
           "attr": {
             "style": {
               "background": "#FFFFFF"
@@ -1110,6 +1108,17 @@
                 "style": {
                   "background": "#d3d3d3"
                 }
+              }
+            },
+            "2": {
+              "title": "Remove comment",
+              "id": 307,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
               }
             }
           }
