@@ -457,11 +457,17 @@
           }
         },
         "2.5": {
-          "title": "Find articles that are ready for review",
+          "title": "Review articles",
           "id": 239,
           "attr": {
             "style": {
               "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Find articles ready for review",
+              "id": 280
             }
           }
         }
