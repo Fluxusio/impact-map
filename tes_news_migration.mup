@@ -268,13 +268,20 @@
               "title": "Import taxonomy from Telligent",
               "id": 216,
               "attr": {
+                "style": {
+                  "background": "#000000"
+                }
+              }
+            },
+            "2": {
+              "title": "Manage article tags",
+              "id": 281,
+              "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "https://trello.com/c/1euZOBRj/213-tes-migrate-import-taxonomy-from-telligent-maintain-tags"
+                  "content": "backlog"
                 },
-                "style": {
-                  "background": "#d3d3d3"
-                }
+                "style": {}
               }
             }
           }
@@ -636,12 +643,8 @@
               "title": "Import tags from Telligent",
               "id": 262,
               "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/Pe4LHIJq/246-tes-migrate-import-tags-from-telligent-explore-related-news-content"
-                },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#000000"
                 }
               }
             }
