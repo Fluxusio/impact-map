@@ -279,7 +279,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/yJUVMKsd/249-tes-migrate-manage-article-tags-maintain-tags"
                 },
                 "style": {}
               }
@@ -304,7 +304,7 @@
                   "content": "https://trello.com/c/MibpfXRJ/235-tes-migrate-publish-on-schedule-publish-articles"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -373,7 +373,7 @@
                   "content": "https://trello.com/c/oMuw9415/239-tes-migrate-unpublish-content-immediately-spike-content"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -415,7 +415,7 @@
                   "content": "https://trello.com/c/TJ8HkFsU/241-tes-migrate-automatically-set-set-publication-date"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             }
@@ -571,7 +571,7 @@
                   "content": "https://trello.com/c/Ss08PML7/215-tes-migrate-import-articles-from-telligent-view-content"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               },
               "ideas": {}
@@ -905,7 +905,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/AM5wY8Jd/250-tes-migrate-tag-articles-in-the-cms-tag-articles"
                 },
                 "style": {}
               }
@@ -956,7 +956,7 @@
                   "content": "https://trello.com/c/oQcH2I7v/227-tes-migrate-upload-images-upload-media"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             },

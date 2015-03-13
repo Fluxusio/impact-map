@@ -257,7 +257,7 @@
                   "content": "https://trello.com/c/4cnpTJcl/93-the-rate-engage-with-content"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -308,7 +308,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Fg04kPJb/203-the-view-comment-history-engage-with-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           },
@@ -674,7 +676,7 @@
                   "content": "https://trello.com/c/T1ie2bUu/133-the-update-headlines-update-web-headlines"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -703,7 +705,7 @@
                   "content": "https://trello.com/c/1bBgchdd/134-the-update-standfirsts-update-web-standfirsts"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -911,7 +913,7 @@
                   "content": "https://trello.com/c/8dDJkDht/136-the-unpublish-content-immediately-spike-content"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -1118,7 +1120,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Tlv244ok/204-the-remove-comment-manage-comments"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
