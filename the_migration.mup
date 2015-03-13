@@ -109,6 +109,10 @@
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "2": {
+              "title": "Improve sign-up form to increase registrations",
+              "id": 309
             }
           },
           "attr": {
