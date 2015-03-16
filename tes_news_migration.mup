@@ -44,6 +44,17 @@
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "2": {
+              "title": "Implement alternative to database logging",
+              "id": 283,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
