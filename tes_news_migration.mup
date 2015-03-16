@@ -154,15 +154,15 @@
                   "background": "#00ff00"
                 }
               }
-            }
-          }
-        },
-        "3": {
-          "title": "Prevent other (sub)-editors working on same article",
-          "id": 243,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
+            },
+            "2": {
+              "title": "Prevent other (sub)-editors working on same article",
+              "id": 243,
+              "attr": {
+                "style": {
+                  "background": "transparent"
+                }
+              }
             }
           }
         }
