@@ -857,6 +857,30 @@
             "style": {
               "background": "#FFFFFF"
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "Add Standard Jobs Widget",
+              "id": 310,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Add contextualised job widget",
+              "id": 311,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
           }
         },
         "2": {
