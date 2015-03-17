@@ -55,6 +55,17 @@
                 },
                 "style": {}
               }
+            },
+            "3": {
+              "title": "Enable HTML page caching in Fastly for anonymous users",
+              "id": 285,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/45efMGg1/258-tes-migrate-enable-html-page-caching-in-fastly-for-anonymous-users-service-resilience"
+                },
+                "style": {}
+              }
             }
           }
         }
@@ -611,6 +622,17 @@
                 "style": {
                   "background": "#d3d3d3"
                 }
+              }
+            },
+            "5": {
+              "title": "Import news article type from Telligent",
+              "id": 284,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/bppYQUG6/257-tes-migrate-import-news-article-type-from-telligent-view-content"
+                },
+                "style": {}
               }
             },
             "2.5": {
