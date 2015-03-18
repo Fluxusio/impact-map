@@ -262,6 +262,43 @@
         }
       }
     },
+    "50": {
+      "title": "Jobs Team",
+      "id": 287,
+      "ideas": {
+        "1": {
+          "title": "Display related news with jobs",
+          "id": 288,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Expose news listing for embed in jobs platform",
+              "id": 289
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#33cccc"
+        },
+        "icon": {
+          "url": "internal:2/30ccc9b3-9078-ab24-ad6f-deedccd27096/",
+          "width": 32,
+          "height": 32,
+          "position": "left"
+        },
+        "position": [
+          114,
+          839,
+          8
+        ]
+      }
+    },
     "-11": {
       "title": "Editors",
       "id": 165,
@@ -286,15 +323,6 @@
             }
           },
           "ideas": {
-            "1": {
-              "title": "Import taxonomy from Telligent",
-              "id": 216,
-              "attr": {
-                "style": {
-                  "background": "#000000"
-                }
-              }
-            },
             "2": {
               "title": "Manage article tags",
               "id": 281,
@@ -368,7 +396,7 @@
               }
             },
             "4": {
-              "title": "Display related blogs",
+              "title": "Display related forums",
               "id": 202,
               "attr": {
                 "attachment": {
@@ -671,15 +699,6 @@
                   "background": "#d3d3d3"
                 }
               }
-            },
-            "2": {
-              "title": "Import tags from Telligent",
-              "id": 262,
-              "attr": {
-                "style": {
-                  "background": "#000000"
-                }
-              }
             }
           },
           "attr": {
@@ -737,7 +756,7 @@
               }
             },
             "4": {
-              "title": "Share on LinkedIn",
+              "title": "Share on LinkedIn (?)",
               "id": 249,
               "attr": {
                 "attachment": {
@@ -942,6 +961,10 @@
                 },
                 "style": {}
               }
+            },
+            "2": {
+              "title": "Import tags from CSV file",
+              "id": 286
             }
           }
         },
