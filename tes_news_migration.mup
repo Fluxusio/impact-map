@@ -547,12 +547,8 @@
               "title": "Implement SOLR",
               "id": 226,
               "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/GDeygtjF/209-tes-migrate-implement-solr-search-news"
-                },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#000000"
                 }
               }
             },
@@ -581,7 +577,7 @@
           },
           "ideas": {
             "3": {
-              "title": "Follow an Author  / Subject",
+              "title": "Follow a subject",
               "id": 180,
               "attr": {
                 "attachment": {
@@ -604,6 +600,17 @@
                 "style": {
                   "background": "#d3d3d3"
                 }
+              }
+            },
+            "5": {
+              "title": "Follow an author",
+              "id": 290,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
               }
             }
           }
