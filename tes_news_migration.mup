@@ -277,7 +277,14 @@
           "ideas": {
             "1": {
               "title": "Expose news listing for embed in jobs platform",
-              "id": 289
+              "id": 289,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
