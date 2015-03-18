@@ -167,6 +167,20 @@
                 "style": {}
               },
               "id": 108
+            },
+            "3": {
+              "title": "Share on Google+",
+              "attr": {
+                "style": {}
+              },
+              "id": 322
+            },
+            "4": {
+              "title": "Share on LinkedIn",
+              "attr": {
+                "style": {}
+              },
+              "id": 323
             }
           },
           "id": 83
@@ -178,7 +192,92 @@
               "background": "#FFFFFF"
             }
           },
-          "ideas": {},
+          "ideas": {
+            "1": {
+              "title": "Compare by student:staff ratio",
+              "id": 324,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Compare by % of international students",
+              "attr": {
+                "style": {}
+              },
+              "id": 326
+            },
+            "3": {
+              "title": "Compare by male:female ratio",
+              "attr": {
+                "style": {}
+              },
+              "id": 327
+            },
+            "4": {
+              "title": "Compare by PhD:Undergraduate ratio",
+              "attr": {
+                "style": {}
+              },
+              "id": 328
+            },
+            "5": {
+              "title": "Compare by $capital per student",
+              "attr": {
+                "style": {}
+              },
+              "id": 329
+            },
+            "6": {
+              "title": "Compare by cost of study",
+              "attr": {
+                "style": {}
+              },
+              "id": 331
+            },
+            "7": {
+              "title": "Compare by cost of living",
+              "attr": {
+                "style": {}
+              },
+              "id": 332
+            },
+            "8": {
+              "title": "Compare by location",
+              "attr": {
+                "style": {}
+              },
+              "id": 333
+            },
+            "9": {
+              "title": "Compare by rank position",
+              "attr": {
+                "style": {}
+              },
+              "id": 334
+            },
+            "10": {
+              "title": "Compare by teaching and learning",
+              "attr": {
+                "style": {}
+              },
+              "id": 335
+            },
+            "11": {
+              "title": "Compare by international outlook",
+              "attr": {
+                "style": {}
+              },
+              "id": 336
+            },
+            "12": {
+              "title": "Compare by industry income",
+              "attr": {
+                "style": {}
+              },
+              "id": 337
+            }
+          },
           "id": 157
         },
         "5": {
@@ -877,6 +976,10 @@
             "1": {
               "title": "English URL structure",
               "id": 225
+            },
+            "2": {
+              "title": "Canonical tag?",
+              "id": 321
             }
           },
           "id": 9
