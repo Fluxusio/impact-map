@@ -215,6 +215,17 @@
                 }
               }
             },
+            "6": {
+              "title": "Import images to historical content",
+              "id": 349,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
             "1.5": {
               "title": "Import Webvision content prior to 2008",
               "id": 274,
