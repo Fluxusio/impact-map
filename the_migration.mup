@@ -604,6 +604,41 @@
                   "background": "#FFB6C1"
                 }
               }
+            },
+            "9": {
+              "title": "View book review",
+              "id": 352,
+              "ideas": {}
+            },
+            "10": {
+              "title": "View \"From Where I Sit\" article",
+              "id": 355,
+              "ideas": {}
+            },
+            "11": {
+              "title": "View \"Opinion (leader)\" article",
+              "id": 358
+            },
+            "12": {
+              "title": "View \"Laurie Taylor/Poppletonian\" article",
+              "id": 359
+            },
+            "13": {
+              "title": "View Cover page",
+              "id": 361,
+              "ideas": {}
+            },
+            "14": {
+              "title": "View \"What are you reading\" ",
+              "id": 364
+            },
+            "15": {
+              "title": "View \"Appointments/Classifieds\"",
+              "id": 365
+            },
+            "16": {
+              "title": "View \"XX in Brief\" article",
+              "id": 367
             }
           }
         },
