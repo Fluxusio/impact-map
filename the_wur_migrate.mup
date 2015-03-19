@@ -917,11 +917,11 @@
               "title": "View themed rankings data on institution profiles",
               "id": 151,
               "attr": {
-                "style": {},
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                }
+                  "content": "https://trello.com/c/f8mmB74s/211-wur-view-themed-rankings-data-on-institution-profiles-integrate-the-look-and-feel"
+                },
+                "style": {}
               }
             },
             "6": {
@@ -932,7 +932,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/RzVjRtnK/207-wur-view-themed-sidebar-on-enhanced-institution-profiles-integrate-the-look-and-feel"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "7": {
@@ -943,7 +945,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/7ha5u1du/208-wur-view-themed-institution-profile-body-text-and-maps-integrate-the-look-and-feel"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "8": {
@@ -954,7 +958,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/H2vKppwg/209-wur-view-institution-logo-on-enhanced-profiles-integrate-the-look-and-feel"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "9": {
@@ -965,7 +971,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/hlsfnR5H/210-wur-view-themed-badge-section-on-institution-profiles-integrate-the-look-and-feel"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
