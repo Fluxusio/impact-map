@@ -796,17 +796,6 @@
                   "background": "#00ff00"
                 }
               }
-            },
-            "3": {
-              "title": "Display actual rank in rankings dataset",
-              "id": 151,
-              "attr": {
-                "style": {},
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "backlog"
-                }
-              }
             }
           }
         },
@@ -922,6 +911,61 @@
                 "style": {
                   "background": "#00ff00"
                 }
+              }
+            },
+            "5": {
+              "title": "View themed rankings data on institution profiles",
+              "id": 151,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<div>backlog<br></div>"
+                },
+                "style": {}
+              }
+            },
+            "6": {
+              "title": "View themed sidebar on enhanced institution profiles",
+              "id": 152,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "7": {
+              "title": "View themed institution profile body text and maps",
+              "id": 153,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "8": {
+              "title": "View institution logo on enhanced profiles",
+              "id": 154,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "9": {
+              "title": "View themed badge section on institution profiles",
+              "id": 155,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
               }
             }
           }
