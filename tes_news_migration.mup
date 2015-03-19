@@ -677,6 +677,17 @@
                 "style": {}
               }
             },
+            "6": {
+              "title": "Import Tom Bennett blog from community platform",
+              "id": 291,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
             "2.5": {
               "title": "Import bylines from Telligent",
               "id": 275,
