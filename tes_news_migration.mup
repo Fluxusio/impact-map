@@ -66,6 +66,17 @@
                 },
                 "style": {}
               }
+            },
+            "4": {
+              "title": "Apply security updates",
+              "id": 292,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
