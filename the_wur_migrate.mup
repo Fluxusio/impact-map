@@ -999,11 +999,25 @@
           "ideas": {
             "1": {
               "title": "Data source is shown on the ranking dataset",
-              "id": 148
+              "id": 148,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Data source is shown on institution",
-              "id": 149
+              "id": 149,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           },
           "attr": {
