@@ -917,11 +917,11 @@
               "title": "View themed rankings data on institution profiles",
               "id": 151,
               "attr": {
+                "style": {},
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "<div>backlog<br></div>"
-                },
-                "style": {}
+                  "content": "backlog"
+                }
               }
             },
             "6": {
