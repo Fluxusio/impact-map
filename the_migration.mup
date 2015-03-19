@@ -109,10 +109,6 @@
                   "background": "#d3d3d3"
                 }
               }
-            },
-            "2": {
-              "title": "Improve sign-up form to increase registrations",
-              "id": 309
             }
           },
           "attr": {
@@ -620,6 +616,83 @@
                 "style": {
                   "background": "#d3d3d3"
                 }
+              }
+            }
+          }
+        },
+        "5": {
+          "title": "Create Section Pages",
+          "id": 338,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Panelize Taxonomy Term pages",
+              "id": 342,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Create parameterised panel page",
+              "id": 343,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          }
+        },
+        "6": {
+          "title": "Create Homepage",
+          "id": 339,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Create page",
+              "id": 348,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          }
+        },
+        "7": {
+          "title": "Add lists of content to pages",
+          "id": 345,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Create view of contents with multiple display modes",
+              "id": 347,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
               }
             }
           }
