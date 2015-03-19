@@ -221,7 +221,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/ydqDzv89/219-the-import-images-to-historical-content-access-eligible-content"
                 },
                 "style": {}
               }
@@ -575,7 +575,7 @@
                   "content": "https://trello.com/c/84PNbhvP/187-the-add-adverts-to-app-edition-produce-app-edition"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -648,7 +648,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/5zVWBLbN/215-the-panelize-taxonomy-term-pages-create-section-pages"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
@@ -659,7 +661,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Jz8LjTU9/213-the-create-parameterised-panel-page-create-section-pages"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -681,7 +685,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/ZSw7Dc2Z/216-the-create-page-create-homepage"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -703,7 +709,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/JdcFYd9v/214-the-create-view-of-contents-with-multiple-display-modes-add-lists-of-content-to-pages"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
