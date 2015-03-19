@@ -805,7 +805,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/dYAHTi9G/212-wur-display-actual-rank-in-rankings-dataset-publish-new-ranking-datasets"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             }
           }
@@ -933,7 +935,7 @@
                   "content": "https://trello.com/c/f8mmB74s/211-wur-view-themed-rankings-data-on-institution-profiles-integrate-the-look-and-feel"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },
