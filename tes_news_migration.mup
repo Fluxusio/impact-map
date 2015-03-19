@@ -351,6 +351,17 @@
                 },
                 "style": {}
               }
+            },
+            "3": {
+              "title": "Import from csv",
+              "id": 293,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/Z7jjJIMQ/261-tes-migrate-import-tags-from-csv-file"
+                },
+                "style": {}
+              }
             }
           }
         },
