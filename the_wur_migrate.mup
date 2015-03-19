@@ -796,6 +796,17 @@
                   "background": "#00ff00"
                 }
               }
+            },
+            "3": {
+              "title": "Display actual rank in rankings dataset",
+              "id": 151,
+              "attr": {
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                }
+              }
             }
           }
         },
