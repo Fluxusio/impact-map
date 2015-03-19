@@ -247,7 +247,7 @@
                   "content": "https://trello.com/c/fCJdaNjs/94-the-comment-engage-with-content"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -261,7 +261,7 @@
                   "content": "https://trello.com/c/4cnpTJcl/93-the-rate-engage-with-content"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -594,7 +594,7 @@
                   "content": "https://trello.com/c/rVFbAIby/188-the-preview-app-edition-produce-app-edition"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             }
@@ -867,7 +867,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/CFJAcWJK/205-the-add-standard-jobs-widget-add-jobs-to-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
@@ -878,7 +880,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/xoxLlwr4/206-the-add-contextualised-job-widget-add-jobs-to-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
