@@ -1011,7 +1011,14 @@
             },
             "2": {
               "title": "Import tags from CSV file",
-              "id": 286
+              "id": 286,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/Z7jjJIMQ/261-tes-migrate-import-tags-from-csv-file"
+                },
+                "style": {}
+              }
             }
           }
         },
