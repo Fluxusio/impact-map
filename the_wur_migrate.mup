@@ -319,7 +319,14 @@
             },
             "4": {
               "title": "Switch between dataset types on dataset page",
-              "id": 150
+              "id": 150,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -747,10 +754,6 @@
             }
           },
           "ideas": {
-            "1": {
-              "title": "Share",
-              "id": 72
-            },
             "2": {
               "title": "Twitter feed",
               "id": 73
@@ -808,6 +811,17 @@
                 "style": {
                   "background": "#ffff00"
                 }
+              }
+            },
+            "4": {
+              "title": "Display % of overall score for each sub-score",
+              "id": 157,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
               }
             }
           }
