@@ -614,7 +614,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/bcUofXUZ/223-the-view-book-review-produce-app-edition"
                 },
                 "style": {}
               }
@@ -626,7 +626,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/feEcB4Gs/224-the-view-from-where-i-sit-article-produce-app-edition"
                 },
                 "style": {}
               }
@@ -637,7 +637,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/OdPkyxGT/225-the-view-opinion-leader-article-produce-app-edition"
                 },
                 "style": {}
               }
@@ -648,7 +648,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/27vmyIZl/226-the-view-laurie-taylor-poppletonian-article-produce-app-edition"
                 },
                 "style": {}
               }
@@ -664,7 +664,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/WDfdARxu/227-the-view-what-are-you-reading-produce-app-edition"
                 },
                 "style": {}
               }
@@ -675,7 +675,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/1fdWFRtk/228-the-view-appointments-classifieds-produce-app-edition"
                 },
                 "style": {}
               }
@@ -686,7 +686,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/cr1olHfN/229-the-view-xx-in-brief-article-produce-app-edition"
                 },
                 "style": {}
               }
@@ -697,7 +697,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/9Ihp9q4f/230-the-fancy-formatting-of-text-in-app-produce-app-edition"
                 },
                 "style": {}
               }
@@ -807,7 +807,7 @@
                   "content": "https://trello.com/c/JdcFYd9v/214-the-create-view-of-contents-with-multiple-display-modes-add-lists-of-content-to-pages"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             }
@@ -1057,7 +1057,7 @@
                   "content": "https://trello.com/c/CFJAcWJK/205-the-add-standard-jobs-widget-add-jobs-to-content"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -1503,7 +1503,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/ttnpVx54/220-the-performance-of-pugpig-module-service-resliience"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           },
