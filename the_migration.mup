@@ -610,20 +610,48 @@
             "9": {
               "title": "View book review",
               "id": 352,
-              "ideas": {}
+              "ideas": {},
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "10": {
               "title": "View \"From Where I Sit\" article",
               "id": 355,
-              "ideas": {}
+              "ideas": {},
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "11": {
               "title": "View \"Opinion (leader)\" article",
-              "id": 358
+              "id": 358,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "12": {
               "title": "View \"Laurie Taylor/Poppletonian\" article",
-              "id": 359
+              "id": 359,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "13": {
               "title": "View Cover page",
@@ -632,15 +660,47 @@
             },
             "14": {
               "title": "View \"What are you reading\" ",
-              "id": 364
+              "id": 364,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "15": {
               "title": "View \"Appointments/Classifieds\"",
-              "id": 365
+              "id": 365,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "16": {
               "title": "View \"XX in Brief\" article",
-              "id": 367
+              "id": 367,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "17": {
+              "title": "Fancy formatting of text in app",
+              "id": 369,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
