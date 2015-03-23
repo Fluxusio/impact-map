@@ -710,6 +710,10 @@
                 "style": {}
               }
             },
+            "7": {
+              "title": "Twitter timeline feed",
+              "id": 294
+            },
             "2.5": {
               "title": "Import bylines from Telligent",
               "id": 275,
@@ -796,19 +800,6 @@
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/21pP6afC/219-tes-migrate-share-on-twitter-share-content-on-social-media"
-                },
-                "style": {
-                  "background": "#d3d3d3"
-                }
-              }
-            },
-            "4": {
-              "title": "Share on LinkedIn (?)",
-              "id": 249,
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/kWuGD5tD/220-tes-migrate-share-on-linkedin-share-content-on-social-media"
                 },
                 "style": {
                   "background": "#d3d3d3"
