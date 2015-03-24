@@ -711,8 +711,15 @@
               }
             },
             "7": {
-              "title": "Twitter timeline feed",
-              "id": 294
+              "title": "View relevant tweets from a Twitter timeline feed",
+              "id": 294,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/HzlTFPXg/267-tes-migrate-view-relevant-tweets-from-a-twitter-timeline-feed-view-content"
+                },
+                "style": {}
+              }
             },
             "2.5": {
               "title": "Import bylines from Telligent",
