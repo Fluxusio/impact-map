@@ -412,6 +412,28 @@
               }
             }
           }
+        },
+        "10": {
+          "title": "View on legacy browsers",
+          "id": 158,
+          "ideas": {
+            "1": {
+              "title": "View WUR on IE9",
+              "id": 159,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
         }
       }
     },
