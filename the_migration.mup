@@ -332,6 +332,39 @@
               "background": "#FFFFFF"
             }
           }
+        },
+        "10": {
+          "title": "Navigate to content",
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Navigation in the header",
+              "id": 373,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Navigation in the footer",
+              "id": 374,
+              "attr": {
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                }
+              }
+            }
+          },
+          "id": 371
         }
       }
     },
