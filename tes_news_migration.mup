@@ -506,24 +506,6 @@
             }
           }
         },
-        "6": {
-          "title": "Display the News page correctly",
-          "id": 255,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
-        "7": {
-          "title": "Display the News homepage correctly",
-          "id": 256,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
         "1.5": {
           "title": "Manage homepage ",
           "id": 193,
@@ -545,6 +527,22 @@
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "2": {
+              "title": "Surface breaking news",
+              "id": 298
+            },
+            "3": {
+              "title": "Surface opinion articles",
+              "id": 299
+            },
+            "4": {
+              "title": "Surface FE news",
+              "id": 300
+            },
+            "5": {
+              "title": "Surface most active topics",
+              "id": 302
             }
           }
         },
@@ -747,11 +745,11 @@
           }
         },
         "7": {
-          "title": "Explore related news content",
+          "title": "Explore news content",
           "id": 181,
           "ideas": {
             "1": {
-              "title": "View tagged articles",
+              "title": "View listing page of tagged articles",
               "id": 228,
               "attr": {
                 "attachment": {
@@ -762,6 +760,10 @@
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "2": {
+              "title": "View articles by the same author",
+              "id": 305
             }
           },
           "attr": {
@@ -1140,6 +1142,12 @@
             "style": {
               "background": "#FFFFFF"
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "Full size unit on homepage",
+              "id": 303
+            }
           }
         },
         "5": {
@@ -1148,6 +1156,12 @@
           "attr": {
             "style": {
               "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Add MPU sections to templates",
+              "id": 304
             }
           }
         }
