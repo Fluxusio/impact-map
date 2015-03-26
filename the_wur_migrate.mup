@@ -427,7 +427,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/7pl0AMEz/231-wur-view-wur-on-ie9-view-on-legacy-browsers"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           },
