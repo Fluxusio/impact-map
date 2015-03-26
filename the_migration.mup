@@ -853,6 +853,28 @@
               }
             }
           }
+        },
+        "8": {
+          "title": "Add Slideshows of content to pages",
+          "id": 376,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Create existing sliders and slideshows",
+              "id": 377,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          }
         }
       }
     },
