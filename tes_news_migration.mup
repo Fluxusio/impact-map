@@ -81,6 +81,28 @@
               }
             }
           }
+        },
+        "2": {
+          "title": "Traffic routing",
+          "id": 307,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Ensure traffic is routed to Drupal",
+              "id": 308,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/G764yDbg/268-tes-migrate-ensure-traffic-is-routed-to-drupal-traffic-routing"
+                },
+                "style": {}
+              }
+            }
+          }
         }
       }
     },
