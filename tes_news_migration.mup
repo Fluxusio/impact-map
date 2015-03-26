@@ -448,7 +448,7 @@
                   "content": "https://trello.com/c/RlobS547/236-tes-migrate-display-related-resources-curate-secondary-content"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#000000"
                 }
               }
             },
@@ -461,7 +461,7 @@
                   "content": "https://trello.com/c/dDOh136x/238-tes-migrate-display-related-blogs-curate-secondary-content"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#000000"
                 }
               }
             }
@@ -563,8 +563,15 @@
               "id": 300
             },
             "5": {
-              "title": "Surface most active topics",
-              "id": 302
+              "title": "Surface most read items",
+              "id": 302,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/27XuxbeR/269-tes-migrate-surface-most-read-items-manage-homepage"
+                },
+                "style": {}
+              }
             }
           }
         },
