@@ -351,7 +351,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/1B2C24kI/232-the-navigation-in-the-header-navigate-to-content"
                 },
                 "style": {}
               }
@@ -360,11 +360,11 @@
               "title": "Navigation in the footer",
               "id": 374,
               "attr": {
-                "style": {},
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                }
+                  "content": "https://trello.com/c/FuQI9TNl/233-the-navigation-in-the-footer-navigate-to-content"
+                },
+                "style": {}
               }
             }
           },
@@ -614,7 +614,7 @@
                   "content": "https://trello.com/c/84PNbhvP/187-the-add-adverts-to-app-edition-produce-app-edition"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -640,7 +640,7 @@
                   "content": "https://trello.com/c/rVFbAIby/188-the-preview-app-edition-produce-app-edition"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -653,7 +653,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/bcUofXUZ/223-the-view-book-review-produce-app-edition"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "10": {
@@ -665,7 +667,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/feEcB4Gs/224-the-view-from-where-i-sit-article-produce-app-edition"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             },
             "11": {
@@ -676,7 +680,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/OdPkyxGT/225-the-view-opinion-leader-article-produce-app-edition"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             },
             "12": {
@@ -687,7 +693,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/27vmyIZl/226-the-view-laurie-taylor-poppletonian-article-produce-app-edition"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             },
             "13": {
@@ -703,7 +711,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/WDfdARxu/227-the-view-what-are-you-reading-produce-app-edition"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             },
             "15": {
@@ -714,7 +724,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/1fdWFRtk/228-the-view-appointments-classifieds-produce-app-edition"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "16": {
@@ -725,7 +737,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/cr1olHfN/229-the-view-xx-in-brief-article-produce-app-edition"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             },
             "17": {
@@ -736,7 +750,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/9Ihp9q4f/230-the-fancy-formatting-of-text-in-app-produce-app-edition"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             },
             "18": {
@@ -869,7 +885,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/mbGEc3HB/234-the-create-existing-sliders-and-slideshows-add-slideshows-of-content-to-pages"
                 },
                 "style": {}
               }
@@ -1322,7 +1338,7 @@
                   "content": "https://trello.com/c/fZFlZXDn/137-the-create-most-commented-block-highlight-most-commented-articles"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#00ff00"
                 }
               }
             }
@@ -1405,7 +1421,7 @@
                   "content": "https://trello.com/c/Tlv244ok/204-the-remove-comment-manage-comments"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#00ff00"
                 }
               }
             }

@@ -325,7 +325,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/slqhUS3X/221-wur-switch-between-dataset-types-on-dataset-page-view-historical-data"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -423,7 +425,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/7pl0AMEz/231-wur-view-wur-on-ie9-view-on-legacy-browsers"
                 },
                 "style": {}
               }
@@ -851,7 +853,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/7l8iJNLo/222-wur-display-of-overall-score-for-each-sub-score-publish-new-ranking-datasets"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -979,7 +983,7 @@
                   "content": "https://trello.com/c/f8mmB74s/211-wur-view-themed-rankings-data-on-institution-profiles-integrate-the-look-and-feel"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -992,7 +996,7 @@
                   "content": "https://trello.com/c/RzVjRtnK/207-wur-view-themed-sidebar-on-enhanced-institution-profiles-integrate-the-look-and-feel"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -1005,7 +1009,7 @@
                   "content": "https://trello.com/c/7ha5u1du/208-wur-view-themed-institution-profile-body-text-and-maps-integrate-the-look-and-feel"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -1018,7 +1022,7 @@
                   "content": "https://trello.com/c/H2vKppwg/209-wur-view-institution-logo-on-enhanced-profiles-integrate-the-look-and-feel"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -1031,7 +1035,7 @@
                   "content": "https://trello.com/c/hlsfnR5H/210-wur-view-themed-badge-section-on-institution-profiles-integrate-the-look-and-feel"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             }
