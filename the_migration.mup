@@ -228,6 +228,10 @@
                 }
               }
             },
+            "7": {
+              "title": "Group imported content by issue",
+              "id": 375
+            },
             "1.5": {
               "title": "Import Webvision content prior to 2008",
               "id": 274,
