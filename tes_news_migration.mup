@@ -677,7 +677,14 @@
             },
             "6": {
               "title": "Login to the site",
-              "id": 295
+              "id": 295,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/sdJ8lY9b/270-tes-migrate-login-to-the-site-engage-with-content"
+                },
+                "style": {}
+              }
             }
           }
         },
