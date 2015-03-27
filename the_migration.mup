@@ -230,7 +230,14 @@
             },
             "7": {
               "title": "Group imported content by issue",
-              "id": 375
+              "id": 375,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "1.5": {
               "title": "Import Webvision content prior to 2008",
