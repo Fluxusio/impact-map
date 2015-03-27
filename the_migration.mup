@@ -239,6 +239,28 @@
                 "style": {}
               }
             },
+            "8": {
+              "title": "Browse articles by issue",
+              "id": 379,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "9": {
+              "title": "Browse issues",
+              "id": 380,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
             "1.5": {
               "title": "Import Webvision content prior to 2008",
               "id": 274,
