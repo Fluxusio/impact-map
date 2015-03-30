@@ -880,6 +880,28 @@
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "3": {
+              "title": "Create Term Landing Page",
+              "id": 382,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "4": {
+              "title": "Create Section Landing Page",
+              "id": 383,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
