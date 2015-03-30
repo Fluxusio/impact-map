@@ -808,6 +808,17 @@
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "20": {
+              "title": "Consistent resizing of images in the App edition",
+              "id": 381,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "Backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
