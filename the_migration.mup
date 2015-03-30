@@ -58,7 +58,7 @@
                   "content": "https://trello.com/c/wOpiM0KP/194-the-single-sign-on-with-madgex-login"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             }
@@ -236,7 +236,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/XxdCBf0d/240-the-group-imported-content-by-issue-access-eligible-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "8": {
@@ -247,7 +249,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/hlO1X654/241-the-browse-articles-by-issue-access-eligible-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "9": {
@@ -258,7 +262,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/bgxH2Ohe/242-the-browse-issues-access-eligible-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "1.5": {
@@ -270,7 +276,7 @@
                   "content": "https://trello.com/c/HTilEilF/170-the-import-webvision-content-prior-to-2008-access-eligible-content"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             }
@@ -687,7 +693,7 @@
                   "content": "https://trello.com/c/bcUofXUZ/223-the-view-book-review-produce-app-edition"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -701,7 +707,7 @@
                   "content": "https://trello.com/c/feEcB4Gs/224-the-view-from-where-i-sit-article-produce-app-edition"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -740,7 +746,7 @@
                   "content": "https://trello.com/c/WDfdARxu/227-the-view-what-are-you-reading-produce-app-edition"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -779,7 +785,7 @@
                   "content": "https://trello.com/c/9Ihp9q4f/230-the-fancy-formatting-of-text-in-app-produce-app-edition"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -792,7 +798,7 @@
                   "content": "https://trello.com/c/HlLW6CQg/237-the-view-obituary-produce-app-edition"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -887,7 +893,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/yl3HMDdi/243-the-create-term-landing-page-create-section-pages"
                 },
                 "style": {}
               }
@@ -898,7 +904,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/3TyScOVh/244-the-create-section-landing-page-create-section-pages"
                 },
                 "style": {}
               }
@@ -947,7 +953,7 @@
                   "content": "https://trello.com/c/JdcFYd9v/214-the-create-view-of-contents-with-multiple-display-modes-add-lists-of-content-to-pages"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -1447,7 +1453,7 @@
                   "content": "https://trello.com/c/T3PIL1U8/138-the-create-most-read-block-highlight-most-read-articles"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             }
