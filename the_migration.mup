@@ -1515,6 +1515,17 @@
                   "background": "#00ff00"
                 }
               }
+            },
+            "3": {
+              "title": "Retain removed comment",
+              "id": 384,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
