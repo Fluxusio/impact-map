@@ -202,19 +202,6 @@
                 }
               }
             },
-            "5": {
-              "title": "Assign Imported Content to types",
-              "id": 272,
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/69AiVFWe/166-the-assign-imported-content-to-types-access-eligible-content"
-                },
-                "style": {
-                  "background": "#d3d3d3"
-                }
-              }
-            },
             "6": {
               "title": "Import images to historical content",
               "id": 349,
@@ -861,32 +848,6 @@
             }
           },
           "ideas": {
-            "1": {
-              "title": "Panelize Taxonomy Term pages",
-              "id": 342,
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/5zVWBLbN/215-the-panelize-taxonomy-term-pages-create-section-pages"
-                },
-                "style": {
-                  "background": "#d3d3d3"
-                }
-              }
-            },
-            "2": {
-              "title": "Create parameterised panel page",
-              "id": 343,
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/Jz8LjTU9/213-the-create-parameterised-panel-page-create-section-pages"
-                },
-                "style": {
-                  "background": "#d3d3d3"
-                }
-              }
-            },
             "3": {
               "title": "Create Term Landing Page",
               "id": 382,
