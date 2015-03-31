@@ -395,6 +395,28 @@
             }
           },
           "id": 371
+        },
+        "11": {
+          "title": "Update email preferences",
+          "id": 386,
+          "ideas": {
+            "1": {
+              "title": "Link to email preference centre",
+              "id": 387,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         }
       }
     },
@@ -1090,6 +1112,17 @@
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "3": {
+              "title": "Create GA API account and config drupal",
+              "id": 385,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
@@ -1417,6 +1450,28 @@
                   "background": "#FFB6C1"
                 }
               }
+            }
+          }
+        },
+        "7": {
+          "title": "Send out welcome email",
+          "id": 389,
+          "ideas": {
+            "1": {
+              "title": "Email from exacttarget",
+              "id": 390,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
             }
           }
         }
