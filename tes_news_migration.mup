@@ -133,6 +133,20 @@
             "style": {
               "background": "#ffffff"
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "Receive email alert when comment is flagged",
+              "id": 309
+            },
+            "2": {
+              "title": "Node pre-moderate enabled by default",
+              "id": 310
+            },
+            "3": {
+              "title": "Node post-moderate optional",
+              "id": 311
+            }
           }
         },
         "2": {
