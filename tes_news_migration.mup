@@ -586,6 +586,10 @@
                 },
                 "style": {}
               }
+            },
+            "6": {
+              "title": "Promote news articles to homepage",
+              "id": 312
             }
           }
         },
@@ -777,6 +781,10 @@
             "8": {
               "title": "Print stylesheet",
               "id": 306
+            },
+            "9": {
+              "title": "Clearly identify content with video",
+              "id": 313
             },
             "2.5": {
               "title": "Import bylines from Telligent",
