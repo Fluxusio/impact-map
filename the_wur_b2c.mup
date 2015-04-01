@@ -357,7 +357,7 @@
       },
       "ideas": {
         "1": {
-          "title": "Uploads rankings datasets",
+          "title": "Upload rankings datasets",
           "attr": {
             "style": {
               "background": "#FFFFFF"
@@ -568,9 +568,9 @@
           "background": "#ADD8E6"
         },
         "position": [
-          289.5,
-          -1094.1666666666665,
-          132
+          343,
+          -1476.5,
+          134
         ]
       },
       "ideas": {
@@ -600,18 +600,23 @@
               "background": "#FFFFFF"
             }
           },
-          "ideas": {},
-          "id": 310
-        },
-        "7": {
-          "title": "Optimise copy for search engines",
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
+          "ideas": {
+            "1": {
+              "title": "Optimise content for sharing on Twitter (Twitter cards)",
+              "attr": {
+                "style": {}
+              },
+              "id": 558
+            },
+            "2": {
+              "title": "Optimise content for sharing on Facebook (Facebook metadata)",
+              "attr": {
+                "style": {}
+              },
+              "id": 559
             }
           },
-          "ideas": {},
-          "id": 311
+          "id": 310
         }
       },
       "id": 138
@@ -755,36 +760,6 @@
           },
           "ideas": {},
           "id": 325
-        },
-        "15": {
-          "title": "Optimise site for search engines",
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          },
-          "ideas": {},
-          "id": 326
-        },
-        "16": {
-          "title": "Manage social strategy",
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          },
-          "ideas": {},
-          "id": 331
-        },
-        "17": {
-          "title": "Define content strategy",
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          },
-          "ideas": {},
-          "id": 333
         }
       },
       "id": 312
@@ -1389,66 +1364,6 @@
       },
       "id": 387
     },
-    "-7.5": {
-      "title": "SEO Team\n(Report to Head of WUR Marketing)",
-      "attr": {
-        "icon": {
-          "url": "internal:1/ddef8c95-95ca-94ce-8510-7cc8b216c800/",
-          "width": 32,
-          "height": 32,
-          "position": "left"
-        },
-        "style": {
-          "background": "#ADD8E6"
-        },
-        "position": [
-          327.5,
-          531.5,
-          102
-        ]
-      },
-      "ideas": {
-        "1": {
-          "title": "Optimise for search engines",
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            },
-            "position": [
-              226,
-              5,
-              1
-            ]
-          },
-          "ideas": {
-            "1": {
-              "title": "Have SEO tools for articles",
-              "id": 504
-            },
-            "2": {
-              "title": "Have SEO tools for Rankings datatsets",
-              "id": 505
-            },
-            "3": {
-              "title": "Have SEO tools for listing pages (Views)",
-              "attr": {
-                "style": {}
-              },
-              "id": 506
-            },
-            "4": {
-              "title": "Have SEO tools for profile pages",
-              "attr": {
-                "style": {}
-              },
-              "id": 507
-            }
-          },
-          "id": 503
-        }
-      },
-      "id": 502
-    },
     "-0.125": {
       "title": "A University",
       "attr": {
@@ -1665,6 +1580,73 @@
         }
       },
       "id": 23
+    },
+    "-0.5625": {
+      "title": "SEO Team\n(Report to Head of WUR Marketing)",
+      "attr": {
+        "icon": {
+          "url": "internal:1/ddef8c95-95ca-94ce-8510-7cc8b216c800/",
+          "width": 32,
+          "height": 32,
+          "position": "left"
+        },
+        "style": {
+          "background": "#ADD8E6"
+        },
+        "position": [
+          349.5,
+          -1023.1666666666665,
+          133
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Optimise for search engines",
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            },
+            "position": [
+              226,
+              5,
+              1
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Have SEO tools for articles",
+              "id": 504
+            },
+            "2": {
+              "title": "Have SEO tools for Rankings datatsets",
+              "id": 505
+            },
+            "3": {
+              "title": "Have SEO tools for listing pages (Views)",
+              "attr": {
+                "style": {}
+              },
+              "id": 506
+            },
+            "4": {
+              "title": "Have SEO tools for profile pages",
+              "attr": {
+                "style": {}
+              },
+              "id": 507
+            },
+            "5": {
+              "title": "SEO Editor role?",
+              "id": 560,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "id": 503
+        }
+      },
+      "id": 502
     }
   },
   "attr": {
