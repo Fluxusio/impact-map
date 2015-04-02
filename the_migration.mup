@@ -1131,6 +1131,17 @@
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "4": {
+              "title": "Add MZ configuration",
+              "id": 391,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
