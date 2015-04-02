@@ -82,7 +82,7 @@
                   "content": "https://trello.com/c/Ze2OGpG5/96-the-provide-search-form-search-for-content"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             }
@@ -211,7 +211,7 @@
                   "content": "https://trello.com/c/ydqDzv89/219-the-import-images-to-historical-content-access-eligible-content"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -309,7 +309,7 @@
                   "content": "https://trello.com/c/uH1S3Yum/98-the-share-page-with-relevant-images-content-etc-engage-with-content"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -408,7 +408,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/5e0NKzmb/245-the-link-to-email-preference-centre-update-email-preferences"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           },
@@ -702,7 +704,7 @@
                   "content": "https://trello.com/c/bcUofXUZ/223-the-view-book-review-produce-app-edition"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -742,7 +744,7 @@
                   "content": "https://trello.com/c/27vmyIZl/226-the-view-laurie-taylor-poppletonian-article-produce-app-edition"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -768,7 +770,7 @@
                   "content": "https://trello.com/c/1fdWFRtk/228-the-view-appointments-classifieds-produce-app-edition"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -781,7 +783,7 @@
                   "content": "https://trello.com/c/cr1olHfN/229-the-view-xx-in-brief-article-produce-app-edition"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -820,7 +822,7 @@
                   "content": "https://trello.com/c/Horfdy68/238-the-view-culture-article-produce-app-edition"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -1125,7 +1127,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/osUAL6ci/246-the-create-ga-api-account-and-config-drupal-report-on-page-usage"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -1451,7 +1455,7 @@
                   "content": "https://trello.com/c/T3PIL1U8/138-the-create-most-read-block-highlight-most-read-articles"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -1469,7 +1473,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/LKEYILSu/247-the-email-from-exacttarget-send-out-welcome-email"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           },
@@ -1544,7 +1550,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/NZlqNbSY/248-the-retain-removed-comment-manage-comments"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
