@@ -690,37 +690,26 @@
             ]
           },
           "ideas": {
-            "1": {
-              "title": "Add Kiss metrics",
-              "attr": {
-                "style": {}
-              },
-              "id": 442
-            },
-            "2": {
-              "title": "Set up CrazyEgg",
-              "attr": {
-                "style": {}
-              },
-              "id": 443
-            },
             "3": {
-              "title": "Set goals in Google Analytics",
+              "title": "Add MZ Event tracking",
               "attr": {
                 "style": {}
               },
-              "id": 444
+              "id": 563
             },
-            "4": {
-              "title": "Add Omniture event tracking",
+            "6": {
+              "title": "Add CrazyEgg",
               "attr": {
                 "style": {}
               },
-              "id": 445
+              "id": 561
             },
-            "5": {
-              "title": "Run telephone surveys",
-              "id": 446
+            "1.5": {
+              "title": "Define events to be tracked",
+              "attr": {
+                "style": {}
+              },
+              "id": 562
             }
           },
           "id": 441
@@ -800,29 +789,7 @@
               "background": "#FFFFFF"
             }
           },
-          "ideas": {
-            "2": {
-              "title": "Add MZ Event tracking",
-              "attr": {
-                "style": {}
-              },
-              "id": 549
-            },
-            "3": {
-              "title": "Define events to be tracked",
-              "attr": {
-                "style": {}
-              },
-              "id": 550
-            },
-            "4": {
-              "title": "Add CrazyEgg",
-              "attr": {
-                "style": {}
-              },
-              "id": 551
-            }
-          },
+          "ideas": {},
           "id": 439
         }
       },
