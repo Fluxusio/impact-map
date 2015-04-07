@@ -140,12 +140,8 @@
               "id": 309
             },
             "2": {
-              "title": "Node pre-moderate enabled by default",
+              "title": "Select whether an article should be pre or post-moderated.",
               "id": 310
-            },
-            "3": {
-              "title": "Node post-moderate optional",
-              "id": 311
             }
           }
         },
