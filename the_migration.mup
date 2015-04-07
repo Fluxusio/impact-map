@@ -590,19 +590,6 @@
             ]
           },
           "ideas": {
-            "1": {
-              "title": "Pugpig integration",
-              "id": 238,
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/lyrHMESv/122-the-pugpig-integration-produce-app-edition"
-                },
-                "style": {
-                  "background": "#FFB6C1"
-                }
-              }
-            },
             "2": {
               "title": "Create new PugPig Issue",
               "id": 260,
@@ -674,7 +661,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "https://trello.com/c/kXWoy6P7/189-the-add-contents-page-to-app-edition-produce-app-edition"
+                  "content": "https://trello.com/c/Vi0JOWF2/183-the-add-contents-page-to-app-edition-produce-app-edition"
                 },
                 "style": {
                   "background": "#d3d3d3"
@@ -987,7 +974,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "https://trello.com/c/q6PJQYE5/250-the-create-sponsored-supplment-add-sponsored-supplements"
+                  "content": "backlog"
                 },
                 "style": {}
               }
@@ -1162,9 +1149,7 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/pU9L9faw/249-the-add-mz-configuration-report-on-page-usage"
                 },
-                "style": {
-                  "background": "#d3d3d3"
-                }
+                "style": {}
               }
             }
           }
@@ -1535,7 +1520,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "https://trello.com/c/Rgv6Plkn/251-the-embed-formstack-form-in-page-collect-user-details"
+                  "content": "backlog"
                 },
                 "style": {}
               }
