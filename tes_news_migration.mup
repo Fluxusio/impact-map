@@ -140,8 +140,15 @@
               "id": 309
             },
             "2": {
-              "title": "Select whether an article should be pre or post-moderated.",
-              "id": 310
+              "title": "Select whether comments on an article need to be pre or post moderated",
+              "id": 310,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/1hOJJ3Fe/291-tes-migrate-select-whether-comments-on-an-article-need-to-be-pre-or-post-moderated-moderate-user-generated-content"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -649,7 +656,12 @@
           "attr": {
             "style": {
               "background": "#ffffff"
-            }
+            },
+            "position": [
+              68,
+              -463,
+              1
+            ]
           },
           "ideas": {
             "3": {
@@ -698,6 +710,17 @@
                   "content": "https://trello.com/c/sdJ8lY9b/270-tes-migrate-login-to-the-site-engage-with-content"
                 },
                 "style": {}
+              }
+            },
+            "4.5": {
+              "title": "Mark comments as offensive",
+              "id": 315,
+              "attr": {
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/nyzCCov9/292-tes-migrate-mark-comments-as-offensive-engage-with-content"
+                }
               }
             }
           }
