@@ -971,6 +971,28 @@
               }
             }
           }
+        },
+        "9": {
+          "title": "Add Sponsored Supplements",
+          "id": 392,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Create sponsored supplment ",
+              "id": 394,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          }
         }
       }
     },
@@ -1493,6 +1515,28 @@
           "attr": {
             "style": {
               "background": "#FFFFFF"
+            }
+          }
+        },
+        "8": {
+          "title": "Collect user details",
+          "id": 397,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Embed formstack form in page",
+              "id": 398,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
