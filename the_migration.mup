@@ -58,7 +58,7 @@
                   "content": "https://trello.com/c/wOpiM0KP/194-the-single-sign-on-with-madgex-login"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#d3d3d3"
                 }
               }
             }
@@ -664,7 +664,7 @@
                   "content": "https://trello.com/c/Vi0JOWF2/183-the-add-contents-page-to-app-edition-produce-app-edition"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -974,7 +974,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/ijCEoHDD/252-the-create-sponsored-supplment-add-sponsored-supplements"
                 },
                 "style": {}
               }
@@ -1149,7 +1149,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/pU9L9faw/249-the-add-mz-configuration-report-on-page-usage"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -1520,7 +1522,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/FLLvB3iA/253-the-embed-formstack-form-in-page-collect-user-details"
                 },
                 "style": {}
               }
