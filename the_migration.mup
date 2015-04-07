@@ -987,7 +987,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/q6PJQYE5/250-the-create-sponsored-supplment-add-sponsored-supplements"
                 },
                 "style": {}
               }
@@ -1162,7 +1162,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/pU9L9faw/249-the-add-mz-configuration-report-on-page-usage"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -1533,7 +1535,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/Rgv6Plkn/251-the-embed-formstack-form-in-page-collect-user-details"
                 },
                 "style": {}
               }
