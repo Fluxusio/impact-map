@@ -828,6 +828,17 @@
                   1
                 ]
               }
+            },
+            "21": {
+              "title": "Apply special styles in WYSIWYG without editing HTML",
+              "id": 400,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
