@@ -821,7 +821,12 @@
                   "contentType": "text/html",
                   "content": "Backlog"
                 },
-                "style": {}
+                "style": {},
+                "position": [
+                  166,
+                  593,
+                  1
+                ]
               }
             }
           }
@@ -1760,6 +1765,10 @@
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "5": {
+              "title": "Shared file system",
+              "id": 399
             }
           },
           "attr": {
