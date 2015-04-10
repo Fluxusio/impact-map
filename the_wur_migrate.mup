@@ -859,6 +859,17 @@
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "5": {
+              "title": "Display the correct logo for each ranking dataset type",
+              "id": 160,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
