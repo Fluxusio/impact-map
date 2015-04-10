@@ -546,6 +546,11 @@
                 }
               }
             }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
           }
         }
       }
@@ -1087,7 +1092,7 @@
           },
           "attr": {
             "style": {
-              "background": "transparent"
+              "background": "#ffffff"
             }
           }
         }
