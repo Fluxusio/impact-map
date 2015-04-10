@@ -1779,7 +1779,14 @@
             },
             "5": {
               "title": "Shared file system",
-              "id": 399
+              "id": 399,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           },
           "attr": {
