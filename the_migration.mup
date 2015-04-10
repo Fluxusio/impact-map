@@ -837,7 +837,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/SsRlQAQm/255-the-apply-special-styles-in-wysiwyg-without-editing-html-produce-app-edition"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -1434,7 +1436,7 @@
                   "content": "https://trello.com/c/LiLXlm0F/123-the-import-webvision-profiles-update-profile"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#d3d3d3"
                 }
               }
             },
@@ -1514,7 +1516,7 @@
                   "content": "https://trello.com/c/LKEYILSu/247-the-email-from-exacttarget-send-out-welcome-email"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#FFB6C1"
                 }
               }
             }
@@ -1789,7 +1791,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Dhaplkh2/256-the-shared-file-system-service-resliience"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           },
