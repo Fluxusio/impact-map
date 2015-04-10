@@ -45,7 +45,7 @@
                   "content": "https://trello.com/c/3MLEoJGE/124-the-implement-webvision-password-hashing-login"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -58,7 +58,7 @@
                   "content": "https://trello.com/c/wOpiM0KP/194-the-single-sign-on-with-madgex-login"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -237,7 +237,7 @@
                   "content": "https://trello.com/c/hlO1X654/241-the-browse-articles-by-issue-access-eligible-content"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -557,7 +557,7 @@
                   "content": "https://trello.com/c/uLcmDSHC/167-the-import-image-library-publish-magazine-content-on-website"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -625,7 +625,7 @@
                   "content": "https://trello.com/c/cd2NHcl8/131-the-publish-to-itunes-store-produce-app-edition"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#d3d3d3"
                 }
               }
             },
@@ -835,7 +835,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/SsRlQAQm/255-the-apply-special-styles-in-wysiwyg-without-editing-html-produce-app-edition"
                 },
                 "style": {}
               }
@@ -884,7 +884,7 @@
                   "content": "https://trello.com/c/yl3HMDdi/243-the-create-term-landing-page-create-section-pages"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -992,7 +992,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/ijCEoHDD/252-the-create-sponsored-supplment-add-sponsored-supplements"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -1432,7 +1434,7 @@
                   "content": "https://trello.com/c/LiLXlm0F/123-the-import-webvision-profiles-update-profile"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -1512,7 +1514,7 @@
                   "content": "https://trello.com/c/LKEYILSu/247-the-email-from-exacttarget-send-out-welcome-email"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -1540,7 +1542,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/FLLvB3iA/253-the-embed-formstack-form-in-page-collect-user-details"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -1747,7 +1751,7 @@
                   "content": "https://trello.com/c/6QlFfKxt/174-the-memcache-as-a-service-service-resliience"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -1783,7 +1787,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/Dhaplkh2/256-the-shared-file-system-service-resliience"
                 },
                 "style": {}
               }
