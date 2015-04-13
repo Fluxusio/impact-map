@@ -873,7 +873,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Pd3JVMmu/257-wur-display-the-correct-logo-for-each-ranking-dataset-type-publish-new-ranking-datasets"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }

@@ -45,7 +45,7 @@
                   "content": "https://trello.com/c/3MLEoJGE/124-the-implement-webvision-password-hashing-login"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -106,7 +106,7 @@
                   "content": "https://trello.com/c/YCbfMKDC/125-the-provide-sign-up-form-register"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -1436,7 +1436,7 @@
                   "content": "https://trello.com/c/LiLXlm0F/123-the-import-webvision-profiles-update-profile"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -1516,7 +1516,7 @@
                   "content": "https://trello.com/c/LKEYILSu/247-the-email-from-exacttarget-send-out-welcome-email"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#00ff00"
                 }
               }
             }
