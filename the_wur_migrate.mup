@@ -608,7 +608,7 @@
           }
         },
         "4": {
-          "title": "Sell enhance institution profiles",
+          "title": "Sell enhanced institution profiles",
           "id": 93,
           "attr": {
             "style": {
@@ -665,6 +665,17 @@
                 },
                 "style": {
                   "background": "#00ff00"
+                }
+              }
+            },
+            "5": {
+              "title": "A role to edit institution profiles",
+              "id": 161,
+              "attr": {
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/thgdPiku/259-wur-a-role-to-edit-institution-profiles-sell-enhanced-institution-profiles"
                 }
               }
             }
