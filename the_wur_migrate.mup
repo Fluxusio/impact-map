@@ -667,17 +667,6 @@
                   "background": "#00ff00"
                 }
               }
-            },
-            "5": {
-              "title": "A role to edit institution profiles",
-              "id": 161,
-              "attr": {
-                "style": {},
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/thgdPiku/259-wur-a-role-to-edit-institution-profiles-sell-enhanced-institution-profiles"
-                }
-              }
             }
           }
         }
@@ -1193,6 +1182,45 @@
           }
         }
       }
+    },
+    "-4": {
+      "title": "Institution profile editor",
+      "attr": {
+        "style": {
+          "background": "#ADD8E6"
+        },
+        "icon": {
+          "url": "internal:1/dd150125-b899-a964-bbea-46b315b96b64/",
+          "width": 32,
+          "height": 32,
+          "position": "left"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Edit institution profiles",
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "A role to edit institution profiles",
+              "attr": {
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/thgdPiku/259-wur-a-role-to-edit-institution-profiles-sell-enhanced-institution-profiles"
+                }
+              },
+              "id": 166
+            }
+          },
+          "id": 163
+        }
+      },
+      "id": 162
     }
   },
   "links": [],
