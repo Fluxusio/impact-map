@@ -1000,6 +1000,30 @@
               }
             }
           }
+        },
+        "10": {
+          "title": "Distinguish site content between editorial and rankings",
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Have the logos switch between THE and WUR pages",
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/YZk1lpoa/254-the-logo-in-the-header"
+                },
+                "style": {
+                  "background": "#d3d3d3"
+                }
+              },
+              "id": 403
+            }
+          },
+          "id": 402
         }
       }
     },
