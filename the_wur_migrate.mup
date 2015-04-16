@@ -1074,7 +1074,7 @@
                   "content": "https://trello.com/c/y92ycecQ/217-wur-data-source-is-shown-on-the-ranking-dataset-attribute-data-sources"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -1087,7 +1087,7 @@
                   "content": "https://trello.com/c/gTu16dDT/218-wur-data-source-is-shown-on-institution-attribute-data-sources"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             }
@@ -1208,7 +1208,9 @@
             "1": {
               "title": "A role to edit institution profiles",
               "attr": {
-                "style": {},
+                "style": {
+                  "background": "#FFB6C1"
+                },
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/thgdPiku/259-wur-a-role-to-edit-institution-profiles-sell-enhanced-institution-profiles"
