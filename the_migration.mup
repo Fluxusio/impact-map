@@ -549,7 +549,7 @@
               }
             },
             "4": {
-              "title": "Import Image Library",
+              "title": "Re-use Images",
               "id": 273,
               "attr": {
                 "attachment": {
@@ -572,6 +572,17 @@
                 "style": {
                   "background": "#d3d3d3"
                 }
+              }
+            },
+            "6": {
+              "title": "Search image library by metadata",
+              "id": 404,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
               }
             }
           }
