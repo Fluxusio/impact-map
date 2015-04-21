@@ -62,18 +62,8 @@
           },
           "id": 3
         },
-        "2": {
-          "title": "Market our content",
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          },
-          "ideas": {},
-          "id": 146
-        },
         "3": {
-          "title": "Provide data for rankings tables",
+          "title": "Provide content for profile page",
           "attr": {
             "style": {
               "background": "#FFFFFF"
@@ -276,6 +266,13 @@
                 "style": {}
               },
               "id": 337
+            },
+            "13": {
+              "title": "Compare by faculty",
+              "attr": {
+                "style": {}
+              },
+              "id": 338
             }
           },
           "id": 157
@@ -1164,9 +1161,9 @@
               "background": "#FFFFFF"
             },
             "position": [
-              231,
-              106.5,
-              3
+              233,
+              -75.66666666666617,
+              7
             ]
           },
           "ideas": {
@@ -1283,9 +1280,9 @@
               "background": "#FFFFFF"
             },
             "position": [
-              229,
-              -185,
-              4
+              203,
+              -272.5000000000002,
+              10
             ]
           },
           "ideas": {
