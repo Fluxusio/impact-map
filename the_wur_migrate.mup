@@ -861,7 +861,7 @@
                   "content": "https://trello.com/c/7l8iJNLo/222-wur-display-of-overall-score-for-each-sub-score-publish-new-ranking-datasets"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -1074,7 +1074,7 @@
                   "content": "https://trello.com/c/y92ycecQ/217-wur-data-source-is-shown-on-the-ranking-dataset-attribute-data-sources"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -1087,7 +1087,7 @@
                   "content": "https://trello.com/c/gTu16dDT/218-wur-data-source-is-shown-on-institution-attribute-data-sources"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#00ff00"
                 }
               }
             }
@@ -1209,7 +1209,7 @@
               "title": "A role to edit institution profiles",
               "attr": {
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#d3d3d3"
                 },
                 "attachment": {
                   "contentType": "text/html",

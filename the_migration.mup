@@ -45,7 +45,7 @@
                   "content": "https://trello.com/c/3MLEoJGE/124-the-implement-webvision-password-hashing-login"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -58,7 +58,7 @@
                   "content": "https://trello.com/c/wOpiM0KP/194-the-single-sign-on-with-madgex-login"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#d3d3d3"
                 }
               }
             }
@@ -82,7 +82,7 @@
                   "content": "https://trello.com/c/Ze2OGpG5/96-the-provide-search-form-search-for-content"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#00ff00"
                 }
               }
             }
@@ -172,7 +172,7 @@
                   "content": "https://trello.com/c/px8AIBe8/126-the-check-subscription-entitlement-access-eligible-content"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -198,7 +198,7 @@
                   "content": "https://trello.com/c/dRAIiHpG/164-the-restrict-access-to-non-subscribers-access-eligible-content"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -348,7 +348,7 @@
                   "content": "https://trello.com/c/Fg04kPJb/203-the-view-comment-history-engage-with-content"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             }
@@ -389,7 +389,7 @@
                   "content": "https://trello.com/c/Jr8AUpkh/236-the-navigation-in-the-footer-navigate-to-content"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             }
@@ -409,7 +409,7 @@
                   "content": "https://trello.com/c/5e0NKzmb/245-the-link-to-email-preference-centre-update-email-preferences"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             }
@@ -468,7 +468,7 @@
                   "content": "https://trello.com/c/Dgg8glKS/105-the-create-website-content-publish-page-turner-edition"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -494,7 +494,7 @@
                   "content": "https://trello.com/c/fWrFPw8R/102-the-publish-on-schedule-publish-page-turner-edition"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#00ff00"
                 }
               }
             }
@@ -557,7 +557,7 @@
                   "content": "https://trello.com/c/uLcmDSHC/167-the-import-image-library-publish-magazine-content-on-website"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -582,7 +582,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/fJ8Yi8aX/262-the-search-image-library-by-metadata-publish-magazine-content-on-website"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -636,7 +638,7 @@
                   "content": "https://trello.com/c/cd2NHcl8/131-the-publish-to-itunes-store-produce-app-edition"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -849,7 +851,7 @@
                   "content": "https://trello.com/c/SsRlQAQm/255-the-apply-special-styles-in-wysiwyg-without-editing-html-produce-app-edition"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             }
@@ -910,7 +912,7 @@
                   "content": "https://trello.com/c/3TyScOVh/244-the-create-section-landing-page-create-section-pages"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             }
@@ -934,7 +936,7 @@
                   "content": "https://trello.com/c/ZSw7Dc2Z/216-the-create-page-create-homepage"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             }
@@ -1028,7 +1030,7 @@
                   "content": "https://trello.com/c/YZk1lpoa/254-the-logo-in-the-header"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#00ff00"
                 }
               },
               "id": 403
@@ -1471,7 +1473,7 @@
                   "content": "https://trello.com/c/LiLXlm0F/123-the-import-webvision-profiles-update-profile"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -1671,7 +1673,7 @@
                   "content": "https://trello.com/c/O0XTwDiZ/179-the-link-multiple-articles-create-multipage-article"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -1856,7 +1858,7 @@
                   "content": "https://trello.com/c/lbIMH5aB/180-the-use-https-align-with-infrastructure"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#00ff00"
                 }
               }
             },
