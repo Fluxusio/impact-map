@@ -851,7 +851,7 @@
                   "content": "https://trello.com/c/SsRlQAQm/255-the-apply-special-styles-in-wysiwyg-without-editing-html-produce-app-edition"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -1598,7 +1598,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/Rahle2FK/264-the-provide-sql-to-pull-out-fields-for-qlickview-spreadsheet-link-with-qlikview"
                 },
                 "style": {}
               }
