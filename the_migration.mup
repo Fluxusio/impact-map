@@ -1587,6 +1587,28 @@
               }
             }
           }
+        },
+        "9": {
+          "title": "Link with Qlikview",
+          "id": 405,
+          "ideas": {
+            "1": {
+              "title": "Provide SQL to pull out fields for Qlickview spreadsheet",
+              "id": 406,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         }
       },
       "id": 218
