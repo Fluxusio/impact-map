@@ -1037,6 +1037,28 @@
             }
           },
           "id": 402
+        },
+        "11": {
+          "title": "User management",
+          "id": 411,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Add THE staff with appropriate roles",
+              "id": 412,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          }
         }
       }
     },
@@ -1896,6 +1918,50 @@
                   "background": "#d3d3d3"
                 }
               }
+            }
+          }
+        },
+        "4": {
+          "title": "Data Migration",
+          "id": 407,
+          "ideas": {
+            "1": {
+              "title": "WUR 2015 releases",
+              "id": 408,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "THE Article Content & Images",
+              "id": 409,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "THE Users & Comments",
+              "id": 410,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
             }
           }
         }
