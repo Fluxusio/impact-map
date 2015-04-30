@@ -1727,6 +1727,28 @@
               "background": "#FFFFFF"
             }
           }
+        },
+        "4": {
+          "title": "Learn how to use",
+          "id": 413,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Task based training",
+              "id": 414,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          }
         }
       },
       "id": 225
