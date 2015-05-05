@@ -1052,7 +1052,8 @@
               "id": 412,
               "attr": {
                 "attachment": {
-                  "contentType": "text/html"
+                  "contentType": "text/html",
+                  "content": "backlog"
                 },
                 "style": {}
               }
@@ -1067,20 +1068,22 @@
               "title": "Create Landing Pages",
               "id": 416,
               "attr": {
+                "style": {},
                 "attachment": {
-                  "contentType": "text/html"
-                },
-                "style": {}
+                  "contentType": "text/html",
+                  "content": "backlog"
+                }
               }
             },
             "2": {
               "title": "Create Menu Items",
               "id": 417,
               "attr": {
+                "style": {},
                 "attachment": {
-                  "contentType": "text/html"
-                },
-                "style": {}
+                  "contentType": "text/html",
+                  "content": "backlog"
+                }
               }
             }
           }
