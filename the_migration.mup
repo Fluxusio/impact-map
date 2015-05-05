@@ -1680,7 +1680,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Rahle2FK/264-the-provide-sql-to-pull-out-fields-for-qlickview-spreadsheet-link-with-qlikview"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff00"
+                }
               }
             }
           },
@@ -1730,7 +1732,7 @@
                   "content": "https://trello.com/c/jDBjXrgK/139-the-send-email-notification-receive-notification-of-comments"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             },
