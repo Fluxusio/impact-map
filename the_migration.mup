@@ -830,16 +830,11 @@
               "title": "Consistent resizing of images in the App edition",
               "id": 381,
               "attr": {
-                "style": {},
-                "position": [
-                  166,
-                  593,
-                  1
-                ],
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                }
+                  "content": "https://trello.com/c/j8tdMCXC/284-the-consistent-resizing-of-images-in-the-app-edition-produce-app-edition"
+                },
+                "style": {}
               }
             },
             "21": {
@@ -1053,7 +1048,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/HDqtRSAB/285-the-add-the-staff-with-appropriate-roles-user-management"
                 },
                 "style": {}
               }
@@ -1068,22 +1063,22 @@
               "title": "Create Landing Pages",
               "id": 416,
               "attr": {
-                "style": {},
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                }
+                  "content": "https://trello.com/c/ur7FlSQq/286-the-create-landing-pages-release"
+                },
+                "style": {}
               }
             },
             "2": {
               "title": "Create Menu Items",
               "id": 417,
               "attr": {
-                "style": {},
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                }
+                  "content": "https://trello.com/c/6aiwPbKH/287-the-create-menu-items-release"
+                },
+                "style": {}
               }
             }
           }
