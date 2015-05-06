@@ -834,7 +834,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/j8tdMCXC/284-the-consistent-resizing-of-images-in-the-app-edition-produce-app-edition"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "21": {
@@ -1050,7 +1052,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/HDqtRSAB/285-the-add-the-staff-with-appropriate-roles-user-management"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -1067,7 +1071,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/ur7FlSQq/286-the-create-landing-pages-release"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
@@ -1078,7 +1084,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/6aiwPbKH/287-the-create-menu-items-release"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
