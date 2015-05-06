@@ -830,16 +830,16 @@
               "title": "Consistent resizing of images in the App edition",
               "id": 381,
               "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "Backlog"
-                },
                 "style": {},
                 "position": [
                   166,
                   593,
                   1
-                ]
+                ],
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                }
               }
             },
             "21": {
