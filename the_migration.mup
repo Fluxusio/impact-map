@@ -690,7 +690,7 @@
                   "content": "https://trello.com/c/rVFbAIby/188-the-preview-app-edition-produce-app-edition"
                 },
                 "style": {
-                  "background": "#00ff00"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -1247,7 +1247,7 @@
                   "content": "https://trello.com/c/osUAL6ci/246-the-create-ga-api-account-and-config-drupal-report-on-page-usage"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -1260,7 +1260,7 @@
                   "content": "https://trello.com/c/pU9L9faw/249-the-add-mz-configuration-report-on-page-usage"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#d3d3d3"
                 }
               }
             }
@@ -1807,11 +1807,11 @@
               "title": "Task based training",
               "id": 414,
               "attr": {
-                "style": {},
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                }
+                  "content": "https://trello.com/c/MMdhOw4M/292-the-task-based-training-learn-how-to-use"
+                },
+                "style": {}
               }
             }
           }
