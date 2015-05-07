@@ -1480,7 +1480,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/OeFLlnlm/293-the-holding-page-holding-page-policy"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           },
@@ -1529,7 +1531,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/F7kNrdee/294-the-ensure-ads-point-correctly-for-golive-add-adverts-to-content"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -2025,7 +2029,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Nl60Cldo/295-the-wur-2015-releases-data-migration"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
@@ -2049,7 +2055,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/m6B3fGV9/296-the-migrate-the-users-comments-data-migration"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           },
