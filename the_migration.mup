@@ -1476,12 +1476,10 @@
               "title": "Holding Page",
               "id": 419,
               "attr": {
+                "style": {},
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "https://trello.com/c/OeFLlnlm/293-the-holding-page-holding-page-policy"
-                },
-                "style": {
-                  "background": "#d3d3d3"
+                  "content": "backlog"
                 }
               }
             }
@@ -1529,11 +1527,9 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "https://trello.com/c/F7kNrdee/294-the-ensure-ads-point-correctly-for-golive-add-adverts-to-content"
+                  "content": "backlog"
                 },
-                "style": {
-                  "background": "#d3d3d3"
-                }
+                "style": {}
               }
             }
           }
@@ -1817,9 +1813,7 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/MMdhOw4M/292-the-task-based-training-learn-how-to-use"
                 },
-                "style": {
-                  "background": "#d3d3d3"
-                }
+                "style": {}
               }
             }
           }
@@ -2027,11 +2021,9 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "https://trello.com/c/Nl60Cldo/295-the-wur-2015-releases-data-migration"
+                  "content": "backlog"
                 },
-                "style": {
-                  "background": "#d3d3d3"
-                }
+                "style": {}
               }
             },
             "2": {
@@ -2042,9 +2034,7 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/B6HBudRk/275-the-migrate-webvision-content-to-28th-jan-to-live-system"
                 },
-                "style": {
-                  "background": "#FFB6C1"
-                }
+                "style": {}
               }
             },
             "3": {
@@ -2053,11 +2043,20 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "https://trello.com/c/m6B3fGV9/296-the-migrate-the-users-comments-data-migration"
+                  "content": "backlog"
                 },
-                "style": {
-                  "background": "#d3d3d3"
-                }
+                "style": {}
+              }
+            },
+            "4": {
+              "title": "Migrate old pugpig editions",
+              "id": 421,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/OlvESvoa/289-the-move-pugpig-app-edition-zip-files-from-webvision-release"
+                },
+                "style": {}
               }
             }
           },
