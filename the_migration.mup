@@ -1807,10 +1807,11 @@
               "title": "Task based training",
               "id": 414,
               "attr": {
+                "style": {},
                 "attachment": {
-                  "contentType": "text/html"
-                },
-                "style": {}
+                  "contentType": "text/html",
+                  "content": "backlog"
+                }
               }
             }
           }
