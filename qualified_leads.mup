@@ -1,124 +1,126 @@
-tle": "Deliver qualified leads to institutions with enhanced profiles (rev = cpl * x) by June 14th",
-  "id": 1,
-    "formatVersion": 2,
-    "ideas": {
-      "1": {
-              "title": "Institution International Office (student recruitment)",
-                    "id": 5,
-                    "ideas": {
-                      "1": {
-                                  "title": "Provide information about what a qualified lead is",
-                                            "id": 33,
-                                                      "ideas": {}
-                                                              
-                      }
+{
+    "title": "Deliver qualified leads to institutions with enhanced profiles (rev = cpl * x) by June 14th",
+      "id": 1,
+        "formatVersion": 2,
+        "ideas": {
+          "1": {
+                  "title": "Institution International Office (student recruitment)",
+                        "id": 5,
+                        "ideas": {
+                          "1": {
+                                      "title": "Provide information about what a qualified lead is",
+                                                "id": 33,
+                                                          "ideas": {}
+                                                                  
+                          }
+                                
+                        },
+                        "attr": {
+                                  "style": {}
+                                        
+                        }
                             
-                    },
-                    "attr": {
-                              "style": {}
-                                    
-                    }
-                        
-      },
-      "2": {
-              "title": "THE commercial sales",
-                    "id": 18,
-                    "ideas": {
-                      "1": {
-                                  "title": "Download qualified lead data per institution",
-                                            "id": 19
-                                                    
-                      }
-                            
-                    }
-                        
-      },
-      "-1": {
-              "title": "THE product team",
-                    "id": 9,
-                    "ideas": {
-                      "1": {
-                                  "title": "Test interest in potential tools",
-                                            "id": 11,
-                                            "attr": {
-                                                          "style": {}
-                                                                    
-                                            },
-                                            "ideas": {
-                                              "1": {
-                                                              "title": "Run Parse prompt variant test",
-                                                                            "id": 26,
-                                                                                          "ideas": {},
-                                                                                          "attr": {
-                                                                                                            "style": {}
-                                                                                                                          
-                                                                                          }
-                                                                                                      
-                                              },
-                                              "2": {
-                                                              "title": "Informal QA session",
-                                                                            "id": 29
-                                                                                        
-                                              }
+          },
+          "2": {
+                  "title": "THE commercial sales",
+                        "id": 18,
+                        "ideas": {
+                          "1": {
+                                      "title": "Download qualified lead data per institution",
+                                                "id": 19
                                                         
-                                            }
-                                                    
-                      },
-                      "2": {
-                                  "title": "Identify % of overall visiters who are students visiting the WUR site",
-                                            "id": 13,
-                                            "ideas": {
-                                              "1": {
-                                                              "title": "Run GA popup test",
-                                                                            "id": 24,
-                                                                                          "ideas": {}
-                                                                                                      
-                                              }
-                                                        
-                                            }
-                                                    
-                      },
-                      "3": {
-                                  "title": "Build mechanism(s) to drive student signups [placeholder]",
-                                            "id": 31,
-                                                      "ideas": {}
-                                                              
-                      },
-                      "4": {
-                                  "title": "Identify usage patterns on existing site",
-                                            "id": 34,
-                                            "ideas": {
-                                              "1": {
-                                                              "title": "Testing user journeys",
-                                                                            "id": 35,
-                                                                                          "ideas": {}
-                                                                                                      
-                                              }
-                                                        
-                                            }
-                                                    
-                      }
+                          }
+                                
+                        }
                             
-                    },
-                    "attr": {
-                              "style": {}
-                                    
-                    }
-                        
-      },
-      "-2": {
-              "title": "Prospective lead",
-                    "id": 21,
-                    "ideas": {
-                      "1": {
-                                  "title": "Complete contact form",
-                                            "id": 23
-                                                    
-                      }
+          },
+          "-1": {
+                  "title": "THE product team",
+                        "id": 9,
+                        "ideas": {
+                          "1": {
+                                      "title": "Test interest in potential tools",
+                                                "id": 11,
+                                                "attr": {
+                                                              "style": {}
+                                                                        
+                                                },
+                                                "ideas": {
+                                                  "1": {
+                                                                  "title": "Run Parse prompt variant test",
+                                                                                "id": 26,
+                                                                                              "ideas": {},
+                                                                                              "attr": {
+                                                                                                                "style": {}
+                                                                                                                              
+                                                                                              }
+                                                                                                          
+                                                  },
+                                                  "2": {
+                                                                  "title": "Informal QA session",
+                                                                                "id": 29
+                                                                                            
+                                                  }
+                                                            
+                                                }
+                                                        
+                          },
+                          "2": {
+                                      "title": "Identify % of overall visiters who are students visiting the WUR site",
+                                                "id": 13,
+                                                "ideas": {
+                                                  "1": {
+                                                                  "title": "Run GA popup test",
+                                                                                "id": 24,
+                                                                                              "ideas": {}
+                                                                                                          
+                                                  }
+                                                            
+                                                }
+                                                        
+                          },
+                          "3": {
+                                      "title": "Build mechanism(s) to drive student signups [placeholder]",
+                                                "id": 31,
+                                                          "ideas": {}
+                                                                  
+                          },
+                          "4": {
+                                      "title": "Identify usage patterns on existing site",
+                                                "id": 34,
+                                                "ideas": {
+                                                  "1": {
+                                                                  "title": "Testing user journeys",
+                                                                                "id": 35,
+                                                                                              "ideas": {}
+                                                                                                          
+                                                  }
+                                                            
+                                                }
+                                                        
+                          }
+                                
+                        },
+                        "attr": {
+                                  "style": {}
+                                        
+                        }
                             
-                    }
-                        
-      }
-        
-    }
-  }
+          },
+          "-2": {
+                  "title": "Prospective lead",
+                        "id": 21,
+                        "ideas": {
+                          "1": {
+                                      "title": "Complete contact form",
+                                                "id": 23
+                                                        
+                          }
+                                
+                        }
+                            
+          }
+            
+        }
+
+}
