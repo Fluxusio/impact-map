@@ -1,0 +1,68 @@
+{
+    "title": "Increase sales of enhanced profiles by offering targeted advertising/marketing opportunities",
+      "id": 1,
+        "formatVersion": 2,
+        "ideas": {
+          "1": {
+                  "title": "Institution marketing departments",
+                        "id": 3,
+                        "ideas": {
+                          "1": {
+                                      "title": "Create targeted content",
+                                                "id": 4,
+                                                          "ideas": {}
+                                                                  
+                          }
+                                
+                        }
+                            
+          },
+          "2": {
+                  "title": "THE product team",
+                        "id": 18,
+                        "ideas": {
+                          "1": {
+                                      "title": "Surface relevant content for logged in users",
+                                                "id": 21,
+                                                          "ideas": {}
+                                                                  
+                          },
+                          "2": {
+                                      "title": "Determine whether we can display relevant content for anonymous users",
+                                                "id": 23,
+                                                          "ideas": {},
+                                                          "attr": {
+                                                                        "style": {}
+                                                                                  
+                                                          }
+                                                                  
+                          }
+                                
+                        }
+                            
+          },
+          "-1": {
+                  "title": "Prospective students",
+                        "id": 12,
+                        "ideas": {
+                          "1": {
+                                      "title": "View relevant content on mobile based on user type",
+                                                "id": 14,
+                                                          "ideas": {}
+                                                                  
+                          },
+                          "2": {
+                                      "title": "View relevant content on desktop based on user type",
+                                                "id": 16,
+                                                          "ideas": {}
+                                                                  
+                          }
+                                
+                        }
+                            
+          }
+            
+        },
+          "links": []
+
+}
