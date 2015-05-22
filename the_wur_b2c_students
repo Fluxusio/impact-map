@@ -1,0 +1,237 @@
+{
+  "title": "Increase engagement with prospective students to deliver qualified leads by August 14th",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "11": {
+      "title": "Prospective Students",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "Share content",
+          "id": 12,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "PDFs",
+              "id": 21
+            }
+          }
+        },
+        "2": {
+          "title": "Search for institutions",
+          "id": 13,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "3": {
+          "title": "Understand language (correct tone of voice)",
+          "id": 14,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "4": {
+          "title": "Network with institutions",
+          "id": 15,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "5": {
+          "title": "View content related to their stage in process",
+          "id": 16,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "6": {
+          "title": "Will view on mobile",
+          "id": 17,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ccffff"
+        }
+      }
+    },
+    "-10": {
+      "title": "Editorial",
+      "id": 6,
+      "attr": {
+        "style": {
+          "background": "#ccffff"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Produce focussed content",
+          "id": 11,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        }
+      }
+    },
+    "0.5": {
+      "title": "Analytics",
+      "id": 5,
+      "attr": {
+        "position": [
+          8,
+          -98.5,
+          1
+        ],
+        "style": {
+          "background": "#ccffff"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Monitor KPIs",
+          "id": 10,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        }
+      }
+    },
+    "-5": {
+      "title": "Marketing",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Serve content",
+          "id": 23,
+          "ideas": {
+            "1": {
+              "title": "Articles",
+              "id": 30,
+              "ideas": {}
+            },
+            "2": {
+              "title": "Geotarget adverts",
+              "id": 33
+            },
+            "3": {
+              "title": "Landing pages",
+              "id": 34
+            },
+            "4": {
+              "title": "Email marketing",
+              "id": 35
+            }
+          },
+          "attr": {
+            "position": [
+              95,
+              -186,
+              1
+            ],
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "2": {
+          "title": "SEO/PPC",
+          "id": 24,
+          "ideas": {
+            "1": {
+              "title": "Google",
+              "id": 37,
+              "ideas": {}
+            },
+            "2": {
+              "title": "Baidoo",
+              "id": 40
+            },
+            "3": {
+              "title": "Naver",
+              "id": 41
+            },
+            "4": {
+              "title": "Vanity URLs",
+              "id": 42
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "3": {
+          "title": "Tailor content for prospective students",
+          "id": 25,
+          "ideas": {
+            "1": {
+              "title": "Geotarget",
+              "id": 43
+            },
+            "2": {
+              "title": "Language / translation",
+              "id": 44
+            },
+            "3": {
+              "title": "Control brand identity",
+              "id": 45
+            },
+            "4": {
+              "title": "Determine stage in research process",
+              "id": 46
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            },
+            "position": [
+              95,
+              161,
+              2
+            ]
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          321,
+          -85,
+          2
+        ],
+        "style": {
+          "background": "#ccffff"
+        }
+      }
+    }
+  },
+  "attr": {
+    "style": {
+      "background": "#ffcc00"
+    }
+  }
+}
