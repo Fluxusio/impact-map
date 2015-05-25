@@ -29,6 +29,32 @@
             "style": {
               "background": "#ffffff"
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "Search by location",
+              "id": 50
+            },
+            "2": {
+              "title": "Search by course/subject",
+              "id": 51
+            },
+            "3": {
+              "title": "Search by religion [country or institution?]",
+              "id": 52
+            },
+            "4": {
+              "title": "Discover visa requirements",
+              "id": 53
+            },
+            "5": {
+              "title": "Attitude towards foreign students and safety of country/city",
+              "id": 54
+            },
+            "6": {
+              "title": "Career prospects for that institution/course",
+              "id": 55
+            }
           }
         },
         "3": {
@@ -233,5 +259,6 @@
     "style": {
       "background": "#ffcc00"
     }
-  }
+  },
+  "links": []
 }
