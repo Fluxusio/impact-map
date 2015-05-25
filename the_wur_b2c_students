@@ -23,7 +23,7 @@
           }
         },
         "2": {
-          "title": "Search for institutions",
+          "title": "Basic search for institutions",
           "id": 13,
           "attr": {
             "style": {
@@ -54,6 +54,11 @@
             "6": {
               "title": "Career prospects for that institution/course",
               "id": 55
+            },
+            "7": {
+              "title": "Download prospectus",
+              "id": 83,
+              "ideas": {}
             }
           }
         },
@@ -92,6 +97,68 @@
               "background": "#ffffff"
             }
           }
+        },
+        "2.5": {
+          "title": "Filter institutions",
+          "id": 57,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Filter by overall academic rating ",
+              "id": 60
+            },
+            "2": {
+              "title": "Course availability",
+              "id": 61
+            },
+            "3": {
+              "title": "Cost of course and living",
+              "id": 62
+            },
+            "4": {
+              "title": "Ability to get in [burden/timing of application]",
+              "id": 63
+            },
+            "1.5": {
+              "title": "Filter by course rating",
+              "id": 64
+            },
+            "1.75": {
+              "title": "Filter by scholarships/financial aid",
+              "id": 67
+            },
+            "1.875": {
+              "title": "Match entry grades to expected grades",
+              "id": 68
+            }
+          }
+        },
+        "2.75": {
+          "title": "Targeted engagement",
+          "id": 71,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Teaching quality",
+              "id": 72
+            },
+            "2": {
+              "title": "Expected impact on progress in chosen career",
+              "id": 73
+            },
+            "3": {
+              "title": "Quality of student experience",
+              "id": 74
+            }
+          }
         }
       },
       "attr": {
@@ -110,33 +177,8 @@
       },
       "ideas": {
         "1": {
-          "title": "Produce focussed content",
+          "title": "Student focussed content",
           "id": 11,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        }
-      }
-    },
-    "0.5": {
-      "title": "Analytics",
-      "id": 5,
-      "attr": {
-        "position": [
-          8,
-          -98.5,
-          1
-        ],
-        "style": {
-          "background": "#ccffff"
-        }
-      },
-      "ideas": {
-        "1": {
-          "title": "Monitor KPIs",
-          "id": 10,
           "attr": {
             "style": {
               "background": "#ffffff"
@@ -241,6 +283,29 @@
               2
             ]
           }
+        },
+        "4": {
+          "title": "Sell qualified leads",
+          "id": 76,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Receive lead information",
+              "id": 77
+            },
+            "3": {
+              "title": "Determine varied levels of qualified leads",
+              "id": 79
+            },
+            "4": {
+              "title": "Offer value add for registrations",
+              "id": 85
+            }
+          }
         }
       },
       "attr": {
@@ -251,6 +316,37 @@
         ],
         "style": {
           "background": "#ccffff"
+        }
+      }
+    },
+    "0.5": {
+      "title": "Analytics",
+      "id": 5,
+      "attr": {
+        "position": [
+          8,
+          -98.5,
+          1
+        ],
+        "style": {
+          "background": "#ccffff"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Monitor KPIs",
+          "id": 10,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Google analytics",
+              "id": 87
+            }
+          }
         }
       }
     }
