@@ -319,14 +319,14 @@
         }
       }
     },
-    "0.5": {
+    "-20": {
       "title": "Analytics",
       "id": 5,
       "attr": {
         "position": [
-          8,
-          -98.5,
-          1
+          129.5,
+          460,
+          3
         ],
         "style": {
           "background": "#ccffff"
