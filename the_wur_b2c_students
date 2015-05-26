@@ -54,7 +54,15 @@
             },
             "8": {
               "title": "View *all* institutions",
-              "id": 120
+              "id": 120,
+              "attr": {
+                "position": [
+                  180,
+                  173.5,
+                  1
+                ],
+                "style": {}
+              }
             }
           }
         },
