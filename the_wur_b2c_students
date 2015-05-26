@@ -17,13 +17,17 @@
           },
           "ideas": {
             "1": {
-              "title": "PDFs",
+              "title": "With family",
               "id": 21
+            },
+            "2": {
+              "title": "With peers",
+              "id": 114
             }
           }
         },
         "2": {
-          "title": "Basic search for institutions",
+          "title": "Search/Browse for institutions",
           "id": 13,
           "attr": {
             "style": {
@@ -32,33 +36,25 @@
           },
           "ideas": {
             "1": {
-              "title": "Search by location",
+              "title": "Search by location [country/region]",
               "id": 50
             },
             "2": {
-              "title": "Search by course/subject",
+              "title": "Search by subject [arts & humanities...]",
               "id": 51
             },
             "3": {
-              "title": "Search by religion [country or institution?]",
+              "title": "Search by religion [institution]",
               "id": 52
             },
-            "4": {
-              "title": "Discover visa requirements",
-              "id": 53
-            },
-            "5": {
-              "title": "Attitude towards foreign students and safety of country/city",
-              "id": 54
-            },
-            "6": {
-              "title": "Career prospects for that institution/course",
-              "id": 55
-            },
             "7": {
-              "title": "Download prospectus",
+              "title": "Download prospectus/more information [accommodation etc.]",
               "id": 83,
               "ideas": {}
+            },
+            "8": {
+              "title": "View *all* institutions",
+              "id": 120
             }
           }
         },
@@ -72,11 +68,22 @@
           }
         },
         "4": {
-          "title": "Network with institutions",
+          "title": "Network with and Contact",
           "id": 15,
           "attr": {
             "style": {
               "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Institutions",
+              "id": 107,
+              "ideas": {}
+            },
+            "2": {
+              "title": "Current students/alumni",
+              "id": 109
             }
           }
         },
@@ -87,11 +94,41 @@
             "style": {
               "background": "#ffffff"
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "View 'inspirational' content on countries & subjects to study in",
+              "id": 94
+            },
+            "2": {
+              "title": "Discover visa requirements",
+              "id": 95,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Attitude towards foreign students and safety of country/city",
+              "id": 96,
+              "attr": {
+                "style": {}
+              }
+            }
           }
         },
         "6": {
           "title": "Will view on mobile",
           "id": 17,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "7": {
+          "title": "Return to search/filtered results set",
+          "id": 117,
+          "ideas": {},
           "attr": {
             "style": {
               "background": "#ffffff"
@@ -108,23 +145,53 @@
           },
           "ideas": {
             "1": {
-              "title": "Filter by overall academic rating ",
+              "title": "Filter by overall academic ranking",
               "id": 60
             },
             "2": {
-              "title": "Course availability",
+              "title": "Subject availability",
               "id": 61
             },
             "3": {
-              "title": "Cost of course and living",
+              "title": "Net cost of course and living [calculator (big mac index)]",
               "id": 62
             },
             "4": {
-              "title": "Ability to get in [burden/timing of application]",
+              "title": "Application deadlines [burden/timing of application]",
               "id": 63
             },
+            "7": {
+              "title": "Teaching quality",
+              "id": 72,
+              "attr": {
+                "style": {}
+              }
+            },
+            "8": {
+              "title": "Quality of student experience",
+              "id": 74,
+              "attr": {
+                "style": {}
+              }
+            },
+            "9": {
+              "title": "Expected impact on progress in chosen career",
+              "id": 73,
+              "attr": {
+                "style": {}
+              }
+            },
+            "10": {
+              "title": "Campus location",
+              "id": 111,
+              "ideas": {}
+            },
+            "11": {
+              "title": "Home/international student ratio",
+              "id": 113
+            },
             "1.5": {
-              "title": "Filter by course rating",
+              "title": "Filter by subject ranking",
               "id": 64
             },
             "1.75": {
@@ -134,29 +201,6 @@
             "1.875": {
               "title": "Match entry grades to expected grades",
               "id": 68
-            }
-          }
-        },
-        "2.75": {
-          "title": "Targeted engagement",
-          "id": 71,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "Teaching quality",
-              "id": 72
-            },
-            "2": {
-              "title": "Expected impact on progress in chosen career",
-              "id": 73
-            },
-            "3": {
-              "title": "Quality of student experience",
-              "id": 74
             }
           }
         }
@@ -177,7 +221,7 @@
       },
       "ideas": {
         "1": {
-          "title": "Student focussed content",
+          "title": "Deliver student focussed content",
           "id": 11,
           "attr": {
             "style": {
@@ -343,7 +387,7 @@
           },
           "ideas": {
             "1": {
-              "title": "Google analytics",
+              "title": "MZ/Google analytics",
               "id": 87
             }
           }
