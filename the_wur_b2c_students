@@ -143,6 +143,25 @@
             }
           }
         },
+        "8": {
+          "title": "Filter by overall academic ranking",
+          "id": 60,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "some tool",
+              "id": 121,
+              "ideas": {}
+            },
+            "2": {
+              "title": "some other mechanism",
+              "id": 124,
+              "ideas": {}
+            }
+          }
+        },
         "2.5": {
           "title": "Filter institutions",
           "id": 57,
@@ -152,10 +171,6 @@
             }
           },
           "ideas": {
-            "1": {
-              "title": "Filter by overall academic ranking",
-              "id": 60
-            },
             "2": {
               "title": "Subject availability",
               "id": 61
@@ -208,7 +223,10 @@
             },
             "1.875": {
               "title": "Match entry grades to expected grades",
-              "id": 68
+              "id": 68,
+              "attr": {
+                "style": {}
+              }
             }
           }
         }
@@ -280,15 +298,6 @@
           "title": "SEO/PPC",
           "id": 24,
           "ideas": {
-            "1": {
-              "title": "Google",
-              "id": 37,
-              "ideas": {}
-            },
-            "2": {
-              "title": "Baidoo",
-              "id": 40
-            },
             "3": {
               "title": "Naver",
               "id": 41
@@ -357,6 +366,32 @@
               "title": "Offer value add for registrations",
               "id": 85
             }
+          }
+        },
+        "5": {
+          "title": "Increase performance on Baidoo",
+          "id": 40,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Custom landing pages",
+              "id": 126
+            }
+          }
+        },
+        "6": {
+          "title": "Increase performance on Google",
+          "id": 37,
+          "ideas": {
+            "1": {
+              "title": "https",
+              "id": 127
+            }
+          },
+          "attr": {
+            "style": {}
           }
         }
       },
