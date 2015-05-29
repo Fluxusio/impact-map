@@ -1,5 +1,5 @@
 {
-  "title": "Increase engagement with prospective students to deliver qualified leads by August 14th",
+  "title": "Increase engagement with prospective students to deliver qualified leads by August 14th [Has a value been set on this, can we have a financial goal?]",
   "id": 1,
   "formatVersion": 2,
   "ideas": {
@@ -8,7 +8,7 @@
       "id": 4,
       "ideas": {
         "1": {
-          "title": "Share content",
+          "title": "Share content with family",
           "id": 12,
           "attr": {
             "style": {
@@ -17,12 +17,9 @@
           },
           "ideas": {
             "1": {
-              "title": "With family",
-              "id": 21
-            },
-            "2": {
-              "title": "With peers",
-              "id": 114
+              "title": "PDF",
+              "id": 21,
+              "ideas": {}
             }
           }
         },
@@ -34,37 +31,7 @@
               "background": "#ffffff"
             }
           },
-          "ideas": {
-            "1": {
-              "title": "Search by location [country/region]",
-              "id": 50
-            },
-            "2": {
-              "title": "Search by subject [arts & humanities...]",
-              "id": 51
-            },
-            "3": {
-              "title": "Search by religion [institution]",
-              "id": 52
-            },
-            "7": {
-              "title": "Download prospectus/more information [accommodation etc.]",
-              "id": 83,
-              "ideas": {}
-            },
-            "8": {
-              "title": "View *all* institutions",
-              "id": 120,
-              "attr": {
-                "position": [
-                  180,
-                  173.5,
-                  1
-                ],
-                "style": {}
-              }
-            }
-          }
+          "ideas": {}
         },
         "3": {
           "title": "Understand language (correct tone of voice)",
@@ -76,56 +43,17 @@
           }
         },
         "4": {
-          "title": "Network with and Contact",
+          "title": "Contact Institutions",
           "id": 15,
           "attr": {
             "style": {
               "background": "#ffffff"
             }
           },
-          "ideas": {
-            "1": {
-              "title": "Institutions",
-              "id": 107,
-              "ideas": {}
-            },
-            "2": {
-              "title": "Current students/alumni",
-              "id": 109
-            }
-          }
-        },
-        "5": {
-          "title": "View content related to their stage in process",
-          "id": 16,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "View 'inspirational' content on countries & subjects to study in",
-              "id": 94
-            },
-            "2": {
-              "title": "Discover visa requirements",
-              "id": 95,
-              "attr": {
-                "style": {}
-              }
-            },
-            "3": {
-              "title": "Attitude towards foreign students and safety of country/city",
-              "id": 96,
-              "attr": {
-                "style": {}
-              }
-            }
-          }
+          "ideas": {}
         },
         "6": {
-          "title": "Will view on mobile",
+          "title": "Optimise for mobile devices",
           "id": 17,
           "attr": {
             "style": {
@@ -147,7 +75,9 @@
           "title": "Filter by overall academic ranking",
           "id": 60,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#ffffff"
+            }
           },
           "ideas": {
             "1": {
@@ -162,71 +92,206 @@
             }
           }
         },
-        "2.5": {
-          "title": "Filter institutions",
-          "id": 57,
+        "9": {
+          "title": "Filter institutions by expected impact on progress in chosen career [ability to get a job]",
+          "id": 73,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "10": {
+          "title": "Filter institutions by application deadlines [burden/timing of application]",
+          "id": 63,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "11": {
+          "title": "Match institution entry grades to students expected grades",
+          "id": 68,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "12": {
+          "title": "Filter institutions by home/international student ratio",
+          "id": 129,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "13": {
+          "title": "Filter institutions by teaching quality",
+          "id": 72,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "14": {
+          "title": "Filter institutions by subject ranking",
+          "id": 64,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "15": {
+          "title": "Filter institutions by net cost of course and living [calculator (big mac index)]",
+          "id": 62,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "16": {
+          "title": "Filter institutions by subjects available",
+          "id": 61,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "17": {
+          "title": "Filter institutions by scholarships/financial aid",
+          "id": 67,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "18": {
+          "title": "Filter institutions by quality of student experience",
+          "id": 74,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "19": {
+          "title": "Filter institutions by campus location",
+          "id": 111,
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "20": {
+          "title": "View 'inspirational' content on countries & subjects to study in",
+          "id": 94,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "21": {
+          "title": "Discover institution countries visa requirements",
+          "id": 95,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "22": {
+          "title": "Discover attitude towards foreign students and safety of country/city",
+          "id": 96,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "23": {
+          "title": "Search for institutions by location [country/region]",
+          "id": 130,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "24": {
+          "title": "Search for institutions  by subject [arts & humanities...]",
+          "id": 131,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "25": {
+          "title": "Search for institutions by religion [institution]",
+          "id": 132,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "26": {
+          "title": "Download institution prospectus/more information [accommodation etc.]",
+          "ideas": {},
+          "id": 133,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "27": {
+          "title": "View *all* institutions",
           "attr": {
             "style": {
               "background": "#ffffff"
             }
           },
+          "id": 134,
           "ideas": {
-            "2": {
-              "title": "Subject availability",
-              "id": 61
-            },
-            "3": {
-              "title": "Net cost of course and living [calculator (big mac index)]",
-              "id": 62
-            },
-            "4": {
-              "title": "Application deadlines [burden/timing of application]",
-              "id": 63
-            },
-            "7": {
-              "title": "Teaching quality",
-              "id": 72,
-              "attr": {
-                "style": {}
-              }
-            },
-            "8": {
-              "title": "Quality of student experience",
-              "id": 74,
-              "attr": {
-                "style": {}
-              }
-            },
-            "9": {
-              "title": "Expected impact on progress in chosen career",
-              "id": 73,
-              "attr": {
-                "style": {}
-              }
-            },
-            "10": {
-              "title": "Campus location",
-              "id": 111,
-              "ideas": {}
-            },
-            "11": {
-              "title": "Home/international student ratio",
-              "id": 113
-            },
-            "1.5": {
-              "title": "Filter by subject ranking",
-              "id": 64
-            },
-            "1.75": {
-              "title": "Filter by scholarships/financial aid",
-              "id": 67
-            },
-            "1.875": {
-              "title": "Match entry grades to expected grades",
-              "id": 68,
-              "attr": {
-                "style": {}
-              }
+            "1": {
+              "title": "Display an unfiltered list of all institutons",
+              "id": 139
+            }
+          }
+        },
+        "28": {
+          "title": "Network with and contact current students/alumni",
+          "id": 135,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "1.5": {
+          "title": "Share content with peers",
+          "id": 137,
+          "ideas": {
+            "1": {
+              "title": "Social media",
+              "id": 138
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffffff"
             }
           }
         }
@@ -261,79 +326,10 @@
       "title": "Marketing",
       "id": 2,
       "ideas": {
-        "1": {
-          "title": "Serve content",
-          "id": 23,
-          "ideas": {
-            "1": {
-              "title": "Articles",
-              "id": 30,
-              "ideas": {}
-            },
-            "2": {
-              "title": "Geotarget adverts",
-              "id": 33
-            },
-            "3": {
-              "title": "Landing pages",
-              "id": 34
-            },
-            "4": {
-              "title": "Email marketing",
-              "id": 35
-            }
-          },
-          "attr": {
-            "position": [
-              95,
-              -186,
-              1
-            ],
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
-        "2": {
-          "title": "SEO/PPC",
-          "id": 24,
-          "ideas": {
-            "3": {
-              "title": "Naver",
-              "id": 41
-            },
-            "4": {
-              "title": "Vanity URLs",
-              "id": 42
-            }
-          },
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
         "3": {
           "title": "Tailor content for prospective students",
           "id": 25,
-          "ideas": {
-            "1": {
-              "title": "Geotarget",
-              "id": 43
-            },
-            "2": {
-              "title": "Language / translation",
-              "id": 44
-            },
-            "3": {
-              "title": "Control brand identity",
-              "id": 45
-            },
-            "4": {
-              "title": "Determine stage in research process",
-              "id": 46
-            }
-          },
+          "ideas": {},
           "attr": {
             "style": {
               "background": "#ffffff"
@@ -345,34 +341,13 @@
             ]
           }
         },
-        "4": {
-          "title": "Sell qualified leads",
-          "id": 76,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "Receive lead information",
-              "id": 77
-            },
-            "3": {
-              "title": "Determine varied levels of qualified leads",
-              "id": 79
-            },
-            "4": {
-              "title": "Offer value add for registrations",
-              "id": 85
-            }
-          }
-        },
         "5": {
           "title": "Increase performance on Baidoo",
           "id": 40,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#ffffff"
+            }
           },
           "ideas": {
             "1": {
@@ -391,15 +366,167 @@
             }
           },
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "7": {
+          "title": "Offer value add for registrations",
+          "id": 142,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "8": {
+          "title": "Set levels for lead qualification",
+          "id": 143,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "18": {
+          "title": "Receive prospect/lead information",
+          "id": 76,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {}
+        },
+        "19": {
+          "title": "Send qualified lead information to institutions ",
+          "id": 146,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "20": {
+          "title": "Geotarget students with specific content",
+          "id": 147,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
+        },
+        "21": {
+          "title": "Target students local language [add translation?]",
+          "id": 148,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
+        },
+        "22": {
+          "title": "Control brand identity",
+          "id": 149,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
+        },
+        "23": {
+          "title": "Determine students stage in research process",
+          "id": 150,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {}
+        },
+        "24": {
+          "title": "Friendly URLS for landing pages",
+          "id": 152,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Vanity URLs",
+              "id": 154
+            }
+          }
+        },
+        "25": {
+          "title": "Optimise content for Naver [Korean social media?]",
+          "id": 153,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
+        },
+        "26": {
+          "title": "Serve articles to students",
+          "ideas": {},
+          "id": 156,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
+        },
+        "27": {
+          "title": "Geotarget adverts to countries/states",
+          "id": 157,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            },
+            "position": [
+              95,
+              1218,
+              4
+            ]
+          }
+        },
+        "28": {
+          "title": "Create landing pages for campaigns",
+          "id": 158,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            },
+            "position": [
+              95,
+              1292,
+              3
+            ]
+          }
+        },
+        "29": {
+          "title": "Ability to market to students via email",
+          "id": 159,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            },
+            "position": [
+              95,
+              1360,
+              5
+            ]
           }
         }
       },
       "attr": {
         "position": [
-          321,
-          -85,
-          2
+          317,
+          -794,
+          4
         ],
         "style": {
           "background": "#ccffff"
@@ -421,7 +548,7 @@
       },
       "ideas": {
         "1": {
-          "title": "Monitor KPIs",
+          "title": "Monitor KPIs [What are the KPIs?]",
           "id": 10,
           "attr": {
             "style": {
@@ -430,8 +557,12 @@
           },
           "ideas": {
             "1": {
-              "title": "MZ/Google analytics",
+              "title": "Add MZ layer",
               "id": 87
+            },
+            "2": {
+              "title": "Track custom events in Google analytics",
+              "id": 141
             }
           }
         }
