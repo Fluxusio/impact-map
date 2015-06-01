@@ -280,6 +280,15 @@
             }
           }
         },
+        "29": {
+          "title": "Add institutions to a shortlist",
+          "id": 183,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
         "1.5": {
           "title": "Share content with peers",
           "id": 137,
