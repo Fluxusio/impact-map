@@ -21,10 +21,6 @@
               "id": 21,
               "ideas": {},
               "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/qM5hXpID/1-wur-b2c-pdf-share-content-with-family"
-                },
                 "style": {
                   "background": "#d3d3d3"
                 }
@@ -88,18 +84,7 @@
               "background": "#ffffff"
             }
           },
-          "ideas": {
-            "1": {
-              "title": "some tool",
-              "id": 121,
-              "ideas": {}
-            },
-            "2": {
-              "title": "some other mechanism",
-              "id": 124,
-              "ideas": {}
-            }
-          }
+          "ideas": {}
         },
         "9": {
           "title": "Filter institutions by expected impact on progress in chosen career [ability to get a job]",
@@ -565,6 +550,145 @@
           }
         }
       }
+    },
+    "-7.5": {
+      "title": "Data Team",
+      "attr": {
+        "style": {
+          "background": "#ccffff"
+        }
+      },
+      "ideas": {
+        "9": {
+          "title": "Collect institutions  impact on progress in chosen career [ability to get a job]",
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "id": 196
+        },
+        "10": {
+          "title": "Collect application deadlines [burden/timing of application]",
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "id": 197
+        },
+        "11": {
+          "title": "Collect  entry grades to students expected grades",
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "id": 198
+        },
+        "12": {
+          "title": "Collect home/international student ratio",
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "id": 199
+        },
+        "15": {
+          "title": "Collect net cost of course and living [calculator (big mac index)]",
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "id": 202
+        },
+        "16": {
+          "title": "Collect institutions by subjects available",
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "id": 203
+        },
+        "17": {
+          "title": "Collect institutions by scholarships/financial aid",
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "id": 204
+        },
+        "18": {
+          "title": "Collect quality of student experience",
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "id": 205
+        },
+        "19": {
+          "title": "Collect campus location",
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {},
+          "id": 206
+        },
+        "20": {
+          "title": "Collect 'inspirational' content on countries & subjects to study in",
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "id": 207
+        },
+        "21": {
+          "title": "Collect countries visa requirements",
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "id": 208
+        },
+        "22": {
+          "title": "Collect attitude towards foreign students and safety of country/city",
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "id": 209
+        },
+        "25": {
+          "title": "Collect institutions by religion [institution]",
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "id": 212
+        },
+        "26": {
+          "title": "Upload institution prospectus/more information [accommodation etc.]",
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {},
+          "id": 213
+        }
+      },
+      "id": 185
     }
   },
   "attr": {
