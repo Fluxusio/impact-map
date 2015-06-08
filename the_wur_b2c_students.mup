@@ -19,7 +19,14 @@
             "1": {
               "title": "PDF",
               "id": 21,
-              "ideas": {}
+              "ideas": {},
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
