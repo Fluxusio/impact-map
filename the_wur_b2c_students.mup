@@ -25,7 +25,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/qM5hXpID/1-wur-b2c-pdf-share-content-with-family"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
