@@ -57,15 +57,6 @@
           },
           "ideas": {}
         },
-        "6": {
-          "title": "Optimise for mobile devices",
-          "id": 17,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
         "7": {
           "title": "Return to search/filtered results set",
           "id": 117,
@@ -137,7 +128,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "https://trello.com/c/sODLywIK/3-wur-b2c-display-an-unfiltered-list-of-all-institutons-view-all-institutions"
+                  "content": "backlog"
                 },
                 "style": {}
               }
@@ -168,7 +159,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "https://trello.com/c/HATKM5DO/4-wur-b2c-add-institution-to-shortlist-save-institutions-for-future-reference"
+                  "content": "backlog"
                 },
                 "style": {}
               }
@@ -221,11 +212,13 @@
               "title": "Filter for institutions by country",
               "id": 130,
               "attr": {
+                "style": {
+                  "background": "#D3D3D3"
+                },
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "https://trello.com/c/OUmsN5dd/2-wur-b2c-filter-for-institutions-by-country-filter-institutions-based-on-criteria-of-interest"
-                },
-                "style": {}
+                  "content": "backlog"
+                }
               },
               "ideas": {}
             },
