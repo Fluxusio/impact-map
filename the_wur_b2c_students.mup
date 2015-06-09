@@ -137,7 +137,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/sODLywIK/3-wur-b2c-display-an-unfiltered-list-of-all-institutons-view-all-institutions"
                 },
                 "style": {}
               }
@@ -168,7 +168,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/HATKM5DO/4-wur-b2c-add-institution-to-shortlist-save-institutions-for-future-reference"
                 },
                 "style": {}
               }
@@ -221,13 +221,11 @@
               "title": "Filter for institutions by country",
               "id": 130,
               "attr": {
-                "style": {
-                  "background": "#D3D3D3"
-                },
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                }
+                  "content": "https://trello.com/c/OUmsN5dd/2-wur-b2c-filter-for-institutions-by-country-filter-institutions-based-on-criteria-of-interest"
+                },
+                "style": {}
               },
               "ideas": {}
             },
