@@ -76,110 +76,9 @@
             }
           }
         },
-        "8": {
-          "title": "Filter by overall academic ranking",
-          "id": 60,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          },
-          "ideas": {}
-        },
-        "9": {
-          "title": "Filter institutions by expected impact on progress in chosen career [ability to get a job]",
-          "id": 73,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
-        "10": {
-          "title": "Filter institutions by application deadlines [burden/timing of application]",
-          "id": 63,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
         "11": {
           "title": "Match institution entry grades to students expected grades",
           "id": 68,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
-        "12": {
-          "title": "Filter institutions by home/international student ratio",
-          "id": 129,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
-        "13": {
-          "title": "Filter institutions by teaching quality",
-          "id": 72,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
-        "14": {
-          "title": "Filter institutions by subject ranking",
-          "id": 64,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
-        "15": {
-          "title": "Filter institutions by net cost of course and living [calculator (big mac index)]",
-          "id": 62,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
-        "16": {
-          "title": "Filter institutions by subjects available",
-          "id": 61,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
-        "17": {
-          "title": "Filter institutions by scholarships/financial aid",
-          "id": 67,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
-        "18": {
-          "title": "Filter institutions by quality of student experience",
-          "id": 74,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
-        "19": {
-          "title": "Filter institutions by campus location",
-          "id": 111,
-          "ideas": {},
           "attr": {
             "style": {
               "background": "#ffffff"
@@ -213,33 +112,6 @@
             }
           }
         },
-        "23": {
-          "title": "Search for institutions by location [country/region]",
-          "id": 130,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
-        "24": {
-          "title": "Search for institutions  by subject [arts & humanities...]",
-          "id": 131,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
-        "25": {
-          "title": "Search for institutions by religion [institution]",
-          "id": 132,
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
         "26": {
           "title": "Download institution prospectus/more information [accommodation etc.]",
           "ideas": {},
@@ -261,7 +133,14 @@
           "ideas": {
             "1": {
               "title": "Display an unfiltered list of all institutons",
-              "id": 139
+              "id": 139,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -275,11 +154,24 @@
           }
         },
         "29": {
-          "title": "Add institutions to a shortlist",
+          "title": "Save institutions for future reference",
           "id": 183,
           "attr": {
             "style": {
               "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Add institution to shortlist",
+              "id": 217,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -295,6 +187,159 @@
           "attr": {
             "style": {
               "background": "#ffffff"
+            }
+          }
+        },
+        "7.5": {
+          "title": "Filter institutions based on criteria of interest",
+          "id": 215,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Filter for institutions by religion [institution]",
+              "id": 132,
+              "attr": {
+                "style": {
+                  "background": "#D3D3D3"
+                }
+              }
+            },
+            "2": {
+              "title": "Filter for institutions  by subject [arts & humanities...]",
+              "id": 131,
+              "attr": {
+                "style": {
+                  "background": "#D3D3D3"
+                }
+              }
+            },
+            "3": {
+              "title": "Filter for institutions by country",
+              "id": 130,
+              "attr": {
+                "style": {
+                  "background": "#D3D3D3"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                }
+              },
+              "ideas": {}
+            },
+            "4": {
+              "title": "Filter institutions by campus location",
+              "id": 111,
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#D3D3D3"
+                }
+              }
+            },
+            "5": {
+              "title": "Filter institutions by quality of student experience",
+              "id": 74,
+              "attr": {
+                "style": {
+                  "background": "#D3D3D3"
+                }
+              }
+            },
+            "6": {
+              "title": "Filter institutions by scholarships/financial aid",
+              "id": 67,
+              "attr": {
+                "style": {
+                  "background": "#D3D3D3"
+                }
+              }
+            },
+            "7": {
+              "title": "Filter institutions by subjects available",
+              "id": 61,
+              "attr": {
+                "style": {
+                  "background": "#D3D3D3"
+                }
+              }
+            },
+            "8": {
+              "title": "Filter institutions by net cost of course and living [calculator (big mac index)]",
+              "id": 62,
+              "attr": {
+                "style": {
+                  "background": "#D3D3D3"
+                }
+              }
+            },
+            "9": {
+              "title": "Filter institutions by subject ranking",
+              "id": 64,
+              "attr": {
+                "style": {
+                  "background": "#D3D3D3"
+                }
+              }
+            },
+            "10": {
+              "title": "Filter institutions by teaching quality",
+              "id": 72,
+              "attr": {
+                "style": {
+                  "background": "#D3D3D3"
+                }
+              }
+            },
+            "11": {
+              "title": "Filter institutions by home/international student ratio",
+              "id": 129,
+              "attr": {
+                "style": {
+                  "background": "#D3D3D3"
+                }
+              }
+            },
+            "12": {
+              "title": "Filter institutions by application deadlines [burden/timing of application]",
+              "id": 63,
+              "attr": {
+                "style": {
+                  "background": "#D3D3D3"
+                }
+              }
+            },
+            "13": {
+              "title": "Filter by overall academic ranking",
+              "id": 60,
+              "attr": {
+                "style": {
+                  "background": "#D3D3D3"
+                }
+              },
+              "ideas": {}
+            },
+            "14": {
+              "title": "Filter institutions by expected impact on progress in chosen career [ability to get a job]",
+              "id": 73,
+              "attr": {
+                "style": {
+                  "background": "#D3D3D3"
+                }
+              }
+            },
+            "15": {
+              "title": "Filter for institutions by region/city/state",
+              "attr": {
+                "style": {
+                  "background": "#D3D3D3"
+                }
+              },
+              "id": 216
             }
           }
         }
@@ -538,16 +583,7 @@
               "background": "#ffffff"
             }
           },
-          "ideas": {
-            "1": {
-              "title": "Add MZ layer",
-              "id": 87
-            },
-            "2": {
-              "title": "Track custom events in Google analytics",
-              "id": 141
-            }
-          }
+          "ideas": {}
         }
       }
     },
