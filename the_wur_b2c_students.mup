@@ -163,6 +163,10 @@
                 },
                 "style": {}
               }
+            },
+            "2": {
+              "title": "Reorder shortlist",
+              "id": 218
             }
           }
         },
