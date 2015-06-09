@@ -8,7 +8,7 @@
       "id": 4,
       "ideas": {
         "1": {
-          "title": "Share content with family",
+          "title": "Share institution profiles",
           "id": 12,
           "attr": {
             "style": {
@@ -17,14 +17,12 @@
           },
           "ideas": {
             "1": {
-              "title": "PDF",
-              "id": 21,
-              "ideas": {},
-              "attr": {
-                "style": {
-                  "background": "#d3d3d3"
-                }
-              }
+              "title": "Share shortlist",
+              "id": 219
+            },
+            "2": {
+              "title": "Share individual institution",
+              "id": 220
             }
           }
         },
@@ -167,21 +165,6 @@
             "2": {
               "title": "Reorder shortlist",
               "id": 218
-            }
-          }
-        },
-        "1.5": {
-          "title": "Share content with peers",
-          "id": 137,
-          "ideas": {
-            "1": {
-              "title": "Social media",
-              "id": 138
-            }
-          },
-          "attr": {
-            "style": {
-              "background": "#ffffff"
             }
           }
         },
