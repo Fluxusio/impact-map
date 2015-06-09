@@ -126,7 +126,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/Z5cVEssa/8-wur-b2c-display-an-unfiltered-list-of-all-institutons-view-all-institutions"
                 },
                 "style": {}
               }
@@ -157,7 +157,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/HjFC1mjd/5-wur-b2c-add-institution-to-shortlist-save-institutions-for-future-reference"
                 },
                 "style": {}
               }
@@ -199,13 +199,11 @@
               "title": "Filter for institutions by country",
               "id": 130,
               "attr": {
-                "style": {
-                  "background": "#D3D3D3"
-                },
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                }
+                  "content": "https://trello.com/c/6dq6NBfw/6-wur-b2c-filter-for-institutions-by-country-filter-institutions-based-on-criteria-of-interest"
+                },
+                "style": {}
               },
               "ideas": {}
             },
@@ -542,7 +540,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/5tOLjrXQ/7-wur-b2c-run-test-removing-menu-items-for-mobile-users-identify-usage-of-1st-2nd-3rd-level-menu-items"
                 },
                 "style": {}
               }
