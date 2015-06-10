@@ -128,7 +128,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/sODLywIK/3-wur-b2c-display-an-unfiltered-list-of-all-institutons-view-all-institutions"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -159,7 +161,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/HATKM5DO/4-wur-b2c-add-institution-to-shortlist-save-institutions-for-future-reference"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
@@ -231,7 +235,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/OUmsN5dd/2-wur-b2c-filter-for-institutions-by-country-filter-institutions-based-on-criteria-of-interest"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               },
               "ideas": {}
             },
@@ -570,7 +576,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/5tOLjrXQ/7-wur-b2c-run-test-removing-menu-items-for-mobile-users-identify-usage-of-1st-2nd-3rd-level-menu-items"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
