@@ -350,6 +350,10 @@
                 }
               },
               "id": 216
+            },
+            "16": {
+              "title": "Filter institutions by weather/quality of air",
+              "id": 228
             }
           }
         }
