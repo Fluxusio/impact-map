@@ -347,6 +347,10 @@
               "attr": {
                 "style": {
                   "background": "#D3D3D3"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
                 }
               },
               "id": 216
@@ -679,13 +683,49 @@
           "id": 202
         },
         "16": {
-          "title": "Collect institutions by subjects available",
+          "title": "Collect subjects offered by institution",
           "attr": {
             "style": {
               "background": "#ffffff"
             }
           },
-          "id": 203
+          "id": 203,
+          "ideas": {
+            "1": {
+              "title": "Create new subject",
+              "id": 230,
+              "ideas": {},
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Add subject to institution's THE subject area",
+              "id": 233,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Import subject data from csv file ",
+              "id": 234,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          }
         },
         "17": {
           "title": "Collect institutions by scholarships/financial aid",
