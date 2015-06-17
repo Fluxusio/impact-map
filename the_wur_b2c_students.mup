@@ -275,6 +275,10 @@
               "attr": {
                 "style": {
                   "background": "#D3D3D3"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
                 }
               }
             },
