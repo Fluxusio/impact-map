@@ -179,6 +179,30 @@
             "style": {
               "background": "#FFFFFF"
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "Registration concept",
+              "id": 238,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/LzqBvDTv/16-wur-b2c-registration-concept"
+                },
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Get an environment out for a select group of users to test",
+              "id": 237,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/2yRjO71S/15-get-an-environment-out-for-a-select-group-of-users-to-test"
+                },
+                "style": {}
+              }
+            }
           }
         },
         "31": {
@@ -242,7 +266,7 @@
               "ideas": {}
             },
             "4": {
-              "title": "Filter institutions by campus location",
+              "title": "Filter institutions by multiple campus locations",
               "id": 111,
               "ideas": {},
               "attr": {
@@ -367,7 +391,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "https://trello.com/c/N6EXdPPc/14-wur-b2c-filter-institutions-by-multiple-countries"
+                  "content": "backlog"
                 },
                 "style": {}
               }
@@ -489,7 +513,8 @@
               "background": "#FFFFFF"
             }
           },
-          "id": 171
+          "id": 171,
+          "ideas": {}
         },
         "11": {
           "title": "Target students local language [add translation?]",
@@ -560,7 +585,8 @@
               "background": "#FFFFFF"
             }
           },
-          "id": 180
+          "id": 180,
+          "ideas": {}
         },
         "19": {
           "title": "Create landing pages for campaigns",
