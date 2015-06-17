@@ -360,6 +360,17 @@
             "16": {
               "title": "Filter institutions by weather/quality of air",
               "id": 228
+            },
+            "3.5": {
+              "title": "Filter institutions by multiple countries",
+              "id": 235,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
