@@ -399,7 +399,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Z8rPkz1f/17-wur-b2c-filter-institutions-by-multiple-countries-filter-institutions-based-on-criteria-of-interest"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
