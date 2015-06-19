@@ -197,15 +197,36 @@
             },
             "2": {
               "title": "Registration prompt in order to search/filter for institutions",
-              "id": 244
+              "id": 244,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/ed3u7rpC/18-wur-b2c-registration-prompt-in-order-to-search-filter-for-institutions-register-on-website"
+                },
+                "style": {}
+              }
             },
             "3": {
               "title": "Registration prompt in order to add institutions to shortlist",
-              "id": 245
+              "id": 245,
+              "attr": {
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/i16CeWRr/19-wur-b2c-registration-prompt-in-order-to-add-institutions-to-shortlist-register-on-website"
+                }
+              }
             },
             "4": {
               "title": "Registration prompt in order to save shortlist",
-              "id": 246
+              "id": 246,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/qtYtwkei/20-wur-b2c-registration-prompt-in-order-to-save-shortlist-register-on-website"
+                },
+                "style": {}
+              }
             }
           }
         },
