@@ -182,7 +182,7 @@
           },
           "ideas": {
             "1": {
-              "title": "Registration concept",
+              "title": "Create multivariate registration form",
               "id": 238,
               "attr": {
                 "attachment": {
@@ -192,7 +192,8 @@
                 "style": {
                   "background": "#d3d3d3"
                 }
-              }
+              },
+              "ideas": {}
             },
             "2": {
               "title": "Get an environment out for a select group of users to test",
