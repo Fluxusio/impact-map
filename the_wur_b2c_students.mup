@@ -194,19 +194,6 @@
                 }
               },
               "ideas": {}
-            },
-            "2": {
-              "title": "Get an environment out for a select group of users to test",
-              "id": 237,
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/2yRjO71S/15-get-an-environment-out-for-a-select-group-of-users-to-test"
-                },
-                "style": {
-                  "background": "#d3d3d3"
-                }
-              }
             }
           }
         },
@@ -226,6 +213,30 @@
             "2": {
               "title": "Update contact details",
               "id": 227
+            }
+          }
+        },
+        "32": {
+          "title": "Beta Testing",
+          "id": 242,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Get an environment out for a select group of users to test",
+              "id": 237,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/2yRjO71S/15-get-an-environment-out-for-a-select-group-of-users-to-test"
+                },
+                "style": {
+                  "background": "#d3d3d3"
+                }
+              }
             }
           }
         },
