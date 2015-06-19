@@ -194,6 +194,18 @@
                 }
               },
               "ideas": {}
+            },
+            "2": {
+              "title": "Registration prompt in order to search/filter for institutions",
+              "id": 244
+            },
+            "3": {
+              "title": "Registration prompt in order to add institutions to shortlist",
+              "id": 245
+            },
+            "4": {
+              "title": "Registration prompt in order to save shortlist",
+              "id": 246
             }
           }
         },
