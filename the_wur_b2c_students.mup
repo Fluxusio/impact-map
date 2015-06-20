@@ -190,7 +190,7 @@
                   "content": "https://trello.com/c/LzqBvDTv/16-wur-b2c-create-multivariate-registration-form-register-on-website"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               },
               "ideas": {}
@@ -203,14 +203,18 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/ed3u7rpC/18-wur-b2c-registration-prompt-in-order-to-search-filter-for-institutions-register-on-website"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "3": {
               "title": "Registration prompt in order to add institutions to shortlist",
               "id": 245,
               "attr": {
-                "style": {},
+                "style": {
+                  "background": "#d3d3d3"
+                },
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/i16CeWRr/19-wur-b2c-registration-prompt-in-order-to-add-institutions-to-shortlist-register-on-website"
@@ -225,7 +229,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/qtYtwkei/20-wur-b2c-registration-prompt-in-order-to-save-shortlist-register-on-website"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
