@@ -445,6 +445,10 @@
             "1": {
               "title": "Custom landing pages",
               "id": 163
+            },
+            "2": {
+              "title": "Create some enhanced profile pages in Mandarin",
+              "id": 253
             }
           },
           "id": 162
@@ -704,6 +708,11 @@
             "2": {
               "title": "Send data to qlikview",
               "id": 251
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
             }
           }
         }
