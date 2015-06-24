@@ -686,6 +686,10 @@
                   "background": "#00ff00"
                 }
               }
+            },
+            "2": {
+              "title": "Run test removing menu items for all users",
+              "id": 247
             }
           }
         }
