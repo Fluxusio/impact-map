@@ -172,43 +172,6 @@
             }
           }
         },
-        "30": {
-          "title": "Register on website",
-          "id": 224,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          },
-          "ideas": {
-            "3": {
-              "title": "Registration prompt in order to add institutions to shortlist",
-              "id": 245,
-              "attr": {
-                "style": {
-                  "background": "#d3d3d3"
-                },
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/i16CeWRr/19-wur-b2c-registration-prompt-in-order-to-add-institutions-to-shortlist-register-on-website"
-                }
-              }
-            },
-            "4": {
-              "title": "Registration prompt in order to save shortlist",
-              "id": 246,
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/qtYtwkei/20-wur-b2c-registration-prompt-in-order-to-save-shortlist-register-on-website"
-                },
-                "style": {
-                  "background": "#d3d3d3"
-                }
-              }
-            }
-          }
-        },
         "31": {
           "title": "Enter personal information",
           "id": 225,
@@ -699,6 +662,32 @@
                 },
                 "style": {
                   "background": "#FFB6C1"
+                }
+              }
+            },
+            "3": {
+              "title": "Registration prompt in order to add institutions to shortlist",
+              "id": 245,
+              "attr": {
+                "style": {
+                  "background": "#d3d3d3"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/i16CeWRr/19-wur-b2c-registration-prompt-in-order-to-add-institutions-to-shortlist-register-on-website"
+                }
+              }
+            },
+            "4": {
+              "title": "Registration prompt in order to save shortlist",
+              "id": 246,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/qtYtwkei/20-wur-b2c-registration-prompt-in-order-to-save-shortlist-register-on-website"
+                },
+                "style": {
+                  "background": "#d3d3d3"
                 }
               }
             }
