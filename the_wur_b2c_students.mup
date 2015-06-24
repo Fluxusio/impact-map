@@ -181,33 +181,6 @@
             }
           },
           "ideas": {
-            "1": {
-              "title": "Create multivariate registration form",
-              "id": 238,
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/LzqBvDTv/16-wur-b2c-create-multivariate-registration-form-register-on-website"
-                },
-                "style": {
-                  "background": "#FFB6C1"
-                }
-              },
-              "ideas": {}
-            },
-            "2": {
-              "title": "Registration prompt in order to search/filter for institutions",
-              "id": 244,
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/ed3u7rpC/18-wur-b2c-registration-prompt-in-order-to-search-filter-for-institutions-register-on-website"
-                },
-                "style": {
-                  "background": "#FFB6C1"
-                }
-              }
-            },
             "3": {
               "title": "Registration prompt in order to add institutions to shortlist",
               "id": 245,
@@ -690,6 +663,44 @@
             "2": {
               "title": "Run test removing menu items for all users",
               "id": 247
+            }
+          }
+        },
+        "22": {
+          "title": "Test effectiveness of registration options",
+          "id": 248,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Create multivariate registration form",
+              "id": 238,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/LzqBvDTv/16-wur-b2c-create-multivariate-registration-form-register-on-website"
+                },
+                "style": {
+                  "background": "#FFB6C1"
+                }
+              },
+              "ideas": {}
+            },
+            "2": {
+              "title": "Registration prompt in order to search/filter for institutions",
+              "id": 244,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/ed3u7rpC/18-wur-b2c-registration-prompt-in-order-to-search-filter-for-institutions-register-on-website"
+                },
+                "style": {
+                  "background": "#FFB6C1"
+                }
+              }
             }
           }
         }
