@@ -958,6 +958,15 @@
           },
           "ideas": {},
           "id": 213
+        },
+        "27": {
+          "title": "Create institution dashboard",
+          "id": 259,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
         }
       },
       "id": 185
