@@ -215,6 +215,33 @@
             }
           }
         },
+        "33": {
+          "title": "View on mobile device",
+          "id": 254,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Enhanced Profiles",
+              "id": 255
+            },
+            "2": {
+              "title": "Standard Profiles",
+              "id": 256
+            },
+            "3": {
+              "title": "Ranking Dataset",
+              "id": 257
+            },
+            "4": {
+              "title": "Ranking Landing Page",
+              "id": 258
+            }
+          }
+        },
         "7.5": {
           "title": "Filter institutions based on criteria of interest",
           "id": 215,
