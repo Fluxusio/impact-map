@@ -226,11 +226,25 @@
           "ideas": {
             "1": {
               "title": "Enhanced Profiles",
-              "id": 255
+              "id": 255,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Standard Profiles",
-              "id": 256
+              "id": 256,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "3": {
               "title": "Ranking Dataset",
@@ -475,7 +489,14 @@
             },
             "2": {
               "title": "Create some enhanced profile pages in Mandarin",
-              "id": 253
+              "id": 253,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           },
           "id": 162
@@ -720,6 +741,17 @@
                 "style": {
                   "background": "#d3d3d3"
                 }
+              }
+            },
+            "5": {
+              "title": "Track form submissions in GA",
+              "id": 260,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
               }
             }
           }
