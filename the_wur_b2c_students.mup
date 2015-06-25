@@ -162,7 +162,7 @@
                   "content": "https://trello.com/c/HATKM5DO/4-wur-b2c-add-institution-to-shortlist-save-institutions-for-future-reference"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -692,7 +692,7 @@
                   "content": "https://trello.com/c/ed3u7rpC/18-wur-b2c-registration-prompt-in-order-to-search-filter-for-institutions-register-on-website"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -701,7 +701,7 @@
               "id": 245,
               "attr": {
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 },
                 "attachment": {
                   "contentType": "text/html",
