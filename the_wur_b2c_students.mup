@@ -232,7 +232,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/XtxgYwbB/21-wur-b2c-enhanced-profiles-view-on-mobile-device"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
@@ -243,7 +245,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/wzWgAdwg/22-wur-b2c-standard-profiles-view-on-mobile-device"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "3": {
@@ -410,7 +414,7 @@
                   "content": "https://trello.com/c/WbQHXtU1/9-wur-b2c-filter-for-institutions-by-region-city-state-filter-institutions-based-on-criteria-of-interest"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               },
               "id": 216
@@ -495,7 +499,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/fr4BsOiY/23-wur-b2c-create-some-enhanced-profile-pages-in-mandarin-increase-performance-on-baidoo"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           },
@@ -699,7 +705,7 @@
                   "content": "https://trello.com/c/LzqBvDTv/16-wur-b2c-create-multivariate-registration-form-register-on-website"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#d3d3d3"
                 }
               },
               "ideas": {}
@@ -751,7 +757,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/SnsniUYS/24-wur-b2c-track-form-submissions-in-ga-test-effectiveness-of-registration-options"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
