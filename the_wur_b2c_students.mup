@@ -17,8 +17,11 @@
           },
           "ideas": {
             "1": {
-              "title": "Share shortlist",
-              "id": 219
+              "title": "Share different shortlists",
+              "id": 219,
+              "attr": {
+                "style": {}
+              }
             },
             "2": {
               "title": "Share individual institution",
@@ -169,6 +172,17 @@
             "2": {
               "title": "Reorder shortlist",
               "id": 218
+            },
+            "3": {
+              "title": "Add all search/filter results to shortlist",
+              "id": 262,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "Backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -422,6 +436,17 @@
             "16": {
               "title": "Filter institutions by weather/quality of air",
               "id": 228
+            },
+            "17": {
+              "title": "Clear all selected filters",
+              "id": 261,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "3.5": {
               "title": "Filter institutions by multiple countries",
@@ -782,6 +807,15 @@
               "background": "#FFFFFF"
             }
           }
+        },
+        "24": {
+          "title": "Promote institutions in university comparison tool",
+          "id": 266,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
         }
       },
       "attr": {
@@ -848,7 +882,7 @@
           "id": 197
         },
         "11": {
-          "title": "Collect  entry grades to students expected grades",
+          "title": "Collect entry grades to students expected grades",
           "attr": {
             "style": {
               "background": "#ffffff"
