@@ -445,7 +445,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/GXbCwjs2/25-wur-b2c-clear-all-selected-filters-filter-institutions-based-on-criteria-of-interest"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "3.5": {
