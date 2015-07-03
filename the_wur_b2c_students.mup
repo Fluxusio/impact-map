@@ -165,7 +165,7 @@
                   "content": "https://trello.com/c/HATKM5DO/4-wur-b2c-add-institution-to-shortlist-save-institutions-for-future-reference"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -223,7 +223,7 @@
                   "content": "https://trello.com/c/2yRjO71S/15-get-an-environment-out-for-a-select-group-of-users-to-test"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             }
@@ -428,7 +428,7 @@
                   "content": "https://trello.com/c/WbQHXtU1/9-wur-b2c-filter-for-institutions-by-region-city-state-filter-institutions-based-on-criteria-of-interest"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#00ff00"
                 }
               },
               "id": 216
@@ -443,7 +443,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/FocM1dor/26-wur-b2c-clear-all-selected-filters-filter-institutions-based-on-criteria-of-interest"
                 },
                 "style": {}
               }
@@ -730,7 +730,7 @@
                   "content": "https://trello.com/c/LzqBvDTv/16-wur-b2c-create-multivariate-registration-form-register-on-website"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               },
               "ideas": {}
@@ -744,7 +744,7 @@
                   "content": "https://trello.com/c/ed3u7rpC/18-wur-b2c-registration-prompt-in-order-to-search-filter-for-institutions-register-on-website"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -753,7 +753,7 @@
               "id": 245,
               "attr": {
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#00ff00"
                 },
                 "attachment": {
                   "contentType": "text/html",
@@ -770,7 +770,7 @@
                   "content": "https://trello.com/c/qtYtwkei/20-wur-b2c-registration-prompt-in-order-to-save-shortlist-register-on-website"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -783,7 +783,7 @@
                   "content": "https://trello.com/c/SnsniUYS/24-wur-b2c-track-form-submissions-in-ga-test-effectiveness-of-registration-options"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             }
