@@ -281,33 +281,6 @@
             }
           }
         },
-        "34": {
-          "title": "View extra information on enhanced profile",
-          "id": 270,
-          "ideas": {
-            "1": {
-              "title": "View enhanced profiles on rankings pages",
-              "id": 271,
-              "ideas": {},
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/WQexVdh6/28-wur-b2c-view-enhanced-profiles-on-rankings-pages-view-extra-information-on-enhanced-profile"
-                },
-                "style": {}
-              }
-            },
-            "2": {
-              "title": "View enhanced profiles on university 'universe'",
-              "id": 275
-            }
-          },
-          "attr": {
-            "style": {
-              "background": "#ffffff"
-            }
-          }
-        },
         "7.5": {
           "title": "Filter institutions based on criteria of interest",
           "id": 215,
@@ -887,6 +860,27 @@
           "attr": {
             "style": {
               "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "View enhanced profiles on university 'universe'",
+              "id": 280,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "View enhanced profiles on rankings pages",
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/WQexVdh6/28-wur-b2c-view-enhanced-profiles-on-rankings-pages-view-extra-information-on-enhanced-profile"
+                },
+                "style": {}
+              },
+              "ideas": {},
+              "id": 281
             }
           }
         }
