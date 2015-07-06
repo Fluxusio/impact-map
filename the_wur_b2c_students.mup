@@ -280,12 +280,26 @@
               }
             },
             "5": {
-              "title": "Navigation & Header",
-              "id": 276
+              "title": "Responsive Header & Navigation",
+              "id": 276,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "6": {
-              "title": "Footer",
-              "id": 277
+              "title": "Responsive Footer",
+              "id": 277,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "Backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
