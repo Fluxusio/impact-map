@@ -301,6 +301,11 @@
               "title": "View enhanced profiles on university 'universe'",
               "id": 275
             }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
           }
         },
         "7.5": {
