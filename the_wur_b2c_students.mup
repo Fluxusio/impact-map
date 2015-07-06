@@ -270,7 +270,36 @@
             },
             "4": {
               "title": "Ranking Landing Page",
-              "id": 258
+              "id": 258,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          }
+        },
+        "34": {
+          "title": "View extra information on enhanced profile",
+          "id": 270,
+          "ideas": {
+            "1": {
+              "title": "View enhanced profiles on rankings pages",
+              "id": 271,
+              "ideas": {},
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "View enhanced profiles on university 'universe'",
+              "id": 275
             }
           }
         },
@@ -516,7 +545,14 @@
           "ideas": {
             "1": {
               "title": "Custom landing pages",
-              "id": 163
+              "id": 163,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Create some enhanced profile pages in Mandarin",
