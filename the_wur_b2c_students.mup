@@ -278,28 +278,6 @@
                 },
                 "style": {}
               }
-            },
-            "5": {
-              "title": "Responsive Header & Navigation",
-              "id": 276,
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "backlog"
-                },
-                "style": {}
-              }
-            },
-            "6": {
-              "title": "Responsive Footer",
-              "id": 277,
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "Backlog"
-                },
-                "style": {}
-              }
             }
           }
         },
@@ -520,6 +498,27 @@
       "attr": {
         "style": {
           "background": "#ccffff"
+        }
+      }
+    },
+    "12": {
+      "title": "Institutions",
+      "id": 278,
+      "attr": {
+        "style": {
+          "background": "#ccffff"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Edit own profile pages",
+          "id": 279,
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
         }
       }
     },
