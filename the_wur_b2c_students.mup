@@ -283,6 +283,15 @@
             }
           }
         },
+        "34": {
+          "title": "Sort institutions by rankings",
+          "id": 282,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
         "7.5": {
           "title": "Filter institutions based on criteria of interest",
           "id": 215,
@@ -458,6 +467,14 @@
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "18": {
+              "title": "Filter institutions by ranking dataset",
+              "id": 283
+            },
+            "19": {
+              "title": "Filter institutions by ranking dataset subset (range)",
+              "id": 284
             },
             "3.5": {
               "title": "Filter institutions by multiple countries",
