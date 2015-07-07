@@ -276,7 +276,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/C1IDjoZX/27-wur-b2c-ranking-landing-page-view-on-mobile-device"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             }
           }
@@ -550,7 +552,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/IJRPWgkp/29-wur-b2c-custom-landing-pages-increase-performance-on-baidoo"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
@@ -877,7 +881,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/WQexVdh6/28-wur-b2c-view-enhanced-profiles-on-rankings-pages-view-extra-information-on-enhanced-profile"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               },
               "ideas": {},
               "id": 281
@@ -1020,7 +1026,7 @@
                   "content": "https://trello.com/c/41ZPO0ld/10-wur-b2c-import-subject-data-from-csv-file-collect-subjects-offered-by-institution"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             }
