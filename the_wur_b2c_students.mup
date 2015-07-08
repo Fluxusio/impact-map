@@ -586,6 +586,17 @@
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "3": {
+              "title": "Surface related content",
+              "id": 286,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "Backlog"
+                },
+                "style": {}
+              }
             }
           },
           "id": 162
@@ -690,7 +701,14 @@
           "ideas": {
             "1": {
               "title": "Vanity URLs",
-              "id": 177
+              "id": 177,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "Backlog"
+                },
+                "style": {}
+              }
             }
           },
           "id": 176
