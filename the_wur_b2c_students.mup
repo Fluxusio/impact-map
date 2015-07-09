@@ -223,7 +223,7 @@
                   "content": "https://trello.com/c/2yRjO71S/15-get-an-environment-out-for-a-select-group-of-users-to-test"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -707,7 +707,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/uYtMIUFa/31-wur-b2c-vanity-urls-friendly-urls-for-landing-pages"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           },
