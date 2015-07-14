@@ -247,7 +247,7 @@
                   "content": "https://trello.com/c/XtxgYwbB/21-wur-b2c-enhanced-profiles-view-on-mobile-device"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -808,7 +808,7 @@
                   "content": "https://trello.com/c/LzqBvDTv/16-wur-b2c-create-multivariate-registration-form-register-on-website"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               },
               "ideas": {}
