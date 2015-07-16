@@ -319,11 +319,25 @@
             },
             "7": {
               "title": "List related articles on Ranking Landing Page",
-              "id": 313
+              "id": 313,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/9WqqGJUz/41-wur-b2c-list-related-articles-on-ranking-landing-page-view-on-mobile-device"
+                },
+                "style": {}
+              }
             },
             "8": {
               "title": "List ranking datasets on Ranking Landing Page",
-              "id": 316
+              "id": 316,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/nmp6kWWd/40-wur-b2c-list-ranking-datasets-on-ranking-landing-page-view-on-mobile-device"
+                },
+                "style": {}
+              }
             }
           }
         },
