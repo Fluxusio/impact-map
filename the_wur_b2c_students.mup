@@ -44,7 +44,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/UB9zeBLF/38-wur-b2c-search-universe-on-rankings-landing-page-search-browse-for-institutions"
                 },
                 "style": {}
               }
@@ -301,7 +301,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/dcSHQOGm/34-wur-b2c-mobile-navigation-view-on-mobile-device"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             },
             "6": {
@@ -310,7 +312,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/he7NHTSd/39-wur-b2c-responsive-footer-view-on-mobile-device"
                 },
                 "style": {}
               }
@@ -997,7 +999,7 @@
                   "content": "https://trello.com/c/uovYIrlA/33-wur-b2c-send-data-to-exact-target-ensure-users-opt-in-preferences-are-correctly-saved-across-all-systems"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#00ff00"
                 }
               }
             },
