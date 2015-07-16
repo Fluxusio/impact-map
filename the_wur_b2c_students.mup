@@ -280,6 +280,17 @@
                   "background": "#FFB6C1"
                 }
               }
+            },
+            "5": {
+              "title": "Responsive Navigation",
+              "id": 287,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/dcSHQOGm/34-wur-b2c-mobile-navigation-view-on-mobile-device"
+                },
+                "style": {}
+              }
             }
           }
         },
