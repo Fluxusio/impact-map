@@ -964,6 +964,15 @@
                   }
                 }
               }
+            },
+            "7": {
+              "title": "Direct students to B2C registration",
+              "id": 312,
+              "attr": {
+                "style": {
+                  "background": "#ffffff"
+                }
+              }
             }
           }
         },
