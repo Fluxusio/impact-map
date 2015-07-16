@@ -289,9 +289,7 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/dcSHQOGm/34-wur-b2c-mobile-navigation-view-on-mobile-device"
                 },
-                "style": {
-                  "background": "#FFB6C1"
-                }
+                "style": {}
               }
             },
             "6": {
@@ -300,7 +298,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "https://trello.com/c/xfR0Sz5S/35-wur-b2c-responsive-footer-view-on-mobile-device"
+                  "content": "backlog"
                 },
                 "style": {}
               }
@@ -904,13 +902,20 @@
                   "content": "https://trello.com/c/uovYIrlA/33-wur-b2c-send-data-to-exact-target-ensure-users-opt-in-preferences-are-correctly-saved-across-all-systems"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#d3d3d3"
                 }
               }
             },
             "2": {
               "title": "Send data to qlikview",
-              "id": 251
+              "id": 251,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           },
           "attr": {
