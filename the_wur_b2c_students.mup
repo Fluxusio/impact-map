@@ -879,7 +879,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/uovYIrlA/33-wur-b2c-send-data-to-exact-target-ensure-users-opt-in-preferences-are-correctly-saved-across-all-systems"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
