@@ -37,7 +37,19 @@
               "background": "#ffffff"
             }
           },
-          "ideas": {}
+          "ideas": {
+            "1": {
+              "title": "Search 'Universe' on Rankings Landing Page",
+              "id": 294,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            }
+          }
         },
         "3": {
           "title": "Understand language (correct tone of voice)",
@@ -314,6 +326,28 @@
             }
           }
         },
+        "35": {
+          "title": "View available rankings",
+          "id": 297,
+          "ideas": {
+            "1": {
+              "title": "Display list of rankings",
+              "id": 305,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "Backlog"
+                },
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
         "7.5": {
           "title": "Filter institutions based on criteria of interest",
           "id": 215,
@@ -556,6 +590,28 @@
           "attr": {
             "style": {
               "background": "#ffffff"
+            }
+          }
+        },
+        "2": {
+          "title": "Display News & Analysis",
+          "id": 291,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "View latest rankings articles",
+              "id": 307,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "Backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
@@ -886,6 +942,28 @@
                   "background": "#00ff00"
                 }
               }
+            },
+            "6": {
+              "title": "Registration prompt in order to receive newsletter",
+              "id": 296,
+              "attr": {
+                "style": {
+                  "background": "#ffffff"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "CTA on rankings landing page",
+                  "id": 310,
+                  "attr": {
+                    "attachment": {
+                      "contentType": "text/html",
+                      "content": "Backlog"
+                    },
+                    "style": {}
+                  }
+                }
+              }
             }
           }
         },
@@ -908,14 +986,7 @@
             },
             "2": {
               "title": "Send data to qlikview",
-              "id": 251,
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "backlog"
-                },
-                "style": {}
-              }
+              "id": 251
             }
           },
           "attr": {
@@ -962,6 +1033,63 @@
               },
               "ideas": {},
               "id": 281
+            }
+          }
+        },
+        "26": {
+          "title": "Display key stats on Rankings landing page",
+          "id": 293,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "27": {
+          "title": "Add marketing messages to Rankings landing page",
+          "id": 299,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Display key information for institutions & students",
+              "id": 311,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        },
+        "28": {
+          "title": "Introduce the Rankings",
+          "id": 300,
+          "ideas": {
+            "1": {
+              "title": "Infographic",
+              "id": 301,
+              "ideas": {},
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Intro text",
+              "id": 303,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "Backlog"
+                },
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffffff"
             }
           }
         }
