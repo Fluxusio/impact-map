@@ -346,6 +346,17 @@
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "9": {
+              "title": "Add final content to Ranking Landing Page",
+              "id": 317,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/uqOUqnX5/42-wur-b2c-add-final-content-to-ranking-landing-page-view-on-mobile-device"
+                },
+                "style": {}
+              }
             }
           }
         },
