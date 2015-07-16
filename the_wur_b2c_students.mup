@@ -291,6 +291,17 @@
                 },
                 "style": {}
               }
+            },
+            "6": {
+              "title": "Responsive Footer",
+              "id": 288,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
