@@ -873,7 +873,14 @@
           "ideas": {
             "1": {
               "title": "Send data to exact target",
-              "id": 250
+              "id": 250,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Send data to qlikview",
