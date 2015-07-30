@@ -70,7 +70,15 @@
               "background": "#ffffff"
             }
           },
-          "ideas": {}
+          "ideas": {
+            "1": {
+              "title": "Contact university via institution profile",
+              "id": 361,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
         },
         "7": {
           "title": "Return to search/filtered results set",
@@ -667,7 +675,12 @@
       "attr": {
         "style": {
           "background": "#ccffff"
-        }
+        },
+        "position": [
+          180,
+          -1080,
+          5
+        ]
       }
     },
     "12": {
