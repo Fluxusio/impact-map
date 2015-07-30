@@ -1312,6 +1312,10 @@
           "attr": {
             "style": {
               "background": "#ffffff"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "backlog"
             }
           },
           "id": 199
@@ -1492,6 +1496,10 @@
           "attr": {
             "style": {
               "background": "#ffffff"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "backlog"
             }
           }
         },
@@ -1501,6 +1509,10 @@
           "attr": {
             "style": {
               "background": "#ffffff"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "backlog"
             }
           }
         },
@@ -1510,6 +1522,10 @@
           "attr": {
             "style": {
               "background": "#ffffff"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "backlog"
             }
           }
         }
