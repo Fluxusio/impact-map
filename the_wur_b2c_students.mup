@@ -72,11 +72,24 @@
           },
           "ideas": {
             "1": {
-              "title": "Contact university via institution profile",
+              "title": "Email institution via institution profile",
               "id": 361,
               "attr": {
                 "style": {}
               }
+            },
+            "2": {
+              "title": "Call institutions via institution profile",
+              "id": 363
+            },
+            "3": {
+              "title": "Follow institution on instagram",
+              "id": 365,
+              "ideas": {}
+            },
+            "4": {
+              "title": "Follow institution on apple?",
+              "id": 368
             }
           }
         },
