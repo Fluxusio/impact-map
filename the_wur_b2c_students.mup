@@ -1326,6 +1326,10 @@
                 },
                 "style": {}
               }
+            },
+            "2": {
+              "title": "Import home/international student ratio from CSV",
+              "id": 354
             }
           }
         },
@@ -1506,6 +1510,19 @@
             "style": {
               "background": "#ffffff"
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "Collect total number of students at institution",
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/6Vs3w89P/69-wur-b2c-collect-total-number-of-students-at-institution-collect-number-of-students-at-institution"
+                },
+                "style": {}
+              },
+              "id": 357
+            }
           }
         },
         "33": {
@@ -1515,6 +1532,19 @@
             "style": {
               "background": "#ffffff"
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "Add home/international student ratio to institution",
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/vb4ijqj4/68-wur-b2c-add-home-international-student-ratio-to-institution-collect-home-international-student-ratio"
+                },
+                "style": {}
+              },
+              "id": 355
+            }
           }
         },
         "34": {
@@ -1523,6 +1553,19 @@
           "attr": {
             "style": {
               "background": "#ffffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Add student gender ratio to institution",
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/4SggbcPq/72-wur-b2c-add-student-gender-ratio-to-institution-collect-institution-gender-ratio"
+                },
+                "style": {}
+              },
+              "id": 356
             }
           }
         }
