@@ -1312,13 +1312,22 @@
           "attr": {
             "style": {
               "background": "#ffffff"
-            },
-            "attachment": {
-              "contentType": "text/html",
-              "content": "backlog"
             }
           },
-          "id": 199
+          "id": 199,
+          "ideas": {
+            "1": {
+              "title": "Add home/international student ratio to institution",
+              "id": 352,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/vb4ijqj4/68-wur-b2c-add-home-international-student-ratio-to-institution-collect-home-international-student-ratio"
+                },
+                "style": {}
+              }
+            }
+          }
         },
         "15": {
           "title": "Collect net cost of course and living [calculator (big mac index)]",
@@ -1496,10 +1505,6 @@
           "attr": {
             "style": {
               "background": "#ffffff"
-            },
-            "attachment": {
-              "contentType": "text/html",
-              "content": "backlog"
             }
           }
         },
@@ -1509,10 +1514,6 @@
           "attr": {
             "style": {
               "background": "#ffffff"
-            },
-            "attachment": {
-              "contentType": "text/html",
-              "content": "backlog"
             }
           }
         },
@@ -1522,10 +1523,6 @@
           "attr": {
             "style": {
               "background": "#ffffff"
-            },
-            "attachment": {
-              "contentType": "text/html",
-              "content": "backlog"
             }
           }
         }
