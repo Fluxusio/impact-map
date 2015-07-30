@@ -380,6 +380,90 @@
             }
           }
         },
+        "36": {
+          "title": "View key institution stats",
+          "id": 334,
+          "ideas": {
+            "1": {
+              "title": "View instituion student/staff ratio",
+              "id": 338,
+              "ideas": {}
+            },
+            "2": {
+              "title": "View home/international student ratio",
+              "attr": {
+                "style": {
+                  "background": "transparent"
+                }
+              },
+              "id": 341
+            },
+            "3": {
+              "title": "View % of instutiton international students",
+              "attr": {
+                "style": {
+                  "background": "transparent"
+                }
+              },
+              "id": 342
+            },
+            "4": {
+              "title": "View number of students at institution",
+              "attr": {
+                "style": {
+                  "background": "transparent"
+                }
+              },
+              "id": 343
+            },
+            "5": {
+              "title": "View institution 'performance highlights'",
+              "attr": {
+                "style": {
+                  "background": "transparent"
+                }
+              },
+              "id": 344
+            },
+            "6": {
+              "title": "View institution 'featured courses'",
+              "attr": {
+                "style": {
+                  "background": "transparent"
+                }
+              },
+              "id": 345
+            },
+            "7": {
+              "title": "View institution key dates",
+              "attr": {
+                "style": {
+                  "background": "transparent"
+                },
+                "position": [
+                  176.8750000000009,
+                  171.25,
+                  1
+                ]
+              },
+              "id": 346
+            },
+            "8": {
+              "title": "View institution gender ratio",
+              "attr": {
+                "style": {
+                  "background": "transparent"
+                }
+              },
+              "id": 347
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
         "7.5": {
           "title": "Filter institutions based on criteria of interest",
           "id": 215,
@@ -1074,6 +1158,22 @@
               },
               "ideas": {},
               "id": 281
+            },
+            "3": {
+              "title": "View 'gold' profile",
+              "id": 329
+            },
+            "4": {
+              "title": "View 'silver' profile",
+              "id": 330
+            },
+            "5": {
+              "title": "View 'bronze' profile",
+              "id": 331
+            },
+            "6": {
+              "title": "View 'basic' profile",
+              "id": 332
             }
           }
         },
@@ -1356,6 +1456,60 @@
           "attr": {
             "style": {
               "background": "#FFFFFF"
+            }
+          }
+        },
+        "28": {
+          "title": "Collect institution key dates",
+          "id": 317,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "29": {
+          "title": "Collect institution 'featured courses'",
+          "id": 319,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "30": {
+          "title": "Collect institution 'performance highlights'",
+          "id": 320,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "31": {
+          "title": "Collect number of students at institution",
+          "id": 323,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "33": {
+          "title": "Collect % of instutiton international students",
+          "id": 325,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
+            }
+          }
+        },
+        "34": {
+          "title": "Collect institution gender ratio",
+          "id": 326,
+          "attr": {
+            "style": {
+              "background": "#ffffff"
             }
           }
         }
