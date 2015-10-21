@@ -36,7 +36,7 @@
               "id": 42,
               "attr": {
                 "style": {
-                  "background": "#ffcc99"
+                  "background": "#ffff99"
                 }
               }
             },
@@ -45,7 +45,7 @@
               "id": 43,
               "attr": {
                 "style": {
-                  "background": "#ffcc99"
+                  "background": "#ffff99"
                 }
               }
             },
@@ -54,7 +54,7 @@
               "id": 46,
               "attr": {
                 "style": {
-                  "background": "#ffcc99"
+                  "background": "#ffff99"
                 }
               }
             },
@@ -82,11 +82,21 @@
             },
             "24": {
               "title": "Crop Yubl image",
-              "id": 88
+              "id": 88,
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              }
             },
             "25": {
               "title": "Format text",
-              "id": 90
+              "id": 90,
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              }
             }
           }
         },
@@ -124,13 +134,18 @@
               "id": 68,
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "transparent"
                 }
               }
             },
             "2": {
               "title": "Display link to Yubl WebView",
-              "id": 69
+              "id": 69,
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              }
             }
           }
         },
@@ -149,7 +164,10 @@
             },
             "2": {
               "title": "Add timezone to scheduled Yubl",
-              "id": 83
+              "id": 83,
+              "attr": {
+                "style": {}
+              }
             }
           },
           "attr": {
@@ -169,7 +187,12 @@
           "ideas": {
             "1": {
               "title": "Generic Yubl preview",
-              "id": 86
+              "id": 86,
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              }
             },
             "2": {
               "title": "Device specific preview",
@@ -183,7 +206,12 @@
           "ideas": {
             "1": {
               "title": "Add private tags to Yubls",
-              "id": 95
+              "id": 95,
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              }
             }
           },
           "attr": {
@@ -267,7 +295,12 @@
             },
             "2": {
               "title": "Add tooltips",
-              "id": 120
+              "id": 120,
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              }
             }
           },
           "attr": {
