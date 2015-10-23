@@ -58,15 +58,6 @@
                 }
               }
             },
-            "21": {
-              "title": "Publish Yubl to specific country",
-              "id": 76,
-              "attr": {
-                "style": {
-                  "background": "#ffff99"
-                }
-              }
-            },
             "23": {
               "title": "Flag Yubls",
               "id": 79,
@@ -76,7 +67,7 @@
                 },
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "<div>- Public or Explore (clarify exactly how this will be handled)</div>- Flag Yubl as sponsored<div>- Flag Yubl as not reusable</div>"
+                  "content": "<div>- Public or Explore (clarify exactly how this will be handled)</div><div>- Flag Yubl as Featured</div>- Flag Yubl as sponsored<div>- Flag Yubl as not reusable</div>"
                 }
               }
             },
@@ -89,12 +80,12 @@
                 }
               }
             },
-            "25": {
+            "6.5": {
               "title": "Format text",
               "id": 90,
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#808080"
                 }
               }
             }
