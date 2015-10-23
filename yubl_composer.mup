@@ -67,7 +67,7 @@
                 },
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "<div>- Public or Explore (clarify exactly how this will be handled)</div><div>- Flag Yubl as Featured</div>- Flag Yubl as sponsored<div>- Flag Yubl as not reusable</div>"
+                  "content": "<div>- Public or Explore (clarify exactly how this will be handled)</div>- Flag Yubl as sponsored<div>- Flag Yubl as not reusable</div>"
                 }
               }
             },
@@ -184,10 +184,6 @@
                   "background": "#ffff99"
                 }
               }
-            },
-            "2": {
-              "title": "Device specific preview",
-              "id": 87
             }
           }
         },
@@ -275,15 +271,6 @@
           "title": "Enable campaign managers to use Yubl",
           "id": 23,
           "ideas": {
-            "1": {
-              "title": "Create new brand",
-              "id": 24,
-              "attr": {
-                "style": {
-                  "background": "#99cc00"
-                }
-              }
-            },
             "2": {
               "title": "Add tooltips",
               "id": 120,
@@ -360,7 +347,116 @@
           1
         ]
       },
-      "ideas": {},
+      "ideas": {
+        "1": {
+          "title": "Crop Yubl image",
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          },
+          "id": 171
+        },
+        "2": {
+          "title": "Flag Yubls",
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<div>- Public or Explore (clarify exactly how this will be handled)</div>- Flag Yubl as sponsored<div>- Flag Yubl as not reusable</div>"
+            }
+          },
+          "id": 172
+        },
+        "3": {
+          "title": "Rotate/resize/scale element",
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          },
+          "id": 173
+        },
+        "4": {
+          "title": "Change element colour",
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          },
+          "id": 174
+        },
+        "5": {
+          "title": "Change element font",
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          },
+          "id": 175
+        },
+        "6": {
+          "title": "Add single asset to a Yubl",
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          },
+          "ideas": {},
+          "id": 176
+        },
+        "7": {
+          "title": "Interact with an element on a Yubl (buttons/videos/stickers)",
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "- this includes the ability to add an element on the Yubl;"
+            }
+          },
+          "id": 177
+        },
+        "8": {
+          "title": "Display link to Yubl WebView",
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          },
+          "id": 178
+        },
+        "9": {
+          "title": "Schedule Yubl publishing",
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          },
+          "id": 179
+        },
+        "10": {
+          "title": "Upload media",
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          },
+          "id": 180
+        },
+        "11": {
+          "title": "Generic Yubl preview",
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          },
+          "id": 181
+        }
+      },
       "id": "163.gd304f1dcb27f6b36f"
     },
     "-0.5": {
