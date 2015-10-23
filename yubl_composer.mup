@@ -360,82 +360,60 @@
           1
         ]
       },
+      "ideas": {},
+      "id": "163.gd304f1dcb27f6b36f"
+    },
+    "-0.5": {
+      "title": "LEGEND",
+      "id": 164,
+      "attr": {
+        "style": {
+          "background": "#000000"
+        },
+        "position": [
+          345,
+          -284,
+          2
+        ]
+      },
       "ideas": {
         "1": {
-          "title": "Interact with an element on a Yubl (buttons/videos/stickers)",
+          "title": "GOAL",
+          "id": 166,
           "attr": {
             "style": {
-              "background": "#ffff99"
-            },
-            "attachment": {
-              "contentType": "text/html",
-              "content": "- this includes the ability to add an element on the Yubl;"
+              "background": "#ffcc00"
             }
-          },
-          "id": "204.gd304f1dcb27f6b36f"
+          }
         },
         "2": {
-          "title": "Schedule Yubl publishing",
+          "title": "ACTORS",
+          "id": 167,
           "attr": {
             "style": {
-              "background": "#ffff99"
+              "background": "#ffffff"
             }
-          },
-          "id": "205.gd304f1dcb27f6b36f",
-          "ideas": {}
+          }
         },
-        "5": {
-          "title": "Download Yubl as image",
+        "3": {
+          "title": "IMPACTS",
+          "id": 168,
           "attr": {
             "style": {
-              "background": "#ffff99"
+              "background": "#ccffff"
             }
-          },
-          "id": "208.gd463b7fadac31ec2c"
+          }
         },
-        "7": {
-          "title": "Flag Yubls",
-          "attr": {
-            "style": {
-              "background": "#ffff99"
-            },
-            "attachment": {
-              "contentType": "text/html",
-              "content": "<div>- Public or Explore (clarify exactly how this will be handled)</div>- Flag Yubl as sponsored<div>- Flag Yubl as not reusable</div>"
-            }
-          },
-          "id": "210.gd463b7fadac31ec2c"
-        },
-        "1.5": {
-          "title": "Add single asset to a Yubl",
+        "4": {
+          "title": "DELIVERABLES",
+          "id": 169,
           "attr": {
             "style": {
               "background": "#ffff99"
             }
-          },
-          "ideas": {},
-          "id": "206.gd463b7fadac31ec2c"
-        },
-        "1.75": {
-          "title": "Publish Yubl to specific country",
-          "attr": {
-            "style": {
-              "background": "#ffff99"
-            }
-          },
-          "id": "209.gd463b7fadac31ec2c"
-        },
-        "1.625": {
-          "title": "Upload media to gallery",
-          "attr": {
-            "style": {
-              "background": "#ffff99"
-            }
-          },
-          "id": "207.gd463b7fadac31ec2c"
+          }
         }
-      },
-      "id": "163.gd304f1dcb27f6b36f"
+      }
     }
   },
   "attr": {
