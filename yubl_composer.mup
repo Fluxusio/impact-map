@@ -22,7 +22,7 @@
           },
           "ideas": {
             "2": {
-              "title": "Add single asset to a Yubl",
+              "title": "Add single element to a Yubl",
               "id": 29,
               "ideas": {},
               "attr": {
@@ -50,7 +50,7 @@
               }
             },
             "10": {
-              "title": "Rotate/resize/scale element",
+              "title": "Move/Rotate/Resize element",
               "id": 46,
               "attr": {
                 "style": {
@@ -72,7 +72,7 @@
               }
             },
             "24": {
-              "title": "Crop Yubl image",
+              "title": "Square Yubl image elements",
               "id": 88,
               "attr": {
                 "style": {
@@ -126,6 +126,10 @@
               "attr": {
                 "style": {
                   "background": "transparent"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "NB: downloading the Yubl image has the advantage that the user can share the Yubl graphics internally, without having to publish it beforehand."
                 }
               }
             },
@@ -315,7 +319,7 @@
                 },
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "- this includes the ability to add an element on the Yubl;"
+                  "content": "- this includes the ability to add multiple elements on the Yubl;"
                 }
               },
               "id": "121.gd342a60b431f75244"
