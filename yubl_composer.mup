@@ -374,7 +374,12 @@
               "attr": {
                 "style": {
                   "background": "#ffff99"
-                }
+                },
+                "position": [
+                  86,
+                  307.8306504495007,
+                  2
+                ]
               }
             },
             "2.5": {
@@ -400,17 +405,8 @@
                     }
                   }
                 },
-                "2": {
-                  "title": "Grid view",
-                  "id": 238,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                },
                 "3": {
-                  "title": "Style list view rows",
+                  "title": "Style list view rows and header",
                   "id": 240,
                   "attr": {
                     "style": {
@@ -418,9 +414,9 @@
                     }
                   }
                 },
-                "4": {
-                  "title": "Style list view detailed row",
-                  "id": 241,
+                "14": {
+                  "title": "Grid view",
+                  "id": 238,
                   "attr": {
                     "style": {
                       "background": "#ffcc99"
@@ -435,6 +431,15 @@
                       "contentType": "text/html",
                       "content": "- when I exit composer without saving Yubl<div>- when I try to edit an already published composer I should see a warning: see 2 warnings in 20151028 - Edit yubls_UX.pdf</div>"
                     },
+                    "style": {
+                      "background": "#ffcc99"
+                    }
+                  }
+                },
+                "3.25": {
+                  "title": "Style list view detailed row",
+                  "id": 241,
+                  "attr": {
                     "style": {
                       "background": "#ffcc99"
                     }
