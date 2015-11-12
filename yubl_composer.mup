@@ -124,6 +124,30 @@
                   "background": "#99cc00"
                 }
               }
+            },
+            "23.5": {
+              "title": "Video Element",
+              "id": 190
+            },
+            "23.75": {
+              "title": "Image Element",
+              "id": 191
+            },
+            "23.875": {
+              "title": "Thumbnails for videos",
+              "id": 192
+            },
+            "23.9375": {
+              "title": "Delete Yubl",
+              "id": 193
+            },
+            "23.96875": {
+              "title": "Radio buttons (simple version: 1 group per Yubl)",
+              "id": 194
+            },
+            "23.984375": {
+              "title": "Radio buttons (multiple groups per Yubl)",
+              "id": 195
             }
           }
         },
