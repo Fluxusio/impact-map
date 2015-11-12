@@ -129,7 +129,9 @@
                   "title": "Video Element",
                   "id": 190,
                   "attr": {
-                    "style": {}
+                    "style": {
+                      "background": "#ffffff"
+                    }
                   },
                   "ideas": {}
                 },
@@ -137,21 +139,27 @@
                   "title": "Image Element",
                   "id": 191,
                   "attr": {
-                    "style": {}
+                    "style": {
+                      "background": "#ffffff"
+                    }
                   }
                 },
                 "13": {
                   "title": "Radio buttons (simple version: 1 group per Yubl)",
                   "id": 194,
                   "attr": {
-                    "style": {}
+                    "style": {
+                      "background": "#ffffff"
+                    }
                   }
                 },
                 "14": {
                   "title": "Radio buttons (multiple groups per Yubl)",
                   "id": 195,
                   "attr": {
-                    "style": {}
+                    "style": {
+                      "background": "#ffffff"
+                    }
                   }
                 }
               }
