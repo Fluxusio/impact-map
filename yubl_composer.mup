@@ -289,7 +289,9 @@
                   "title": "Panel for Background color",
                   "id": 228,
                   "attr": {
-                    "style": {}
+                    "style": {
+                      "background": "#ffcc99"
+                    }
                   }
                 },
                 "2": {
@@ -297,22 +299,33 @@
                   "id": 222,
                   "ideas": {},
                   "attr": {
-                    "style": {}
+                    "style": {
+                      "background": "#ffcc99"
+                    }
                   }
                 },
                 "3": {
                   "title": "Tracking panel for sticker settings",
                   "id": 225,
                   "attr": {
-                    "style": {}
+                    "style": {
+                      "background": "#ffcc99"
+                    }
                   }
                 },
                 "4": {
                   "title": "Tracking panel for button settings",
                   "id": 226,
                   "attr": {
-                    "style": {}
+                    "style": {
+                      "background": "#ffcc99"
+                    }
                   }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
                 }
               }
             },
@@ -322,12 +335,22 @@
               "ideas": {
                 "1": {
                   "title": "Separate media upload page for empty library",
-                  "id": 231
+                  "id": 231,
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc99"
+                    }
+                  }
                 },
                 "2": {
                   "title": "Implement media library styling",
                   "id": 232,
-                  "ideas": {}
+                  "ideas": {},
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc99"
+                    }
+                  }
                 },
                 "3": {
                   "title": "Thumbnails for videos",
@@ -340,7 +363,17 @@
                 },
                 "4": {
                   "title": "Calendar scheduler styling to the spec",
-                  "id": 234
+                  "id": 234,
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc99"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
                 }
               }
             }
@@ -518,7 +551,7 @@
               "id": 216,
               "ideas": {
                 "1": {
-                  "title": "Ability to Create brand accounts from the interface",
+                  "title": "Create brand accounts from the B2B WebTool interface",
                   "id": 189,
                   "attr": {
                     "attachment": {
