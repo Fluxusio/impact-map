@@ -282,7 +282,7 @@
           },
           "ideas": {
             "5": {
-              "title": "Tracking panels",
+              "title": "Composer tracking panels",
               "id": 227,
               "ideas": {
                 "1": {
@@ -374,6 +374,71 @@
               "attr": {
                 "style": {
                   "background": "#ffff99"
+                }
+              }
+            },
+            "2.5": {
+              "title": "Yubl Listing page",
+              "id": 235,
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                },
+                "position": [
+                  180,
+                  -199.89442719099986,
+                  1
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "Theme page header and sidebar",
+                  "id": 236,
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc99"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Grid view",
+                  "id": 238,
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc99"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Style list view rows",
+                  "id": 240,
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc99"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Style list view detailed row",
+                  "id": 241,
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc99"
+                    }
+                  }
+                },
+                "3.5": {
+                  "title": "Editing related warnings",
+                  "id": 242,
+                  "attr": {
+                    "attachment": {
+                      "contentType": "text/html",
+                      "content": "- when I exit composer without saving Yubl<div>- when I try to edit an already published composer I should see a warning: see 2 warnings in 20151028 - Edit yubls_UX.pdf</div>"
+                    },
+                    "style": {
+                      "background": "#ffcc99"
+                    }
+                  }
                 }
               }
             }
