@@ -185,7 +185,7 @@
                   "id": 88,
                   "attr": {
                     "style": {
-                      "background": "#ffff99"
+                      "background": "#ffffff"
                     }
                   }
                 }
@@ -231,12 +231,12 @@
                 },
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "NB: downloading the Yubl image has the advantage that the user can share the Yubl graphics internally, without having to publish it beforehand."
+                  "content": "- downloading the Yubl image has the advantage that the user can share the Yubl graphics internally, without having to publish it beforehand<div>- we will need to do this card for having the Yubl thumbnails added to the list of Yubls page</div>"
                 }
               }
             },
             "2": {
-              "title": "Display link to Yubl WebView",
+              "title": "Display link to Yubl WebView **",
               "id": 69,
               "attr": {
                 "style": {
@@ -327,7 +327,17 @@
                   "background": "#99cc00"
                 }
               },
-              "ideas": {}
+              "ideas": {
+                "1": {
+                  "title": "Thumbnails for videos",
+                  "id": 192,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  }
+                }
+              }
             },
             "4": {
               "title": "Preview media",
@@ -352,15 +362,6 @@
             "10": {
               "title": "Switch asset view",
               "id": 112
-            },
-            "2.5": {
-              "title": "Thumbnails for videos",
-              "id": 192,
-              "attr": {
-                "style": {
-                  "background": "#ffff99"
-                }
-              }
             }
           },
           "attr": {
@@ -404,9 +405,11 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "As opposed to the manual way of creating the account on the API system, then in Drupal and then linking them via the token string"
+                  "content": "As opposed to the manual way of creating the account on the API system then in Drupal and then linking them via the token string"
                 },
-                "style": {}
+                "style": {
+                  "background": "#ffff99"
+                }
               }
             }
           },
