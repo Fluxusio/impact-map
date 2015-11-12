@@ -21,133 +21,167 @@
             ]
           },
           "ideas": {
-            "2": {
-              "title": "Add single element to a Yubl",
-              "id": 29,
-              "ideas": {},
-              "attr": {
-                "style": {
-                  "background": "#99cc00"
-                }
-              }
-            },
-            "4": {
-              "title": "Call button",
-              "id": 183,
-              "attr": {
-                "style": {
-                  "background": "#99cc00"
-                }
-              }
-            },
-            "5": {
-              "title": "Link Button",
-              "id": 184,
-              "attr": {
-                "style": {
-                  "background": "#99cc00"
-                }
-              }
-            },
-            "6": {
-              "title": "Change element font",
-              "id": 42,
-              "attr": {
-                "style": {
-                  "background": "#99cc00"
-                }
-              }
-            },
-            "7": {
-              "title": "Change element colour",
-              "id": 43,
-              "attr": {
-                "style": {
-                  "background": "#99cc00"
-                }
-              }
-            },
-            "10": {
-              "title": "Move/Rotate/Resize element",
-              "id": 46,
-              "attr": {
-                "style": {
-                  "background": "#99cc00"
-                }
-              }
-            },
-            "23": {
-              "title": "Flag Yubls",
-              "id": 79,
-              "attr": {
-                "style": {
-                  "background": "#99cc00"
-                },
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "<div>- Public or Explore (clarify exactly how this will be handled)</div>- Flag Yubl as sponsored<div>- Flag Yubl as not reusable</div>"
-                }
-              }
-            },
-            "24": {
-              "title": "Square Yubl image elements",
-              "id": 88,
+            "3": {
+              "title": "Interact with an element on a Yubl (buttons/videos/stickers)",
+              "id": 196,
               "attr": {
                 "style": {
                   "background": "#ffff99"
                 }
-              }
-            },
-            "6.5": {
-              "title": "Format text",
-              "id": 90,
-              "attr": {
-                "style": {
-                  "background": "#99cc00"
+              },
+              "ideas": {
+                "1": {
+                  "title": "Call button",
+                  "id": 183,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Link Button",
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  },
+                  "id": 197
+                },
+                "3": {
+                  "title": "Add single element to a Yubl",
+                  "id": 29,
+                  "ideas": {},
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Pinpoint button",
+                  "id": 185,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
+                },
+                "5": {
+                  "title": "\"I am here where are you\" button *",
+                  "id": 186,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
+                },
+                "6": {
+                  "title": "Change element font",
+                  "id": 42,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
+                },
+                "7": {
+                  "title": "Format text",
+                  "id": 90,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
+                },
+                "8": {
+                  "title": "Change element colour",
+                  "id": 43,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
+                },
+                "9": {
+                  "title": "Move/Rotate/Resize element",
+                  "id": 46,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
+                },
+                "10": {
+                  "title": "Flag Yubls",
+                  "id": 79,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    },
+                    "attachment": {
+                      "contentType": "text/html",
+                      "content": "<div>- Public or Explore (clarify exactly how this will be handled)</div>- Flag Yubl as sponsored<div>- Flag Yubl as not reusable</div>"
+                    }
+                  }
+                },
+                "11": {
+                  "title": "Video Element",
+                  "id": 190,
+                  "attr": {
+                    "style": {}
+                  },
+                  "ideas": {}
+                },
+                "12": {
+                  "title": "Image Element",
+                  "id": 191,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "13": {
+                  "title": "Radio buttons (simple version: 1 group per Yubl)",
+                  "id": 194,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "14": {
+                  "title": "Radio buttons (multiple groups per Yubl)",
+                  "id": 195,
+                  "attr": {
+                    "style": {}
+                  }
                 }
               }
-            },
-            "5.5": {
-              "title": "Pinpoint button",
-              "id": 185,
-              "attr": {
-                "style": {
-                  "background": "#99cc00"
-                }
-              }
-            },
-            "5.75": {
-              "title": "\"I am here where are you\" button *",
-              "id": 186,
-              "attr": {
-                "style": {
-                  "background": "#99cc00"
-                }
-              }
-            },
-            "23.5": {
-              "title": "Video Element",
-              "id": 190
-            },
-            "23.75": {
-              "title": "Image Element",
-              "id": 191
-            },
-            "23.875": {
-              "title": "Thumbnails for videos",
-              "id": 192
             },
             "23.9375": {
               "title": "Delete Yubl",
-              "id": 193
+              "id": 193,
+              "attr": {
+                "style": {}
+              }
             },
-            "23.96875": {
-              "title": "Radio buttons (simple version: 1 group per Yubl)",
-              "id": 194
-            },
-            "23.984375": {
-              "title": "Radio buttons (multiple groups per Yubl)",
-              "id": 195
+            "13.4375": {
+              "title": "Add media to a Yubl",
+              "id": 198,
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "ideas": {
+                "2": {
+                  "title": "Square Yubl image elements",
+                  "id": 88,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    }
+                  }
+                }
+              }
             }
           }
         },
@@ -200,7 +234,8 @@
                 "style": {
                   "background": "#ffff99"
                 }
-              }
+              },
+              "ideas": {}
             }
           }
         },
@@ -247,7 +282,8 @@
                 "style": {
                   "background": "#ffff99"
                 }
-              }
+              },
+              "ideas": {}
             }
           }
         },
@@ -282,7 +318,8 @@
                 "style": {
                   "background": "#99cc00"
                 }
-              }
+              },
+              "ideas": {}
             },
             "4": {
               "title": "Preview media",
@@ -307,6 +344,15 @@
             "10": {
               "title": "Switch asset view",
               "id": 112
+            },
+            "2.5": {
+              "title": "Thumbnails for videos",
+              "id": 192,
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              }
             }
           },
           "attr": {
