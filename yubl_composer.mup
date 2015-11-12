@@ -164,26 +164,6 @@
                 }
               }
             },
-            "13.4375": {
-              "title": "Add media to a Yubl",
-              "id": 198,
-              "attr": {
-                "style": {
-                  "background": "#ffff99"
-                }
-              },
-              "ideas": {
-                "2": {
-                  "title": "Square Yubl image elements",
-                  "id": 88,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                }
-              }
-            },
             "18.6875": {
               "title": "Manage / Share Yubls",
               "id": 217,
