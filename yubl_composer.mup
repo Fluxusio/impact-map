@@ -1,5 +1,5 @@
 {
-  "title": "Give campaign managers  the ability to use Yubl as a platform for their campaigns by Friday 6th November",
+  "title": "Give campaign managers  a polished product for managing their YUBL campagins by December the 3rd",
   "id": 1,
   "formatVersion": 2,
   "ideas": {
@@ -68,7 +68,7 @@
                   }
                 },
                 "5": {
-                  "title": "\"I am here where are you\" button *",
+                  "title": "\"I am here where are you\" button",
                   "id": 186,
                   "attr": {
                     "style": {
@@ -168,7 +168,9 @@
               "title": "Delete Yubl",
               "id": 193,
               "attr": {
-                "style": {}
+                "style": {
+                  "background": "#ffff99"
+                }
               }
             },
             "13.4375": {
@@ -289,6 +291,10 @@
               "attr": {
                 "style": {
                   "background": "#ffff99"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "The simplest form for this would be to just implement&nbsp;<span style=\"color: rgb(0, 0, 0); font-family: Helvetica, 'Arial Unicode MS', sans-serif; font-size: 12px; font-weight: bold; line-height: 18px; text-align: center; white-space: pre-wrap; background-color: rgb(255, 255, 153);\">Download Yubl as image</span>"
                 }
               },
               "ideas": {}
@@ -319,16 +325,73 @@
           "title": "Reuse existing Yubl assets",
           "id": 97,
           "ideas": {
-            "1": {
-              "title": "Upload media",
-              "id": 99,
+            "6.5": {
+              "title": "Asset viewer",
+              "id": 201,
               "attr": {
                 "style": {
-                  "background": "#99cc00"
+                  "background": "#ffff99"
                 }
               },
               "ideas": {
-                "1": {
+                "2": {
+                  "title": "Preview media",
+                  "id": 104,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "4": {
+                  "title": "Sort assets",
+                  "id": 109,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "5": {
+                  "title": "Search for assets ",
+                  "id": 110,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "6": {
+                  "title": "Filter assets by type",
+                  "id": 111,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "7": {
+                  "title": "Switch asset view",
+                  "id": 112,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "8": {
+                  "title": "Multiple assets upload [DESCOPED]",
+                  "id": 203
+                },
+                "1.5": {
+                  "title": "Upload media",
+                  "id": 99,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  },
+                  "ideas": {}
+                },
+                "1.75": {
+                  "title": "View amount of times asset has been used",
+                  "id": 107,
+                  "ideas": {},
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "1.625": {
                   "title": "Thumbnails for videos",
                   "id": 192,
                   "attr": {
@@ -338,30 +401,6 @@
                   }
                 }
               }
-            },
-            "4": {
-              "title": "Preview media",
-              "id": 104
-            },
-            "6": {
-              "title": "View amount of times asset has been used",
-              "id": 107
-            },
-            "7": {
-              "title": "Sort assets",
-              "id": 109
-            },
-            "8": {
-              "title": "Search for assets ",
-              "id": 110
-            },
-            "9": {
-              "title": "Filter assets by type",
-              "id": 111
-            },
-            "10": {
-              "title": "Switch asset view",
-              "id": 112
             }
           },
           "attr": {
@@ -395,11 +434,22 @@
               "id": 120,
               "attr": {
                 "style": {
-                  "background": "#808080"
+                  "background": "#ffff99"
                 }
               }
-            },
-            "3": {
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          }
+        },
+        "2": {
+          "title": "Brand accounts management",
+          "id": 204,
+          "ideas": {
+            "1": {
               "title": "Ability to Create brand accounts from the interface",
               "id": 189,
               "attr": {
@@ -407,6 +457,24 @@
                   "contentType": "text/html",
                   "content": "As opposed to the manual way of creating the account on the API system then in Drupal and then linking them via the token string"
                 },
+                "style": {
+                  "background": "#ffff99"
+                }
+              }
+            },
+            "2": {
+              "title": "Delete brand accounts",
+              "id": 206,
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              }
+            },
+            "3": {
+              "title": "Block brand accounts",
+              "id": 207,
+              "attr": {
                 "style": {
                   "background": "#ffff99"
                 }
@@ -429,45 +497,7 @@
           "background": "#ffffff"
         }
       },
-      "ideas": {
-        "1": {
-          "title": "Engage with brands",
-          "id": 11,
-          "attr": {
-            "style": {
-              "background": "#ccffff"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "Interact with an element on a Yubl (buttons/videos/stickers)",
-              "attr": {
-                "style": {
-                  "background": "#99cc00"
-                },
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "- this includes the ability to add multiple elements on the Yubl;"
-                }
-              },
-              "id": "121.gd342a60b431f75244"
-            },
-            "2": {
-              "title": "Call button",
-              "id": 182
-            }
-          }
-        },
-        "3": {
-          "title": "Find brand's locations",
-          "id": 22,
-          "attr": {
-            "style": {
-              "background": "#ccffff"
-            }
-          }
-        }
-      }
+      "ideas": {}
     },
     "-2": {
       "title": "Priorities (top is most important)",
@@ -642,6 +672,15 @@
           "attr": {
             "style": {
               "background": "#ffff99"
+            }
+          }
+        },
+        "5": {
+          "title": "DONE",
+          "id": 199,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
             }
           }
         }
