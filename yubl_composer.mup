@@ -164,15 +164,6 @@
                 }
               }
             },
-            "23.9375": {
-              "title": "Delete Yubl",
-              "id": 193,
-              "attr": {
-                "style": {
-                  "background": "#ffff99"
-                }
-              }
-            },
             "13.4375": {
               "title": "Add media to a Yubl",
               "id": 198,
@@ -190,6 +181,40 @@
                       "background": "#ffcc99"
                     }
                   }
+                }
+              }
+            },
+            "18.6875": {
+              "title": "Manage Yubls",
+              "id": 217,
+              "ideas": {
+                "1": {
+                  "title": "Delete Yubl",
+                  "id": 193,
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc99"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Generic Yubl preview",
+                  "id": 86,
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc99"
+                    },
+                    "attachment": {
+                      "contentType": "text/html",
+                      "content": "The simplest form for this would be to just implement&nbsp;<span style=\"color: rgb(0, 0, 0); font-family: Helvetica, 'Arial Unicode MS', sans-serif; font-size: 12px; font-weight: bold; line-height: 18px; text-align: center; white-space: pre-wrap; background-color: rgb(255, 255, 153);\">Download Yubl as image</span>"
+                    }
+                  },
+                  "ideas": {}
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
                 }
               }
             }
@@ -286,22 +311,7 @@
               "background": "#ccffff"
             }
           },
-          "ideas": {
-            "1": {
-              "title": "Generic Yubl preview",
-              "id": 86,
-              "attr": {
-                "style": {
-                  "background": "#ffff99"
-                },
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "The simplest form for this would be to just implement&nbsp;<span style=\"color: rgb(0, 0, 0); font-family: Helvetica, 'Arial Unicode MS', sans-serif; font-size: 12px; font-weight: bold; line-height: 18px; text-align: center; white-space: pre-wrap; background-color: rgb(255, 255, 153);\">Download Yubl as image</span>"
-                }
-              },
-              "ideas": {}
-            }
-          }
+          "ideas": {}
         },
         "7": {
           "title": "Find existing campaigns",
