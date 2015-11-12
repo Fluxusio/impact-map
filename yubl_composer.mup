@@ -326,7 +326,21 @@
                 },
                 "2": {
                   "title": "Implement media library styling",
-                  "id": 232
+                  "id": 232,
+                  "ideas": {}
+                },
+                "3": {
+                  "title": "Thumbnails for videos",
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc99"
+                    }
+                  },
+                  "id": 233
+                },
+                "4": {
+                  "title": "Calendar scheduler styling to the spec",
+                  "id": 234
                 }
               }
             }
@@ -424,15 +438,6 @@
                   "title": "View amount of times an asset has been used",
                   "id": 107,
                   "ideas": {},
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                },
-                "1.625": {
-                  "title": "Thumbnails for videos",
-                  "id": 192,
                   "attr": {
                     "style": {
                       "background": "#ffcc99"
