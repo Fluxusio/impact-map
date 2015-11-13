@@ -152,8 +152,14 @@
                 }
               },
               "id": 258
-            },
-            "33.6875": {
+            }
+          }
+        },
+        "2": {
+          "title": "Give brand managers ability to manage Yubls",
+          "id": 284,
+          "ideas": {
+            "1": {
               "title": "Delete Yubl",
               "attr": {
                 "style": {
@@ -204,6 +210,15 @@
                 }
               },
               "ideas": {}
+            },
+            "5": {
+              "title": "Add private tags to Yubls",
+              "id": 95,
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              }
             }
           },
           "attr": {
@@ -283,7 +298,7 @@
               "id": 262
             },
             "10": {
-              "title": "Editing related warnings",
+              "title": "Warnings related to edit actions",
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
@@ -380,26 +395,6 @@
             }
           }
         },
-        "7": {
-          "title": "Find existing campaigns",
-          "id": 94,
-          "ideas": {
-            "1": {
-              "title": "Add private tags to Yubls",
-              "id": 95,
-              "attr": {
-                "style": {
-                  "background": "#ffff99"
-                }
-              }
-            }
-          },
-          "attr": {
-            "style": {
-              "background": "#ccffff"
-            }
-          }
-        },
         "8": {
           "title": "Reuse existing Yubl assets",
           "id": 97,
@@ -431,24 +426,6 @@
               },
               "id": 275
             },
-            "10.5": {
-              "title": "Switch asset view",
-              "attr": {
-                "style": {
-                  "background": "#ffff99"
-                }
-              },
-              "id": 276
-            },
-            "11.5": {
-              "title": "Multiple assets upload [DESCOPED]",
-              "attr": {
-                "style": {
-                  "background": "#ffff99"
-                }
-              },
-              "id": 277
-            },
             "12.5": {
               "title": "Upload media",
               "attr": {
@@ -477,6 +454,15 @@
                 }
               },
               "id": 280
+            },
+            "24.5": {
+              "title": "Multiple assets upload [DESCOPED]",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "id": 277
             }
           },
           "attr": {
