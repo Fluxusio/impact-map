@@ -8,7 +8,7 @@
       "id": 2,
       "ideas": {
         "1": {
-          "title": "Increase brand awareness",
+          "title": "Increase brand awareness by creating Yubls",
           "id": 8,
           "attr": {
             "style": {
@@ -21,206 +21,200 @@
             ]
           },
           "ideas": {
-            "3": {
-              "title": "Interact with an element on a Yubl (buttons/videos/stickers)",
-              "id": 196,
+            "19.6875": {
+              "title": "Link Button",
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              },
+              "id": 245
+            },
+            "20.6875": {
+              "title": "Call button",
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              },
+              "id": 246
+            },
+            "21.6875": {
+              "title": "Add single element to a Yubl",
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              },
+              "ideas": {},
+              "id": 247
+            },
+            "22.6875": {
+              "title": "Pinpoint button",
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              },
+              "id": 248
+            },
+            "23.6875": {
+              "title": "\"I am here where are you\" button",
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              },
+              "id": 249
+            },
+            "24.6875": {
+              "title": "Change element font",
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              },
+              "id": 250
+            },
+            "25.6875": {
+              "title": "Format text",
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              },
+              "id": 251
+            },
+            "26.6875": {
+              "title": "Change element colour",
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              },
+              "id": 252
+            },
+            "27.6875": {
+              "title": "Move/Rotate/Resize element",
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              },
+              "id": 253
+            },
+            "28.6875": {
+              "title": "Flag Yubls",
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<div>- Public or Explore (clarify exactly how this will be handled)</div>- Flag Yubl as sponsored<div>- Flag Yubl as not reusable</div>"
+                }
+              },
+              "id": 254
+            },
+            "29.6875": {
+              "title": "Create Video Element",
               "attr": {
                 "style": {
                   "background": "#ffff99"
                 }
               },
-              "ideas": {
-                "1": {
-                  "title": "Call button",
-                  "id": 183,
-                  "attr": {
-                    "style": {
-                      "background": "#99cc00"
-                    }
-                  }
+              "ideas": {},
+              "id": 255
+            },
+            "30.6875": {
+              "title": "Create Image Element",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "id": 256
+            },
+            "31.6875": {
+              "title": "Create Radio buttons (simple version: 1 group per Yubl)",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "id": 257
+            },
+            "32.6875": {
+              "title": "Create Radio buttons (multiple groups per Yubl)",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "id": 258
+            },
+            "33.6875": {
+              "title": "Delete Yubl",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "id": 259
+            }
+          }
+        },
+        "3": {
+          "title": "Increase brand awareness by sharing Yubls",
+          "id": 217,
+          "ideas": {
+            "2": {
+              "title": "Generic Yubl preview",
+              "id": 86,
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
                 },
-                "2": {
-                  "title": "Link Button",
-                  "attr": {
-                    "style": {
-                      "background": "#99cc00"
-                    }
-                  },
-                  "id": 197
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "The simplest form for this would be to just implement&nbsp;<span style=\"color: rgb(0, 0, 0); font-family: Helvetica, 'Arial Unicode MS', sans-serif; font-size: 12px; font-weight: bold; line-height: 18px; text-align: center; white-space: pre-wrap; background-color: rgb(255, 255, 153);\">Download Yubl as image</span>"
+                }
+              },
+              "ideas": {}
+            },
+            "3": {
+              "title": "Download Yubl as image",
+              "id": 68,
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
                 },
-                "3": {
-                  "title": "Add single element to a Yubl",
-                  "id": 29,
-                  "ideas": {},
-                  "attr": {
-                    "style": {
-                      "background": "#99cc00"
-                    }
-                  }
-                },
-                "4": {
-                  "title": "Pinpoint button",
-                  "id": 185,
-                  "attr": {
-                    "style": {
-                      "background": "#99cc00"
-                    }
-                  }
-                },
-                "5": {
-                  "title": "\"I am here where are you\" button",
-                  "id": 186,
-                  "attr": {
-                    "style": {
-                      "background": "#99cc00"
-                    }
-                  }
-                },
-                "6": {
-                  "title": "Change element font",
-                  "id": 42,
-                  "attr": {
-                    "style": {
-                      "background": "#99cc00"
-                    }
-                  }
-                },
-                "7": {
-                  "title": "Format text",
-                  "id": 90,
-                  "attr": {
-                    "style": {
-                      "background": "#99cc00"
-                    }
-                  }
-                },
-                "8": {
-                  "title": "Change element colour",
-                  "id": 43,
-                  "attr": {
-                    "style": {
-                      "background": "#99cc00"
-                    }
-                  }
-                },
-                "9": {
-                  "title": "Move/Rotate/Resize element",
-                  "id": 46,
-                  "attr": {
-                    "style": {
-                      "background": "#99cc00"
-                    }
-                  }
-                },
-                "10": {
-                  "title": "Flag Yubls",
-                  "id": 79,
-                  "attr": {
-                    "style": {
-                      "background": "#99cc00"
-                    },
-                    "attachment": {
-                      "contentType": "text/html",
-                      "content": "<div>- Public or Explore (clarify exactly how this will be handled)</div>- Flag Yubl as sponsored<div>- Flag Yubl as not reusable</div>"
-                    }
-                  }
-                },
-                "11": {
-                  "title": "Video Element",
-                  "id": 190,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  },
-                  "ideas": {}
-                },
-                "12": {
-                  "title": "Image Element",
-                  "id": 191,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                },
-                "13": {
-                  "title": "Radio buttons (simple version: 1 group per Yubl)",
-                  "id": 194,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                },
-                "14": {
-                  "title": "Radio buttons (multiple groups per Yubl)",
-                  "id": 195,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "- downloading the Yubl image has the advantage that the user can share the Yubl graphics internally, without having to publish it beforehand<div>- we will need to do this card for having the Yubl thumbnails added to the list of Yubls page</div>"
                 }
               }
             },
-            "18.6875": {
-              "title": "Manage / Share Yubls",
-              "id": 217,
-              "ideas": {
-                "1": {
-                  "title": "Delete Yubl",
-                  "id": 193,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                },
-                "2": {
-                  "title": "Generic Yubl preview",
-                  "id": 86,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    },
-                    "attachment": {
-                      "contentType": "text/html",
-                      "content": "The simplest form for this would be to just implement&nbsp;<span style=\"color: rgb(0, 0, 0); font-family: Helvetica, 'Arial Unicode MS', sans-serif; font-size: 12px; font-weight: bold; line-height: 18px; text-align: center; white-space: pre-wrap; background-color: rgb(255, 255, 153);\">Download Yubl as image</span>"
-                    }
-                  },
-                  "ideas": {}
-                },
-                "3": {
-                  "title": "Download Yubl as image",
-                  "id": 68,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    },
-                    "attachment": {
-                      "contentType": "text/html",
-                      "content": "- downloading the Yubl image has the advantage that the user can share the Yubl graphics internally, without having to publish it beforehand<div>- we will need to do this card for having the Yubl thumbnails added to the list of Yubls page</div>"
-                    }
-                  }
-                },
-                "4": {
-                  "title": "Display link to Yubl WebView **",
-                  "id": 69,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  },
-                  "ideas": {}
-                }
-              },
+            "4": {
+              "title": "Display link to Yubl WebView **",
+              "id": 69,
               "attr": {
                 "style": {
                   "background": "#ffff99"
                 }
-              }
+              },
+              "ideas": {}
             }
+          },
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            },
+            "position": [
+              112,
+              -640.355572809,
+              2
+            ]
           }
         },
         "5": {
@@ -241,7 +235,7 @@
               "id": 83,
               "attr": {
                 "style": {
-                  "background": "#ffcc99"
+                  "background": "#ffff99"
                 }
               }
             }
@@ -261,171 +255,128 @@
             }
           },
           "ideas": {
-            "5": {
-              "title": "Composer tracking panels",
-              "id": 227,
-              "ideas": {
-                "1": {
-                  "title": "Panel for Background color",
-                  "id": 228,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                },
-                "2": {
-                  "title": "Tacking panel for font/text settings",
-                  "id": 222,
-                  "ideas": {},
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                },
-                "3": {
-                  "title": "Tracking panel for sticker settings",
-                  "id": 225,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                },
-                "4": {
-                  "title": "Tracking panel for button settings",
-                  "id": 226,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                }
-              },
+            "7": {
+              "title": "Theme page header and sidebar",
               "attr": {
                 "style": {
                   "background": "#ffff99"
                 }
-              }
+              },
+              "id": 260
             },
-            "6": {
-              "title": "Media library",
-              "id": 230,
-              "ideas": {
-                "1": {
-                  "title": "Separate media upload page for empty library",
-                  "id": 231,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                },
-                "2": {
-                  "title": "Implement media library styling",
-                  "id": 232,
-                  "ideas": {},
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                },
-                "3": {
-                  "title": "Thumbnails for videos",
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  },
-                  "id": 233
-                },
-                "4": {
-                  "title": "Calendar scheduler styling to the spec",
-                  "id": 234,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                }
-              },
+            "8": {
+              "title": "Style list view rows and header",
               "attr": {
                 "style": {
                   "background": "#ffff99"
-                },
-                "position": [
-                  86,
-                  307.8306504495007,
-                  2
-                ]
-              }
+                }
+              },
+              "id": 261
             },
-            "2.5": {
-              "title": "Yubl Listing page",
-              "id": 235,
+            "9": {
+              "title": "Grid view",
               "attr": {
                 "style": {
                   "background": "#ffff99"
-                },
-                "position": [
-                  180,
-                  -199.89442719099986,
-                  1
-                ]
-              },
-              "ideas": {
-                "1": {
-                  "title": "Theme page header and sidebar",
-                  "id": 236,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                },
-                "3": {
-                  "title": "Style list view rows and header",
-                  "id": 240,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                },
-                "14": {
-                  "title": "Grid view",
-                  "id": 238,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                },
-                "3.5": {
-                  "title": "Editing related warnings",
-                  "id": 242,
-                  "attr": {
-                    "attachment": {
-                      "contentType": "text/html",
-                      "content": "- when I exit composer without saving Yubl<div>- when I try to edit an already published composer I should see a warning: see 2 warnings in 20151028 - Edit yubls_UX.pdf</div>"
-                    },
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                },
-                "3.25": {
-                  "title": "Style list view detailed row",
-                  "id": 241,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
                 }
-              }
+              },
+              "id": 262
+            },
+            "10": {
+              "title": "Editing related warnings",
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "- when I exit composer without saving Yubl<div>- when I try to edit an already published composer I should see a warning: see 2 warnings in 20151028 - Edit yubls_UX.pdf</div>"
+                },
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "id": 263
+            },
+            "11": {
+              "title": "Style list view detailed row",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "id": 264
+            },
+            "12": {
+              "title": "Panel for Background color",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "id": 265
+            },
+            "13": {
+              "title": "Tacking panel for font/text settings",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "ideas": {},
+              "id": 266
+            },
+            "14": {
+              "title": "Tracking panel for sticker settings",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "id": 267
+            },
+            "15": {
+              "title": "Tracking panel for button settings",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "id": 268
+            },
+            "16": {
+              "title": "Separate media upload page for empty library",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "id": 269
+            },
+            "17": {
+              "title": "Implement media library styling",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "ideas": {},
+              "id": 270
+            },
+            "18": {
+              "title": "Thumbnails for videos",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "id": 271
+            },
+            "19": {
+              "title": "Calendar scheduler styling to the spec",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "id": 272
             }
           }
         },
@@ -438,7 +389,7 @@
               "id": 95,
               "attr": {
                 "style": {
-                  "background": "#ffcc99"
+                  "background": "#ffff99"
                 }
               }
             }
@@ -453,90 +404,79 @@
           "title": "Reuse existing Yubl assets",
           "id": 97,
           "ideas": {
-            "6.5": {
-              "title": "Asset viewer",
-              "id": 201,
+            "7.5": {
+              "title": "Preview media",
               "attr": {
                 "style": {
                   "background": "#ffff99"
                 }
               },
-              "ideas": {
-                "2": {
-                  "title": "Preview media",
-                  "id": 104,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                },
-                "4": {
-                  "title": "Sort assets",
-                  "id": 109,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                },
-                "6": {
-                  "title": "Filter assets by type",
-                  "id": 111,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                },
-                "7": {
-                  "title": "Switch asset view",
-                  "id": 112,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                },
-                "8": {
-                  "title": "Multiple assets upload [DESCOPED]",
-                  "id": 203,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                },
-                "1.5": {
-                  "title": "Upload media",
-                  "id": 99,
-                  "attr": {
-                    "style": {
-                      "background": "#99cc00"
-                    }
-                  },
-                  "ideas": {}
-                },
-                "1.75": {
-                  "title": "View amount of times an asset has been used",
-                  "id": 107,
-                  "ideas": {},
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                },
-                "6.5": {
-                  "title": "Search for assets ",
-                  "id": 110,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
+              "id": 273
+            },
+            "8.5": {
+              "title": "Sort assets",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
                 }
-              }
+              },
+              "id": 274
+            },
+            "9.5": {
+              "title": "Filter assets by type",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "id": 275
+            },
+            "10.5": {
+              "title": "Switch asset view",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "id": 276
+            },
+            "11.5": {
+              "title": "Multiple assets upload [DESCOPED]",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "id": 277
+            },
+            "12.5": {
+              "title": "Upload media",
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              },
+              "ideas": {},
+              "id": 278
+            },
+            "13.5": {
+              "title": "View amount of times an asset has been used",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "ideas": {},
+              "id": 279
+            },
+            "14.5": {
+              "title": "Search for assets ",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "id": 280
             }
           },
           "attr": {
@@ -549,92 +489,6 @@
       "attr": {
         "style": {
           "background": "#ffffff"
-        }
-      }
-    },
-    "2": {
-      "title": "Yubl brand managers",
-      "id": 6,
-      "attr": {
-        "style": {
-          "background": "#ffffff"
-        }
-      },
-      "ideas": {
-        "1": {
-          "title": "Enable campaign managers to use Yubl",
-          "id": 23,
-          "ideas": {
-            "2": {
-              "title": "Help system",
-              "id": 120,
-              "attr": {
-                "style": {
-                  "background": "#ffff99"
-                }
-              },
-              "ideas": {
-                "1": {
-                  "title": "Add Tooltips",
-                  "id": 215,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                }
-              }
-            }
-          },
-          "attr": {
-            "style": {
-              "background": "#ccffff"
-            }
-          }
-        },
-        "2": {
-          "title": "Brand accounts management",
-          "id": 204,
-          "ideas": {
-            "1.5": {
-              "title": "Account management page",
-              "id": 216,
-              "ideas": {
-                "1": {
-                  "title": "Create brand accounts from the B2B WebTool interface",
-                  "id": 189,
-                  "attr": {
-                    "attachment": {
-                      "contentType": "text/html",
-                      "content": "As opposed to the manual way of creating the account on the API system then in Drupal and then linking them via the token string"
-                    },
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                },
-                "2": {
-                  "title": "Delete / Block brand accounts",
-                  "id": 206,
-                  "attr": {
-                    "style": {
-                      "background": "#ffcc99"
-                    }
-                  }
-                }
-              },
-              "attr": {
-                "style": {
-                  "background": "#ffff99"
-                }
-              }
-            }
-          },
-          "attr": {
-            "style": {
-              "background": "#ccffff"
-            }
-          }
         }
       }
     },
@@ -644,12 +498,7 @@
       "attr": {
         "style": {
           "background": "#000000"
-        },
-        "position": [
-          345,
-          -284,
-          2
-        ]
+        }
       },
       "ideas": {
         "1": {
@@ -696,13 +545,73 @@
               "background": "#99cc00"
             }
           }
+        }
+      }
+    },
+    "-0.25": {
+      "title": "Yubl brand managers",
+      "id": 6,
+      "attr": {
+        "style": {
+          "background": "#ffffff"
         },
-        "4.5": {
-          "title": "TASKS",
-          "id": 210,
+        "position": [
+          184,
+          -188,
+          1
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Provide help for campaign managers to use Yubl",
+          "id": 23,
+          "ideas": {
+            "3": {
+              "title": "Add Tooltips",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "id": 281
+            }
+          },
           "attr": {
             "style": {
-              "background": "#ffcc99"
+              "background": "#ccffff"
+            }
+          }
+        },
+        "2": {
+          "title": "Easily manage brand accounts from B2B WebTool Interface",
+          "id": 204,
+          "ideas": {
+            "2.5": {
+              "title": "Create brand accounts ",
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "As opposed to the manual way of creating the account on the API system then in Drupal and then linking them via the token string"
+                },
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "id": 282
+            },
+            "3.5": {
+              "title": "Delete / Block / Reset password brand accounts",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "id": 283
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ccffff"
             }
           }
         }
