@@ -380,15 +380,6 @@
               "ideas": {},
               "id": 270
             },
-            "18": {
-              "title": "Thumbnails for videos",
-              "attr": {
-                "style": {
-                  "background": "#ffff99"
-                }
-              },
-              "id": 271
-            },
             "19": {
               "title": "Calendar scheduler styling to the spec",
               "attr": {
@@ -397,6 +388,15 @@
                 }
               },
               "id": 272
+            },
+            "3.5": {
+              "title": "Thumbnails for videos",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "id": 271
             }
           }
         },
