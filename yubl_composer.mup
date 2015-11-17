@@ -607,6 +607,39 @@
           }
         }
       }
+    },
+    "-0.375": {
+      "title": "YUBL Sys Ops Team",
+      "id": 285,
+      "ideas": {
+        "1": {
+          "title": "Monitor the current health of the B2B WebTool",
+          "id": 286,
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          }
+        },
+        "2": {
+          "title": "Alert about any preventable future errors",
+          "id": 287,
+          "attr": {
+            "attachment": {
+              "contentType": "text/html",
+              "content": "- for example: alert when the disk space goes under 80%;<div>- alert when SSL certificate will expire in 3 months;</div>"
+            },
+            "style": {
+              "background": "#ccffff"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ffffff"
+        }
+      }
     }
   },
   "attr": {
