@@ -635,7 +635,7 @@
                   "content": "As opposed to the manual way of creating the account on the API system then in Drupal and then linking them via the token string"
                 },
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#800000"
                 }
               },
               "id": 282
