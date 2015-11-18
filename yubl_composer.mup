@@ -178,13 +178,22 @@
           "id": 284,
           "ideas": {
             "1": {
-              "title": "Delete / show share Yubl",
+              "title": "Delete Yubl",
               "attr": {
                 "style": {
                   "background": "#ffff99"
                 }
               },
               "id": 259
+            },
+            "2": {
+              "title": "Show # shares of a Yubl",
+              "id": 294,
+              "attr": {
+                "style": {
+                  "background": "#800000"
+                }
+              }
             }
           },
           "attr": {
@@ -225,11 +234,11 @@
               }
             },
             "4": {
-              "title": "Display link to Yubl WebView **",
+              "title": "Display link to Yubl WebView",
               "id": 69,
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#800000"
                 }
               },
               "ideas": {}
@@ -438,7 +447,7 @@
               "title": "Thumbnails for videos",
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#800000"
                 },
                 "position": [
                   179.6880000000001,
@@ -584,6 +593,24 @@
           "attr": {
             "style": {
               "background": "#99cc00"
+            }
+          }
+        },
+        "6": {
+          "title": "DONE SINCE LAST DEMO (10th of Nov 2015)",
+          "id": 293,
+          "attr": {
+            "style": {
+              "background": "#ff9900"
+            }
+          }
+        },
+        "7": {
+          "title": "TO BE PRIORITISED AFTER 3rd of DECEMBER",
+          "id": 295,
+          "attr": {
+            "style": {
+              "background": "#800000"
             }
           }
         }
