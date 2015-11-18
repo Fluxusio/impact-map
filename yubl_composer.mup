@@ -221,7 +221,7 @@
               "id": 95,
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#800000"
                 }
               }
             },
@@ -230,7 +230,16 @@
               "id": 288,
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#800000"
+                }
+              }
+            },
+            "2.25": {
+              "title": "Yubl preview",
+              "id": 289,
+              "attr": {
+                "style": {
+                  "background": "#800000"
                 }
               }
             }
