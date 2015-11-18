@@ -476,7 +476,7 @@
               "title": "Filter assets by type",
               "attr": {
                 "style": {
-                  "background": "#008000"
+                  "background": "#99cc00"
                 }
               },
               "id": 275
@@ -611,7 +611,7 @@
               "title": "Add Tooltips",
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#800000"
                 }
               },
               "id": 281
@@ -644,7 +644,7 @@
               "title": "Delete / Block / Reset password brand accounts",
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#800000"
                 }
               },
               "id": 283
