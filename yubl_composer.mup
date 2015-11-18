@@ -392,7 +392,7 @@
               "title": "Separate media upload page for empty library",
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#800000"
                 }
               },
               "id": 269
@@ -411,7 +411,7 @@
               "title": "Calendar scheduler styling to the spec",
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#800000"
                 }
               },
               "id": 272
@@ -440,7 +440,7 @@
               "title": "Preview media",
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#800000"
                 }
               },
               "id": 273
@@ -449,7 +449,7 @@
               "title": "Sort assets",
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#800000"
                 }
               },
               "id": 274
@@ -458,7 +458,7 @@
               "title": "Filter assets by type",
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#008000"
                 }
               },
               "id": 275
@@ -477,7 +477,7 @@
               "title": "View amount of times an asset has been used",
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#800000"
                 }
               },
               "ideas": {},
@@ -487,7 +487,7 @@
               "title": "Search for assets ",
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#800000"
                 }
               },
               "id": 280
@@ -496,7 +496,7 @@
               "title": "Multiple assets upload [DESCOPED]",
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#800000"
                 }
               },
               "id": 277
