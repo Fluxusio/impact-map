@@ -139,7 +139,7 @@
               "title": "Create Radio buttons (simple version: 1 group per Yubl)",
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#ff9900"
                 }
               },
               "id": 257
@@ -148,7 +148,7 @@
               "title": "Create Radio buttons (multiple groups per Yubl)",
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#ff9900"
                 }
               },
               "id": 258
@@ -198,7 +198,7 @@
               "id": 68,
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#ff9900"
                 },
                 "attachment": {
                   "contentType": "text/html",
@@ -219,6 +219,15 @@
             "5": {
               "title": "Add private tags to Yubls",
               "id": 95,
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              }
+            },
+            "2.5": {
+              "title": "Add watermark to Yubl Image download",
+              "id": 288,
               "attr": {
                 "style": {
                   "background": "#ffff99"
