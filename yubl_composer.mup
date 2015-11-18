@@ -225,6 +225,15 @@
                 }
               }
             },
+            "6": {
+              "title": "Add Yubl name",
+              "id": 290,
+              "attr": {
+                "style": {
+                  "background": "#800000"
+                }
+              }
+            },
             "2.5": {
               "title": "Add watermark to Yubl Image download",
               "id": 288,
@@ -273,7 +282,7 @@
               "id": 83,
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#800000"
                 }
               }
             }
@@ -315,7 +324,7 @@
               "title": "Grid view",
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#800000"
                 }
               },
               "id": 262
@@ -337,7 +346,7 @@
               "title": "Style list view detailed row",
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#800000"
                 }
               },
               "id": 264
@@ -346,7 +355,7 @@
               "title": "Panel for Background color",
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#800000"
                 }
               },
               "id": 265
@@ -355,7 +364,7 @@
               "title": "Tacking panel for font/text settings",
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#800000"
                 }
               },
               "ideas": {},
@@ -365,7 +374,7 @@
               "title": "Tracking panel for sticker settings",
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#800000"
                 }
               },
               "id": 267
@@ -374,7 +383,7 @@
               "title": "Tracking panel for button settings",
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#800000"
                 }
               },
               "id": 268
@@ -412,7 +421,12 @@
               "attr": {
                 "style": {
                   "background": "#ffff99"
-                }
+                },
+                "position": [
+                  179.6880000000001,
+                  -416.09242719100007,
+                  1
+                ]
               },
               "id": 271
             }
