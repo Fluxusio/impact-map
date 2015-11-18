@@ -152,6 +152,24 @@
                 }
               },
               "id": 258
+            },
+            "33.6875": {
+              "title": "Add more images to the Canvas",
+              "id": 291,
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              }
+            },
+            "34.6875": {
+              "title": "Allow partners to create Yubls from the APP",
+              "id": 292,
+              "attr": {
+                "style": {
+                  "background": "#800000"
+                }
+              }
             }
           }
         },
