@@ -426,7 +426,7 @@
               "id": 271
             },
             "5.25": {
-              "title": "Bring location button to the spec",
+              "title": "Use Google Maps for location button",
               "attr": {
                 "style": {
                   "background": "#000000"
@@ -435,7 +435,7 @@
               "id": 309
             },
             "6.125": {
-              "title": "Bring composer elements to the Spec: Top Bar, Right Side Menu, Main View, Left Side Menu",
+              "title": "Theme the following elements: Top Bar, Right Side Menu, Main View, Left Side Menu",
               "attr": {
                 "style": {
                   "background": "#000000"
@@ -444,7 +444,7 @@
               "id": 310
             },
             "6.5625": {
-              "title": "Bring the following pages to the spec: My list View, Login",
+              "title": "Theme the following elements: My list View, Login",
               "attr": {
                 "style": {
                   "background": "#000000"
