@@ -347,19 +347,6 @@
               },
               "id": 261
             },
-            "10": {
-              "title": "Warnings related to edit actions",
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "- when I exit composer without saving Yubl<div>- when I try to edit an already published composer I should see a warning: see 2 warnings in 20151028 - Edit yubls_UX.pdf</div>"
-                },
-                "style": {
-                  "background": "#ffff99"
-                }
-              },
-              "id": 263
-            },
             "11": {
               "title": "Style list view detailed row",
               "attr": {
@@ -465,7 +452,16 @@
               },
               "id": 311
             },
-            "9.5": {
+            "10.5": {
+              "title": "Grid view",
+              "attr": {
+                "style": {
+                  "background": "#800000"
+                }
+              },
+              "id": 262
+            },
+            "6.78125": {
               "title": "Implement media library styling",
               "attr": {
                 "style": {
@@ -475,14 +471,18 @@
               "ideas": {},
               "id": 270
             },
-            "10.5": {
-              "title": "Grid view",
+            "6.890625": {
+              "title": "Warnings related to edit actions",
               "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "- when I exit composer without saving Yubl<div>- when I try to edit an already published composer I should see a warning: see 2 warnings in 20151028 - Edit yubls_UX.pdf</div>"
+                },
                 "style": {
-                  "background": "#800000"
+                  "background": "#ffff99"
                 }
               },
-              "id": 262
+              "id": 263
             }
           }
         },
