@@ -717,6 +717,105 @@
           "background": "#ffffff"
         }
       }
+    },
+    "-0.125": {
+      "title": "Yubl SysOps",
+      "id": 296,
+      "attr": {
+        "style": {
+          "background": "#ffffff"
+        },
+        "position": [
+          226,
+          -304,
+          4
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Ensure that the platform can be launched to production environment",
+          "id": 297,
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Pre-Launch Check List",
+              "id": 298,
+              "attr": {
+                "style": {
+                  "background": "#000000"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "-0.0625": {
+      "title": "Yubl Product / Design",
+      "id": 299,
+      "attr": {
+        "style": {
+          "background": "#ffffff"
+        },
+        "position": [
+          143,
+          -561,
+          3
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Present Yubl partners a great product and a smooth experience",
+          "id": 300,
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Bring the following pages to the spec: My list View, Login",
+              "id": 303,
+              "attr": {
+                "style": {
+                  "background": "#000000"
+                }
+              }
+            },
+            "2": {
+              "title": "Bring composer elements to the Spec: Top Bar, Right Side Menu, Main View, Left Side Menu",
+              "id": 304,
+              "attr": {
+                "style": {
+                  "background": "#000000"
+                }
+              }
+            },
+            "3": {
+              "title": "Bring location button to the spec",
+              "id": 306,
+              "attr": {
+                "style": {
+                  "background": "#000000"
+                }
+              }
+            },
+            "4": {
+              "title": "Bring Media uploader/picker to the spec",
+              "id": 307,
+              "attr": {
+                "style": {
+                  "background": "#000000"
+                }
+              }
+            }
+          }
+        }
+      }
     }
   },
   "attr": {
