@@ -330,7 +330,7 @@
           },
           "ideas": {
             "7": {
-              "title": "Theme page header and sidebar",
+              "title": "Theme page header and sidebar [Remove see cards above]",
               "attr": {
                 "style": {
                   "background": "#ffff99"
@@ -339,22 +339,13 @@
               "id": 260
             },
             "8": {
-              "title": "Style list view rows and header",
+              "title": "Style list view rows and header  [Remove see cards above]",
               "attr": {
                 "style": {
                   "background": "#ffff99"
                 }
               },
               "id": 261
-            },
-            "9": {
-              "title": "Grid view",
-              "attr": {
-                "style": {
-                  "background": "#800000"
-                }
-              },
-              "id": 262
             },
             "10": {
               "title": "Warnings related to edit actions",
@@ -424,16 +415,6 @@
               },
               "id": 269
             },
-            "17": {
-              "title": "Implement media library styling",
-              "attr": {
-                "style": {
-                  "background": "#ffff99"
-                }
-              },
-              "ideas": {},
-              "id": 270
-            },
             "19": {
               "title": "Calendar scheduler styling to the spec",
               "attr": {
@@ -456,6 +437,52 @@
                 ]
               },
               "id": 271
+            },
+            "5.25": {
+              "title": "Bring location button to the spec",
+              "attr": {
+                "style": {
+                  "background": "#000000"
+                }
+              },
+              "id": 309
+            },
+            "6.125": {
+              "title": "Bring composer elements to the Spec: Top Bar, Right Side Menu, Main View, Left Side Menu",
+              "attr": {
+                "style": {
+                  "background": "#000000"
+                }
+              },
+              "id": 310
+            },
+            "6.5625": {
+              "title": "Bring the following pages to the spec: My list View, Login",
+              "attr": {
+                "style": {
+                  "background": "#000000"
+                }
+              },
+              "id": 311
+            },
+            "9.5": {
+              "title": "Implement media library styling",
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              },
+              "ideas": {},
+              "id": 270
+            },
+            "10.5": {
+              "title": "Grid view",
+              "attr": {
+                "style": {
+                  "background": "#800000"
+                }
+              },
+              "id": 262
             }
           }
         },
@@ -685,7 +712,33 @@
         }
       }
     },
-    "-0.375": {
+    "-0.0625": {
+      "title": "Yubl Product / Design",
+      "id": 299,
+      "attr": {
+        "style": {
+          "background": "#ffffff"
+        },
+        "position": [
+          143,
+          -561,
+          3
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Present Yubl partners a great product and a smooth experience",
+          "id": 300,
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          },
+          "ideas": {}
+        }
+      }
+    },
+    "-0.1875": {
       "title": "YUBL Sys Ops Team",
       "id": 285,
       "ideas": {
@@ -710,29 +763,8 @@
               "background": "#ccffff"
             }
           }
-        }
-      },
-      "attr": {
-        "style": {
-          "background": "#ffffff"
-        }
-      }
-    },
-    "-0.125": {
-      "title": "Yubl SysOps",
-      "id": 296,
-      "attr": {
-        "style": {
-          "background": "#ffffff"
         },
-        "position": [
-          226,
-          -304,
-          4
-        ]
-      },
-      "ideas": {
-        "1": {
+        "3": {
           "title": "Ensure that the platform can be launched to production environment",
           "id": 297,
           "attr": {
@@ -752,68 +784,10 @@
             }
           }
         }
-      }
-    },
-    "-0.0625": {
-      "title": "Yubl Product / Design",
-      "id": 299,
+      },
       "attr": {
         "style": {
           "background": "#ffffff"
-        },
-        "position": [
-          143,
-          -561,
-          3
-        ]
-      },
-      "ideas": {
-        "1": {
-          "title": "Present Yubl partners a great product and a smooth experience",
-          "id": 300,
-          "attr": {
-            "style": {
-              "background": "#ccffff"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "Bring the following pages to the spec: My list View, Login",
-              "id": 303,
-              "attr": {
-                "style": {
-                  "background": "#000000"
-                }
-              }
-            },
-            "2": {
-              "title": "Bring composer elements to the Spec: Top Bar, Right Side Menu, Main View, Left Side Menu",
-              "id": 304,
-              "attr": {
-                "style": {
-                  "background": "#000000"
-                }
-              }
-            },
-            "3": {
-              "title": "Bring location button to the spec",
-              "id": 306,
-              "attr": {
-                "style": {
-                  "background": "#000000"
-                }
-              }
-            },
-            "4": {
-              "title": "Bring Media uploader/picker to the spec",
-              "id": 307,
-              "attr": {
-                "style": {
-                  "background": "#000000"
-                }
-              }
-            }
-          }
         }
       }
     }
