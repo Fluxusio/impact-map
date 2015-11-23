@@ -207,7 +207,7 @@
           "id": 217,
           "ideas": {
             "2": {
-              "title": "Generic Yubl preview",
+              "title": "Generic Yubl preview & Maps for location button",
               "id": 86,
               "attr": {
                 "style": {
@@ -329,24 +329,6 @@
             }
           },
           "ideas": {
-            "7": {
-              "title": "Theme page header and sidebar [Remove see cards above]",
-              "attr": {
-                "style": {
-                  "background": "#ffff99"
-                }
-              },
-              "id": 260
-            },
-            "8": {
-              "title": "Style list view rows and header  [Remove see cards above]",
-              "attr": {
-                "style": {
-                  "background": "#ffff99"
-                }
-              },
-              "id": 261
-            },
             "11": {
               "title": "Style list view detailed row",
               "attr": {
@@ -435,7 +417,7 @@
               "id": 309
             },
             "6.125": {
-              "title": "Theme the following elements: Top Bar, Right Side Menu, Main View, Left Side Menu",
+              "title": "Theme the following  Composer elements: Top Bar, Right Side Menu, Main View, Left Side Menu",
               "attr": {
                 "style": {
                   "background": "#000000"
