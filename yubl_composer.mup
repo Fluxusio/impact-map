@@ -120,7 +120,7 @@
               "title": "Create Video Element",
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#99cc00"
                 }
               },
               "ideas": {},
@@ -130,7 +130,7 @@
               "title": "Create Image Element",
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#99cc00"
                 }
               },
               "id": 256
@@ -139,7 +139,7 @@
               "title": "Create Radio buttons (simple version: 1 group per Yubl)",
               "attr": {
                 "style": {
-                  "background": "#ff9900"
+                  "background": "#99cc00"
                 }
               },
               "id": 257
@@ -148,7 +148,7 @@
               "title": "Create Radio buttons (multiple groups per Yubl)",
               "attr": {
                 "style": {
-                  "background": "#ff9900"
+                  "background": "#99cc00"
                 }
               },
               "id": 258
@@ -181,7 +181,7 @@
               "title": "Delete Yubl",
               "attr": {
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#99cc00"
                 }
               },
               "id": 259
@@ -225,7 +225,7 @@
               "id": 68,
               "attr": {
                 "style": {
-                  "background": "#ff9900"
+                  "background": "#99cc00"
                 },
                 "attachment": {
                   "contentType": "text/html",
@@ -407,20 +407,11 @@
               },
               "id": 271
             },
-            "5.25": {
-              "title": "Use Google Maps for location button",
-              "attr": {
-                "style": {
-                  "background": "#000000"
-                }
-              },
-              "id": 309
-            },
             "6.125": {
               "title": "Theme the following  Composer elements: Top Bar, Right Side Menu, Main View, Left Side Menu",
               "attr": {
                 "style": {
-                  "background": "#000000"
+                  "background": "#ffff99"
                 }
               },
               "id": 310
@@ -429,7 +420,7 @@
               "title": "Theme the following elements: My list View, Login",
               "attr": {
                 "style": {
-                  "background": "#000000"
+                  "background": "#ffff99"
                 }
               },
               "id": 311
@@ -461,7 +452,7 @@
                   "content": "- when I exit composer without saving Yubl<div>- when I try to edit an already published composer I should see a warning: see 2 warnings in 20151028 - Edit yubls_UX.pdf</div>"
                 },
                 "style": {
-                  "background": "#ffff99"
+                  "background": "#99cc00"
                 }
               },
               "id": 263
@@ -760,7 +751,7 @@
               "id": 298,
               "attr": {
                 "style": {
-                  "background": "#000000"
+                  "background": "#ffff99"
                 }
               }
             }
