@@ -378,7 +378,14 @@
             "1": {
               "title": "Create posts",
               "id": 49,
-              "ideas": {}
+              "ideas": {},
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "Backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
