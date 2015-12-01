@@ -1,0 +1,554 @@
+{
+  "title": "1000 paid subscribers by September 2016",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Marketing",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Analytics",
+          "id": 15,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Google Analytics",
+              "id": 87
+            }
+          }
+        },
+        "2": {
+          "title": "Coupons",
+          "id": 16,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          }
+        },
+        "3": {
+          "title": "Referrals",
+          "id": 17,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#FFFFFF"
+        }
+      }
+    },
+    "11": {
+      "title": "Promotional bloggers",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "Affiliate scheme",
+          "id": 18,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#FFFFFF"
+        }
+      }
+    },
+    "21": {
+      "title": "Agency users",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "Advertise",
+          "id": 19,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          }
+        },
+        "2": {
+          "title": "SEO",
+          "id": 20,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#FFFFFF"
+        }
+      }
+    },
+    "31": {
+      "title": "Anon users",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "Discover images",
+          "id": 21,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Browse the shop",
+              "id": 75,
+              "ideas": {}
+            },
+            "2": {
+              "title": "View the creative feed",
+              "id": 78
+            }
+          }
+        },
+        "2": {
+          "title": "Subscribe",
+          "id": 22,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          },
+          "ideas": {}
+        },
+        "3": {
+          "title": "Login",
+          "id": 23,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#FFFFFF"
+        }
+      }
+    },
+    "32": {
+      "title": "Finance",
+      "id": 12,
+      "ideas": {
+        "1": {
+          "title": "Take payments",
+          "id": 13,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          },
+          "ideas": {}
+        },
+        "2": {
+          "title": "Refunds",
+          "id": 14,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          },
+          "ideas": {}
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#FFFFFF"
+        }
+      }
+    },
+    "-1": {
+      "title": "Casual users",
+      "id": 7,
+      "ideas": {
+        "1": {
+          "title": "Casual subscription",
+          "id": 24,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Manage subscription",
+              "id": 61,
+              "ideas": {}
+            },
+            "2": {
+              "title": "Cancel subscripton",
+              "id": 83
+            },
+            "3": {
+              "title": "Change subscription level",
+              "id": 86,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#FFFFFF"
+        }
+      }
+    },
+    "-3": {
+      "title": "Professionals",
+      "id": 9,
+      "ideas": {
+        "1": {
+          "title": "Pro subscription",
+          "id": 27,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Manage subscription",
+              "id": 66
+            },
+            "2": {
+              "title": "Cancel subscription",
+              "id": 84
+            },
+            "3": {
+              "title": "Change subscription level",
+              "id": 85
+            }
+          }
+        },
+        "2": {
+          "title": "Increase quota",
+          "id": 28,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Purchase extra images",
+              "id": 69
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#FFFFFF"
+        }
+      }
+    },
+    "-4": {
+      "title": "Content managers",
+      "id": 10,
+      "ideas": {
+        "1": {
+          "title": "Charity content",
+          "id": 30,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Manage charity page",
+              "id": 70
+            }
+          }
+        },
+        "2": {
+          "title": "Jobs",
+          "id": 31,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          }
+        },
+        "3": {
+          "title": "Privacy",
+          "id": 32,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Hide images from anon users",
+              "id": 71
+            }
+          }
+        },
+        "4": {
+          "title": "Create product",
+          "id": 33,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Upload image",
+              "id": 72
+            }
+          }
+        },
+        "5": {
+          "title": "Licensing",
+          "id": 34,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Manage licenses",
+              "id": 48
+            }
+          }
+        },
+        "6": {
+          "title": "Manage collections",
+          "id": 35,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Creative feed collections",
+              "id": 50
+            },
+            "2": {
+              "title": "Shop collections",
+              "id": 51
+            }
+          }
+        },
+        "7": {
+          "title": "Mark free images",
+          "id": 36,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          },
+          "ideas": {}
+        },
+        "8": {
+          "title": "Manage creative feed",
+          "id": 37,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Create posts",
+              "id": 49,
+              "ideas": {}
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#FFFFFF"
+        }
+      }
+    },
+    "-14": {
+      "title": "Customer service",
+      "id": 11,
+      "ideas": {
+        "1": {
+          "title": "Manage accounts",
+          "id": 38,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          },
+          "ideas": {}
+        },
+        "2": {
+          "title": "FAQs",
+          "id": 39,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Manage FAQ page",
+              "id": 59
+            }
+          }
+        },
+        "3": {
+          "title": "Good will",
+          "id": 41,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Upgrade accounts",
+              "id": 56,
+              "ideas": {}
+            },
+            "2": {
+              "title": "Manage quota",
+              "id": 58
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#FFFFFF"
+        }
+      }
+    },
+    "0.5": {
+      "title": "Free users",
+      "id": 8,
+      "ideas": {
+        "1": {
+          "title": "Quota",
+          "id": 25,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          }
+        },
+        "2": {
+          "title": "Manage subscription",
+          "id": 26,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Upgrade",
+              "id": 73
+            }
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          199,
+          -345,
+          1
+        ],
+        "style": {
+          "background": "#FFFFFF"
+        }
+      }
+    },
+    "-15": {
+      "title": "Legend",
+      "id": 42,
+      "ideas": {
+        "1": {
+          "title": "Goal",
+          "id": 43,
+          "attr": {
+            "style": {
+              "background": "#FFCC00"
+            }
+          }
+        },
+        "2": {
+          "title": "Actor",
+          "id": 44,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
+        },
+        "3": {
+          "title": "Impact",
+          "id": 45,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          }
+        },
+        "4": {
+          "title": "Deliverable",
+          "id": 46,
+          "attr": {
+            "style": {
+              "background": "#FFFF99"
+            }
+          }
+        },
+        "5": {
+          "title": "Done",
+          "id": 47,
+          "attr": {
+            "style": {
+              "background": "#99CC00"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#000000"
+        }
+      }
+    }
+  },
+  "attr": {
+    "storyboards": [
+      "Storyboard 1"
+    ],
+    "style": {
+      "background": "#FFCC00"
+    }
+  },
+  "links": []
+}
