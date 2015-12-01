@@ -382,7 +382,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "Backlog"
+                  "content": "backlog"
                 },
                 "style": {}
               }
