@@ -199,7 +199,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/uTgGsD7t/9-rawpixel-dev-manage-subscription-casual-subscription"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             },
             "2": {
@@ -210,7 +212,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/oMpf9r64/7-rawpixel-dev-cancel-subscripton-casual-subscription"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "3": {
@@ -221,7 +225,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/sCIftGVr/8-rawpixel-dev-change-subscription-level-casual-subscription"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -254,7 +260,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/bQ90NFli/4-rawpixel-dev-manage-subscription-pro-subscription"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2": {
@@ -265,7 +273,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/jiPTzdO5/6-rawpixel-dev-cancel-subscription-pro-subscription"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "3": {
@@ -276,7 +286,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/heU8EaST/5-rawpixel-dev-change-subscription-level-pro-subscription"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -363,7 +375,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/XsZF8ADS/3-rawpixel-dev-upload-image-create-product"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
