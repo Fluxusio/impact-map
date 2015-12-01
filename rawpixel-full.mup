@@ -217,15 +217,6 @@
             }
           }
         },
-        "5": {
-          "title": "Done",
-          "id": 47,
-          "attr": {
-            "style": {
-              "background": "#99CC00"
-            }
-          }
-        },
         "6": {
           "title": "Doing",
           "id": 88,
@@ -265,13 +256,18 @@
             }
           }
         },
-        "10": {
+        "19": {
           "title": "Done",
-          "id": 97,
+          "id": 47,
           "attr": {
             "style": {
-              "background": "#FFB6C1"
-            }
+              "background": "#99CC00"
+            },
+            "position": [
+              77,
+              218,
+              1
+            ]
           }
         }
       },
