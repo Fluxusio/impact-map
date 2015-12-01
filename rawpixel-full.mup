@@ -177,6 +177,95 @@
         }
       }
     },
+    "42": {
+      "title": "Legend",
+      "id": 42,
+      "ideas": {
+        "1": {
+          "title": "Goal",
+          "id": 43,
+          "attr": {
+            "style": {
+              "background": "#FFCC00"
+            }
+          }
+        },
+        "2": {
+          "title": "Actor",
+          "id": 44,
+          "attr": {
+            "style": {
+              "background": "#FFFFFF"
+            }
+          }
+        },
+        "3": {
+          "title": "Impact",
+          "id": 45,
+          "attr": {
+            "style": {
+              "background": "#CCFFFF"
+            }
+          }
+        },
+        "4": {
+          "title": "Deliverable",
+          "id": 46,
+          "attr": {
+            "style": {
+              "background": "#FFFF99"
+            }
+          }
+        },
+        "5": {
+          "title": "Done",
+          "id": 47,
+          "attr": {
+            "style": {
+              "background": "#99CC00"
+            }
+          }
+        },
+        "6": {
+          "title": "Doing",
+          "id": 88,
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "transparent"
+            }
+          }
+        },
+        "7": {
+          "title": "UAT",
+          "id": 91,
+          "ideas": {}
+        },
+        "8": {
+          "title": "Passed UAT",
+          "id": 94,
+          "ideas": {}
+        },
+        "9": {
+          "title": "Deployed to Live",
+          "id": 96
+        },
+        "10": {
+          "title": "Done",
+          "id": 97
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#000000"
+        },
+        "position": [
+          728,
+          634,
+          2
+        ]
+      }
+    },
     "-1": {
       "title": "Casual users",
       "id": 7,
@@ -551,62 +640,6 @@
         ],
         "style": {
           "background": "#FFFFFF"
-        }
-      }
-    },
-    "-15": {
-      "title": "Legend",
-      "id": 42,
-      "ideas": {
-        "1": {
-          "title": "Goal",
-          "id": 43,
-          "attr": {
-            "style": {
-              "background": "#FFCC00"
-            }
-          }
-        },
-        "2": {
-          "title": "Actor",
-          "id": 44,
-          "attr": {
-            "style": {
-              "background": "#FFFFFF"
-            }
-          }
-        },
-        "3": {
-          "title": "Impact",
-          "id": 45,
-          "attr": {
-            "style": {
-              "background": "#CCFFFF"
-            }
-          }
-        },
-        "4": {
-          "title": "Deliverable",
-          "id": 46,
-          "attr": {
-            "style": {
-              "background": "#FFFF99"
-            }
-          }
-        },
-        "5": {
-          "title": "Done",
-          "id": 47,
-          "attr": {
-            "style": {
-              "background": "#99CC00"
-            }
-          }
-        }
-      },
-      "attr": {
-        "style": {
-          "background": "#000000"
         }
       }
     }
