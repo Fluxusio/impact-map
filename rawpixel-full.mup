@@ -193,17 +193,35 @@
             "1": {
               "title": "Manage subscription",
               "id": 61,
-              "ideas": {}
+              "ideas": {},
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Cancel subscripton",
-              "id": 83
+              "id": 83,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "3": {
               "title": "Change subscription level",
               "id": 86,
               "attr": {
-                "style": {}
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                }
               }
             }
           }
@@ -230,15 +248,36 @@
           "ideas": {
             "1": {
               "title": "Manage subscription",
-              "id": 66
+              "id": 66,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Cancel subscription",
-              "id": 84
+              "id": 84,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "3": {
               "title": "Change subscription level",
-              "id": 85
+              "id": 85,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -318,7 +357,14 @@
           "ideas": {
             "1": {
               "title": "Upload image",
-              "id": 72
+              "id": 72,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
