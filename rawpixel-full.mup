@@ -384,7 +384,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/b7ahXjtE/2-rawpixel-dev-create-posts-manage-creative-feed"
                 },
-                "style": {}
+                "style": {
+                  "background": "#00ff00"
+                }
               }
             }
           }
