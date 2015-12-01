@@ -232,27 +232,47 @@
           "ideas": {},
           "attr": {
             "style": {
-              "background": "transparent"
+              "background": "#FFB6C1"
             }
           }
         },
         "7": {
           "title": "UAT",
           "id": 91,
-          "ideas": {}
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#ffff00"
+            }
+          }
         },
         "8": {
           "title": "Passed UAT",
           "id": 94,
-          "ideas": {}
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#00ff00"
+            }
+          }
         },
         "9": {
           "title": "Deployed to Live",
-          "id": 96
+          "id": 96,
+          "attr": {
+            "style": {
+              "background": "#00ff00"
+            }
+          }
         },
         "10": {
           "title": "Done",
-          "id": 97
+          "id": 97,
+          "attr": {
+            "style": {
+              "background": "#FFB6C1"
+            }
+          }
         }
       },
       "attr": {
