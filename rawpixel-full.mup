@@ -197,7 +197,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/uTgGsD7t/9-rawpixel-dev-manage-subscription-casual-subscription"
                 },
                 "style": {}
               }
@@ -208,7 +208,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/oMpf9r64/7-rawpixel-dev-cancel-subscripton-casual-subscription"
                 },
                 "style": {}
               }
@@ -217,11 +217,11 @@
               "title": "Change subscription level",
               "id": 86,
               "attr": {
-                "style": {},
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
-                }
+                  "content": "https://trello.com/c/sCIftGVr/8-rawpixel-dev-change-subscription-level-casual-subscription"
+                },
+                "style": {}
               }
             }
           }
@@ -252,7 +252,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/bQ90NFli/4-rawpixel-dev-manage-subscription-pro-subscription"
                 },
                 "style": {}
               }
@@ -263,7 +263,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/jiPTzdO5/6-rawpixel-dev-cancel-subscription-pro-subscription"
                 },
                 "style": {}
               }
@@ -274,7 +274,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/heU8EaST/5-rawpixel-dev-change-subscription-level-pro-subscription"
                 },
                 "style": {}
               }
@@ -361,7 +361,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/XsZF8ADS/3-rawpixel-dev-upload-image-create-product"
                 },
                 "style": {}
               }
@@ -431,7 +431,7 @@
                   "content": "https://trello.com/c/b7ahXjtE/2-rawpixel-dev-create-posts-manage-creative-feed"
                 },
                 "style": {
-                  "background": "#00ff00"
+                  "background": "#d3d3d3"
                 }
               }
             }
