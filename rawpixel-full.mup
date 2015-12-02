@@ -487,17 +487,21 @@
           },
           "ideas": {
             "1": {
-              "title": "Upload image",
+              "title": "Upload single image",
               "id": 72,
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "https://trello.com/c/XsZF8ADS/3-rawpixel-dev-upload-image-create-product"
+                  "content": "https://trello.com/c/XsZF8ADS/3-rawpixel-dev-upload-single-image-create-product"
                 },
                 "style": {
                   "background": "#d3d3d3"
                 }
               }
+            },
+            "2": {
+              "title": "Batch upload",
+              "id": 102
             }
           }
         },
