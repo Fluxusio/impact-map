@@ -78,6 +78,13 @@
             "style": {
               "background": "#CCFFFF"
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "Targeted adverts",
+              "id": 97,
+              "ideas": {}
+            }
           }
         },
         "2": {
@@ -86,6 +93,13 @@
           "attr": {
             "style": {
               "background": "#CCFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Increased 'stock photo' results on Google",
+              "id": 99,
+              "ideas": {}
             }
           }
         }
@@ -305,7 +319,7 @@
                   "content": "https://trello.com/c/uTgGsD7t/9-rawpixel-dev-manage-subscription-casual-subscription"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -545,10 +559,6 @@
               "id": 49,
               "ideas": {},
               "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/b7ahXjtE/2-rawpixel-dev-create-posts-manage-creative-feed"
-                },
                 "style": {
                   "background": "#d3d3d3"
                 }
