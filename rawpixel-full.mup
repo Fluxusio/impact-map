@@ -323,19 +323,6 @@
                 }
               }
             },
-            "2": {
-              "title": "Cancel subscripton",
-              "id": 83,
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/oMpf9r64/7-rawpixel-dev-cancel-subscripton-casual-subscription"
-                },
-                "style": {
-                  "background": "#d3d3d3"
-                }
-              }
-            },
             "3": {
               "title": "Change subscription level",
               "id": 86,
@@ -378,19 +365,6 @@
                 "attachment": {
                   "contentType": "text/html",
                   "content": "https://trello.com/c/bQ90NFli/4-rawpixel-dev-manage-subscription-pro-subscription"
-                },
-                "style": {
-                  "background": "#d3d3d3"
-                }
-              }
-            },
-            "2": {
-              "title": "Cancel subscription",
-              "id": 84,
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "https://trello.com/c/jiPTzdO5/6-rawpixel-dev-cancel-subscription-pro-subscription"
                 },
                 "style": {
                   "background": "#d3d3d3"
