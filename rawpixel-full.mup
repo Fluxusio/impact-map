@@ -143,6 +143,32 @@
             "5": {
               "title": "Group higher rated images first in search results",
               "id": 107
+            },
+            "6": {
+              "title": "View homepage gallery",
+              "id": 108,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/Qb0BwY5c/10-rawpixel-dev-view-homepage-gallery-anon-users"
+                },
+                "style": {}
+              }
+            },
+            "7": {
+              "title": "View full image page",
+              "id": 112
+            },
+            "8": {
+              "title": "View related images",
+              "id": 113
+            },
+            "3.5": {
+              "title": "Search by collection",
+              "id": 111,
+              "attr": {
+                "style": {}
+              }
             }
           }
         },
@@ -496,6 +522,25 @@
             "4": {
               "title": "Upload vector graphic",
               "id": 104
+            },
+            "2.5": {
+              "title": "Attach Keywords to image",
+              "id": 109,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2.75": {
+              "title": "Attach collections to image",
+              "id": 110,
+              "attr": {
+                "position": [
+                  166.5,
+                  -9.25,
+                  1
+                ],
+                "style": {}
+              }
             }
           }
         },
