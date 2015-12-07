@@ -152,9 +152,7 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Qb0BwY5c/10-rawpixel-dev-view-homepage-gallery-anon-users"
                 },
-                "style": {
-                  "background": "#FFB6C1"
-                }
+                "style": {}
               }
             },
             "7": {
@@ -182,7 +180,16 @@
               "background": "#CCFFFF"
             }
           },
-          "ideas": {}
+          "ideas": {
+            "1": {
+              "title": "View Subscribe page",
+              "id": 114
+            },
+            "2": {
+              "title": "Create a new account/subscription",
+              "id": 115
+            }
+          }
         },
         "3": {
           "title": "Login",
@@ -190,6 +197,16 @@
           "attr": {
             "style": {
               "background": "#CCFFFF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "View login form",
+              "id": 116
+            },
+            "2": {
+              "title": "Request new password by email",
+              "id": 117
             }
           }
         }
@@ -359,7 +376,7 @@
                   "content": "https://trello.com/c/uTgGsD7t/9-rawpixel-dev-manage-subscription-casual-subscription"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -509,7 +526,7 @@
                   "content": "https://trello.com/c/XsZF8ADS/3-rawpixel-dev-upload-single-image-create-product"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#d3d3d3"
                 }
               }
             },
