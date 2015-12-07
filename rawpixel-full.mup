@@ -152,7 +152,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Qb0BwY5c/10-rawpixel-dev-view-homepage-gallery-anon-users"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             },
             "7": {
@@ -357,7 +359,7 @@
                   "content": "https://trello.com/c/uTgGsD7t/9-rawpixel-dev-manage-subscription-casual-subscription"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#d3d3d3"
                 }
               }
             },
@@ -507,7 +509,7 @@
                   "content": "https://trello.com/c/XsZF8ADS/3-rawpixel-dev-upload-single-image-create-product"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },
