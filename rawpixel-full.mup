@@ -126,11 +126,23 @@
             "1": {
               "title": "Browse the shop",
               "id": 75,
-              "ideas": {}
+              "ideas": {},
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "View the creative feed",
-              "id": 78
+              "id": 78,
+              "attr": {
+                "style": {
+                  "background": "#ff9900"
+                }
+              }
             },
             "3": {
               "title": "Search by keyword",
@@ -202,11 +214,25 @@
           "ideas": {
             "1": {
               "title": "View login form",
-              "id": 116
+              "id": 116,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Request new password by email",
-              "id": 117
+              "id": 117,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
@@ -339,6 +365,16 @@
               218,
               1
             ]
+          }
+        },
+        "3.5": {
+          "title": "Descoped",
+          "id": 118,
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#ff9900"
+            }
           }
         }
       },
@@ -504,7 +540,14 @@
           "ideas": {
             "1": {
               "title": "Hide images from anon users",
-              "id": 71
+              "id": 71,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -532,7 +575,14 @@
             },
             "2": {
               "title": "Batch upload",
-              "id": 102
+              "id": 102,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "3": {
               "title": "Upload PSD",
@@ -589,7 +639,12 @@
           "ideas": {
             "1": {
               "title": "Creative feed collections",
-              "id": 50
+              "id": 50,
+              "attr": {
+                "style": {
+                  "background": "#ff9900"
+                }
+              }
             },
             "2": {
               "title": "Shop collections",
@@ -622,7 +677,7 @@
               "ideas": {},
               "attr": {
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ff9900"
                 }
               }
             }
