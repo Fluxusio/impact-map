@@ -130,7 +130,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/P0bZWh7O/12-rawpixel-dev-browse-the-shop-discover-images"
                 },
                 "style": {}
               }
@@ -164,7 +164,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Qb0BwY5c/10-rawpixel-dev-view-homepage-gallery-anon-users"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             },
             "7": {
@@ -218,7 +220,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/H6SMKnZO/11-rawpixel-dev-view-login-form-login"
                 },
                 "style": {}
               }
@@ -229,7 +231,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/zpzZT262/15-rawpixel-dev-request-new-password-by-email-login"
                 },
                 "style": {}
               }
@@ -412,7 +414,7 @@
                   "content": "https://trello.com/c/uTgGsD7t/9-rawpixel-dev-manage-subscription-casual-subscription"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#d3d3d3"
                 }
               }
             },
@@ -544,7 +546,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/rFevcUbT/13-rawpixel-dev-hide-images-from-anon-users-privacy"
                 },
                 "style": {}
               }
@@ -569,7 +571,7 @@
                   "content": "https://trello.com/c/XsZF8ADS/3-rawpixel-dev-upload-single-image-create-product"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -579,7 +581,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/4AnnhIdi/14-rawpixel-dev-batch-upload-create-product"
                 },
                 "style": {}
               }
