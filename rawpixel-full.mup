@@ -180,7 +180,14 @@
             },
             "7": {
               "title": "View full image page",
-              "id": 112
+              "id": 112,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "8": {
               "title": "View related images",
@@ -635,7 +642,11 @@
                   -9.25,
                   1
                 ],
-                "style": {}
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                }
               }
             }
           }
@@ -742,7 +753,14 @@
           "ideas": {
             "1": {
               "title": "Manage FAQ page",
-              "id": 59
+              "id": 59,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
