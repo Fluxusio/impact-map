@@ -154,7 +154,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/Q9KkTMRC/24-rawpixel-dev-search-by-keyword-discover-images"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "4": {
@@ -186,7 +188,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/MCa6PpOj/25-rawpixel-dev-view-full-image-page-discover-images"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "8": {
@@ -201,7 +205,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/cFooka9r/26-rawpixel-dev-search-by-collection-discover-images"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -275,7 +281,7 @@
                   "content": "https://trello.com/c/0hOH6iP5/16-rawpixel-dev-header-navigation-anon-users"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#ffff00"
                 }
               }
             }
@@ -654,7 +660,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/VYCQU2LE/28-rawpixel-dev-attach-keywords-to-image-create-product"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             },
             "2.75": {
@@ -665,7 +673,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/6wEtTqey/23-rawpixel-dev-attach-collections-to-image-create-product"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
@@ -778,7 +788,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/PvsRc6UC/27-rawpixel-dev-manage-faq-page-faqs"
                 },
-                "style": {}
+                "style": {
+                  "background": "#d3d3d3"
+                }
               }
             }
           }
