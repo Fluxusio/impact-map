@@ -1,5 +1,5 @@
 {
-  "title": "1000 paid subscribers by September 2016",
+  "title": "1000 paid subscribers by September 2016f",
   "id": 1,
   "formatVersion": 2,
   "ideas": {
@@ -148,7 +148,14 @@
             },
             "3": {
               "title": "Search by keyword",
-              "id": 105
+              "id": 105,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "4": {
               "title": "Search by ID",
@@ -183,7 +190,11 @@
               "title": "Search by collection",
               "id": 111,
               "attr": {
-                "style": {}
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                }
               }
             }
           }
@@ -608,7 +619,11 @@
               "title": "Attach Keywords to image",
               "id": 109,
               "attr": {
-                "style": {}
+                "style": {},
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                }
               }
             },
             "2.75": {
