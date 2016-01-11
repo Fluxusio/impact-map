@@ -652,6 +652,14 @@
               "title": "Upload vector graphic",
               "id": 104
             },
+            "5": {
+              "title": "Mark image as exclusive",
+              "id": 123
+            },
+            "6": {
+              "title": "Mark image as having a model release",
+              "id": 124
+            },
             "2.5": {
               "title": "Attach Keywords to image",
               "id": 109,
