@@ -155,7 +155,7 @@
                   "content": "https://trello.com/c/cZhv6GBL/18-rawpixel-dev-search-by-keyword-discover-images"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             },
@@ -227,7 +227,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/BApHkaSx/30-rawpixel-dev-view-subscribe-page-subscribe"
                 },
                 "style": {}
               }
@@ -238,7 +238,7 @@
               "attr": {
                 "attachment": {
                   "contentType": "text/html",
-                  "content": "backlog"
+                  "content": "https://trello.com/c/9JoyIxww/31-rawpixel-dev-create-a-new-account-subscription-subscribe"
                 },
                 "style": {}
               }
