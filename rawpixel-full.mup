@@ -223,11 +223,25 @@
           "ideas": {
             "1": {
               "title": "View Subscribe page",
-              "id": 114
+              "id": 114,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Create a new account/subscription",
-              "id": 115
+              "id": 115,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
