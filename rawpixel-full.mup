@@ -609,7 +609,7 @@
           },
           "ideas": {
             "1": {
-              "title": "Hide images from anon users",
+              "title": "Hide images from anon or expired users",
               "id": 71,
               "attr": {
                 "attachment": {
