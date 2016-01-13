@@ -704,13 +704,6 @@
                   "background": "#d3d3d3"
                 }
               }
-            },
-            "2.875": {
-              "title": "Attach model release to image",
-              "id": 127,
-              "attr": {
-                "style": {}
-              }
             }
           }
         },
