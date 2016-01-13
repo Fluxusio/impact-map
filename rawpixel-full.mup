@@ -310,6 +310,21 @@
               "background": "#ccffff"
             }
           }
+        },
+        "5": {
+          "title": "Promote",
+          "id": 128,
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Share on social media",
+              "id": 129
+            }
+          }
         }
       },
       "attr": {
