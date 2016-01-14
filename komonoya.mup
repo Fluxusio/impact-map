@@ -1,0 +1,349 @@
+{
+  "title": "Showcase products and show prospective leads to the nearest store",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "First time buyers",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Find nearest store",
+          "id": 32,
+          "ideas": {
+            "1": {
+              "title": "List all stores",
+              "id": 48
+            },
+            "2": {
+              "title": "View on a map",
+              "id": 49
+            },
+            "3": {
+              "title": "Find by postcode",
+              "id": 50
+            },
+            "4": {
+              "title": "Find by district",
+              "id": 51
+            },
+            "5": {
+              "title": "View store opening hours",
+              "id": 52
+            },
+            "6": {
+              "title": "View store address",
+              "id": 53
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            },
+            "position": [
+              111.79999999999995,
+              -131.2,
+              2
+            ]
+          }
+        },
+        "3": {
+          "title": "Discover products",
+          "id": 37,
+          "ideas": {
+            "1": {
+              "title": "View products by vertical",
+              "id": 35,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "View verticals",
+              "id": 38
+            },
+            "3": {
+              "title": "View product ID",
+              "id": 77
+            },
+            "4": {
+              "title": "View product image",
+              "id": 78
+            }
+          },
+          "attr": {
+            "position": [
+              128.5999999999999,
+              140.8,
+              3
+            ],
+            "style": {
+              "background": "#ccffff"
+            }
+          }
+        },
+        "4": {
+          "title": "Choose language",
+          "id": 59,
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            },
+            "position": [
+              128.5999999999999,
+              265.6,
+              4
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Select English language",
+              "id": 60,
+              "ideas": {}
+            },
+            "2": {
+              "title": "Select Thai language",
+              "id": 68
+            }
+          }
+        },
+        "0.5": {
+          "title": "Find out about company",
+          "id": 73,
+          "attr": {
+            "position": [
+              99.79999999999995,
+              -383.20000000000005,
+              5
+            ],
+            "style": {
+              "background": "#ccffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "About us page",
+              "id": 74,
+              "ideas": {}
+            },
+            "2": {
+              "title": "Legal page",
+              "id": 76
+            }
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          117,
+          -252.60000000000002,
+          6
+        ],
+        "style": {}
+      }
+    },
+    "11": {
+      "title": "Existing buyers",
+      "id": 11,
+      "ideas": {
+        "1": {
+          "title": "Contact store",
+          "id": 42,
+          "ideas": {
+            "1": {
+              "title": "Phone",
+              "id": 43,
+              "ideas": {}
+            },
+            "2": {
+              "title": "Email",
+              "id": 71
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          }
+        },
+        "2": {
+          "title": "Discover new stores",
+          "id": 55,
+          "ideas": {
+            "1": {
+              "title": "View store locations",
+              "id": 57
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            },
+            "position": [
+              101.40000000000009,
+              68.79999999999995,
+              1
+            ]
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          93.79999999999995,
+          323.70000000000005,
+          4
+        ],
+        "style": {}
+      }
+    },
+    "-1": {
+      "title": "Marketing",
+      "id": 13,
+      "attr": {
+        "position": [
+          245,
+          19.5,
+          3
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "Showcase existing products",
+          "id": 16,
+          "ideas": {
+            "1": {
+              "title": "Migrate existing products",
+              "id": 23
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            },
+            "position": [
+              -3.6000000000000227,
+              -263.8,
+              2
+            ]
+          }
+        },
+        "2": {
+          "title": "Showcase new products",
+          "id": 20,
+          "ideas": {
+            "1": {
+              "title": "Add new product",
+              "id": 24
+            },
+            "2": {
+              "title": "Add description to product",
+              "id": 29
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            },
+            "position": [
+              148,
+              -122.19999999999999,
+              5
+            ]
+          }
+        },
+        "3": {
+          "title": "Highlight products",
+          "id": 21,
+          "ideas": {
+            "1": {
+              "title": "Mark product as featured",
+              "id": 28
+            }
+          },
+          "attr": {
+            "position": [
+              204.2,
+              26.600000000000023,
+              6
+            ],
+            "style": {
+              "background": "#ccffff"
+            }
+          }
+        },
+        "4": {
+          "title": "Promotions",
+          "id": 22,
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            },
+            "position": [
+              174.60000000000002,
+              157,
+              4
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Deals",
+              "id": 30,
+              "ideas": {}
+            }
+          }
+        },
+        "5": {
+          "title": "Categorise product verticals",
+          "id": 27,
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            },
+            "position": [
+              21.200000000000045,
+              234.60000000000002,
+              3
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Create verticals",
+              "id": 34
+            }
+          }
+        }
+      }
+    },
+    "-2": {
+      "title": "Content/Editorial",
+      "id": 62,
+      "ideas": {
+        "1": {
+          "title": "Multilingual",
+          "id": 66,
+          "ideas": {
+            "1": {
+              "title": "Add in translations",
+              "id": 67
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          172,
+          396.5,
+          5
+        ],
+        "style": {}
+      }
+    }
+  },
+  "links": []
+}
