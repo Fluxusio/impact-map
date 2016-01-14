@@ -520,6 +520,30 @@
               }
             }
           }
+        },
+        "0.5": {
+          "title": "Free subscription",
+          "id": 134,
+          "attr": {
+            "position": [
+              92.5,
+              -114.75,
+              1
+            ],
+            "style": {
+              "background": "#ccffff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Register for free subscription",
+              "id": 136
+            },
+            "2": {
+              "title": "Upgrade subscription",
+              "id": 137
+            }
+          }
         }
       },
       "attr": {
@@ -859,46 +883,6 @@
         }
       },
       "attr": {
-        "style": {
-          "background": "#FFFFFF"
-        }
-      }
-    },
-    "0.5": {
-      "title": "Free users",
-      "id": 8,
-      "ideas": {
-        "1": {
-          "title": "Quota",
-          "id": 25,
-          "attr": {
-            "style": {
-              "background": "#CCFFFF"
-            }
-          }
-        },
-        "2": {
-          "title": "Manage subscription",
-          "id": 26,
-          "attr": {
-            "style": {
-              "background": "#CCFFFF"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "Upgrade",
-              "id": 73
-            }
-          }
-        }
-      },
-      "attr": {
-        "position": [
-          199,
-          -345,
-          1
-        ],
         "style": {
           "background": "#FFFFFF"
         }
