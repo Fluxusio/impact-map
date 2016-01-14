@@ -161,7 +161,14 @@
             },
             "4": {
               "title": "Search by ID",
-              "id": 106
+              "id": 106,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "5": {
               "title": "Group higher rated images first in search results",
@@ -198,12 +205,14 @@
             },
             "8": {
               "title": "View related images",
-              "id": 113
-            },
-            "9": {
-              "title": "View image model release",
-              "id": 126,
-              "ideas": {}
+              "id": 113,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "3.5": {
               "title": "Search by collection",
@@ -237,9 +246,7 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/BApHkaSx/30-rawpixel-dev-view-subscribe-page-subscribe"
                 },
-                "style": {
-                  "background": "#FFB6C1"
-                }
+                "style": {}
               }
             },
             "2": {
@@ -250,9 +257,7 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/9JoyIxww/31-rawpixel-dev-create-a-new-account-subscription-subscribe"
                 },
-                "style": {
-                  "background": "#FFB6C1"
-                }
+                "style": {}
               }
             }
           }
@@ -329,7 +334,14 @@
           "ideas": {
             "1": {
               "title": "Share on social media",
-              "id": 129
+              "id": 129,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
@@ -509,7 +521,7 @@
                   "content": "https://trello.com/c/uTgGsD7t/9-rawpixel-dev-manage-subscription-casual-subscription"
                 },
                 "style": {
-                  "background": "#00ff00"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -544,11 +556,36 @@
           "ideas": {
             "1": {
               "title": "Register for free subscription",
-              "id": 136
+              "id": 136,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "2": {
               "title": "Upgrade subscription",
-              "id": 137
+              "id": 137,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Download a limited quota",
+              "id": 138,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         }
@@ -668,7 +705,7 @@
                   "content": "https://trello.com/c/rFevcUbT/13-rawpixel-dev-hide-images-from-anon-users-privacy"
                 },
                 "style": {
-                  "background": "#FFB6C1"
+                  "background": "#d3d3d3"
                 }
               }
             }
@@ -692,7 +729,7 @@
                   "content": "https://trello.com/c/XsZF8ADS/3-rawpixel-dev-upload-single-image-create-product"
                 },
                 "style": {
-                  "background": "#00ff00"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -705,7 +742,7 @@
                   "content": "https://trello.com/c/4AnnhIdi/14-rawpixel-dev-batch-upload-create-product"
                 },
                 "style": {
-                  "background": "#00ff00"
+                  "background": "#ffff00"
                 }
               }
             },
@@ -719,11 +756,25 @@
             },
             "5": {
               "title": "Mark image as exclusive",
-              "id": 123
+              "id": 123,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "6": {
               "title": "Mark image as having a model release",
-              "id": 124
+              "id": 124,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             },
             "2.5": {
               "title": "Attach Keywords to image",
@@ -734,7 +785,7 @@
                   "content": "https://trello.com/c/K59FFCri/19-rawpixel-dev-attach-keywords-to-image-create-product"
                 },
                 "style": {
-                  "background": "#00ff00"
+                  "background": "#d3d3d3"
                 }
               }
             },
@@ -764,7 +815,14 @@
           "ideas": {
             "1": {
               "title": "Manage licenses",
-              "id": 48
+              "id": 48,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "backlog"
+                },
+                "style": {}
+              }
             }
           }
         },
@@ -862,7 +920,7 @@
                   "content": "https://trello.com/c/dWRklstT/21-rawpixel-dev-manage-faq-page-faqs"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#d3d3d3"
                 }
               }
             }
