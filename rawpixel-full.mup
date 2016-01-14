@@ -237,7 +237,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/BApHkaSx/30-rawpixel-dev-view-subscribe-page-subscribe"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             },
             "2": {
@@ -248,7 +250,9 @@
                   "contentType": "text/html",
                   "content": "https://trello.com/c/9JoyIxww/31-rawpixel-dev-create-a-new-account-subscription-subscribe"
                 },
-                "style": {}
+                "style": {
+                  "background": "#FFB6C1"
+                }
               }
             }
           }
@@ -505,7 +509,7 @@
                   "content": "https://trello.com/c/uTgGsD7t/9-rawpixel-dev-manage-subscription-casual-subscription"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -664,7 +668,7 @@
                   "content": "https://trello.com/c/rFevcUbT/13-rawpixel-dev-hide-images-from-anon-users-privacy"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#FFB6C1"
                 }
               }
             }
@@ -688,7 +692,7 @@
                   "content": "https://trello.com/c/XsZF8ADS/3-rawpixel-dev-upload-single-image-create-product"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -701,7 +705,7 @@
                   "content": "https://trello.com/c/4AnnhIdi/14-rawpixel-dev-batch-upload-create-product"
                 },
                 "style": {
-                  "background": "#ffff00"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -730,7 +734,7 @@
                   "content": "https://trello.com/c/K59FFCri/19-rawpixel-dev-attach-keywords-to-image-create-product"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#00ff00"
                 }
               }
             },
@@ -858,7 +862,7 @@
                   "content": "https://trello.com/c/dWRklstT/21-rawpixel-dev-manage-faq-page-faqs"
                 },
                 "style": {
-                  "background": "#d3d3d3"
+                  "background": "#ffff00"
                 }
               }
             }
