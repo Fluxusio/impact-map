@@ -200,8 +200,19 @@
                 "style": {}
               }
             },
+            "9": {
+              "title": "View Category",
+              "id": 140,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/sHWiO2CI/53-rawpixel-dev-view-category-discover-images"
+                },
+                "style": {}
+              }
+            },
             "3.5": {
-              "title": "Search by collection",
+              "title": "Search by cateogry",
               "id": 111,
               "attr": {
                 "attachment": {
