@@ -354,7 +354,7 @@
       "id": 12,
       "ideas": {
         "1": {
-          "title": "Take payments",
+          "title": "View reports",
           "id": 13,
           "attr": {
             "style": {
@@ -785,6 +785,17 @@
                 "attachment": {
                   "contentType": "text/html",
                   "content": "backlog"
+                },
+                "style": {}
+              }
+            },
+            "7": {
+              "title": "Add star rating to image",
+              "id": 141,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "https://trello.com/c/U5t4mPtj/59-rawpixel-dev-add-star-rating-to-image-create-product"
                 },
                 "style": {}
               }
